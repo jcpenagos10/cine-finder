@@ -83,12 +83,15 @@ const SORTS = {
   newest: ['Más reciente', f => f.release_date ? Date.parse(f.release_date) : null],
 };
 const DAY = 864e5;
+// "Likely at Odeon": wide UK release per TMDB, or among the most popular. Odeon's own listings can't be read.
+const TOP_POPULAR = 60;
 const FILTERS = {
-  all: ['Todas', () => true],
-  fresh: ['Nuevas', f => f.release_date && Date.now() - Date.parse(f.release_date) <= 21 * DAY],
-  gems: ['Joyas', f => f.score >= 75 && f.imdb_votes != null && f.imdb_votes < 20000],
+  likely: ['Cines grandes', f => f.likely],
+  fresh: ['Nuevas', f => f.likely && f.release_date && Date.now() - Date.parse(f.release_date) <= 21 * DAY],
+  gems: ['Joyas', f => f.likely && f.score >= 75 && f.imdb_votes != null && f.imdb_votes < 20000],
+  all: ['Todo UK', () => true],
 };
-let films = [], sort = 'combined', filter = 'all';
+let films = [], sort = 'combined', filter = 'likely';
 
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const tone = v => v == null ? '' : v >= 75 ? 'g' : v >= 60 ? 'm' : 'b';
@@ -137,9 +140,10 @@ document.getElementById('cinemas').innerHTML = CINEMAS.map(([name, slug]) =>
   `<a class="btn" href="https://cinemaguide.co.uk/cinemas/${slug}" target="_blank" rel="noopener">${name}</a>`).join('');
 
 fetch('films.json', {cache: 'no-cache'}).then(r => r.json()).then(d => {
-  films = d.films.map(f => ({...f, score: combined(f)}));
+  const popular = new Set([...d.films].sort((a, b) => (b.popularity ?? 0) - (a.popularity ?? 0)).slice(0, TOP_POPULAR).map(f => f.tmdb_id));
+  films = d.films.map(f => ({...f, score: combined(f), likely: f.wide || popular.has(f.tmdb_id)}));
   document.getElementById('updated').textContent = d.updated
-    ? `${films.length} películas en cartelera en UK · actualizado ${new Date(d.updated).toLocaleString('es', {dateStyle: 'medium', timeStyle: 'short'})}`
+    ? `${films.filter(f => f.likely).length} en cines grandes · ${films.length} en todo UK · actualizado ${new Date(d.updated).toLocaleString('es', {dateStyle: 'medium', timeStyle: 'short'})}`
     : 'Todavía sin datos: la primera actualización corre cada mañana.';
   render();
 }).catch(() => document.getElementById('updated').textContent = 'No se pudo cargar la lista.');

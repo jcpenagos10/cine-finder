@@ -8,3 +8,5 @@ Films now showing in the UK ranked by IMDb / Rotten Tomatoes / Metacritic / Lett
 - Design: `docs/superpowers/specs/2026-10-27-cine-finder-design.md`.
 
 Showtimes are links only: Odeon's site is behind a Cloudflare bot challenge (don't bypass) and cinemaguide's API is private (use only with its owner's permission).
+
+Default view "Cines grandes" = TMDB wide UK release (release type 3 in GB) OR top 60 by TMDB popularity (`TOP_POPULAR` in index.html); "Todo UK" shows everything.
