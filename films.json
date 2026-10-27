@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:32+00:00",
+ "updated": "2026-10-27T12:37+00:00",
  "films": [
   {
    "tmdb_id": 1058424,
@@ -14,10 +14,10 @@
     "Action"
    ],
    "imdb_id": "tt27369017",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 6.9,
+   "imdb_votes": 4367,
+   "rt": 78.0,
+   "metacritic": 66.0,
    "letterboxd": 3.17,
    "letterboxd_url": "https://letterboxd.com/film/hope-2026/"
   },
@@ -56,7 +56,7 @@
    "imdb_id": "tt35538033",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 96.0,
    "metacritic": null,
    "letterboxd": 3.74,
    "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/"
@@ -73,10 +73,10 @@
     "Fantasy"
    ],
    "imdb_id": "tt27419420",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 6.2,
+   "imdb_votes": 1231,
    "rt": null,
-   "metacritic": null,
+   "metacritic": 46.0,
    "letterboxd": 2.79,
    "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/"
   },
@@ -114,7 +114,7 @@
    "imdb_id": "tt31450459",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 52.0,
    "metacritic": null,
    "letterboxd": 3.91,
    "letterboxd_url": "https://letterboxd.com/film/digger-2026/"
@@ -151,7 +151,7 @@
    "imdb_id": "tt37510326",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 54.0,
    "metacritic": null,
    "letterboxd": 3.02,
    "letterboxd_url": "https://letterboxd.com/film/the-social-reckoning/"
@@ -186,9 +186,9 @@
     "Thriller"
    ],
    "imdb_id": "tt7526136",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
+   "imdb": 7.5,
+   "imdb_votes": 542,
+   "rt": 85.0,
    "metacritic": null,
    "letterboxd": 3.29,
    "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/"
@@ -206,10 +206,10 @@
     "Action"
    ],
    "imdb_id": "tt4154796",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 8.4,
+   "imdb_votes": 1497908,
+   "rt": 94.0,
+   "metacritic": 78.0,
    "letterboxd": 4.03,
    "letterboxd_url": "https://letterboxd.com/film/avengers-endgame/"
   },
@@ -244,10 +244,10 @@
     "Romance"
    ],
    "imdb_id": "tt13609648",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.2,
+   "imdb_votes": 1752,
+   "rt": 79.0,
+   "metacritic": 72.0,
    "letterboxd": 3.99,
    "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/"
   },
@@ -263,10 +263,10 @@
     "Thriller"
    ],
    "imdb_id": "tt29714073",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.2,
+   "imdb_votes": 1165,
+   "rt": 82.0,
+   "metacritic": 65.0,
    "letterboxd": 3.61,
    "letterboxd_url": "https://letterboxd.com/film/bad-apples-2025/"
   },
@@ -284,7 +284,7 @@
    "imdb_id": "tt32261958",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 31.0,
    "metacritic": null,
    "letterboxd": 2.65,
    "letterboxd_url": "https://letterboxd.com/film/verity-2026/"
@@ -304,10 +304,10 @@
     "Family"
    ],
    "imdb_id": "tt36583977",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.7,
+   "imdb_votes": 1331,
+   "rt": 95.0,
+   "metacritic": 73.0,
    "letterboxd": 3.89,
    "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/"
   },
@@ -361,10 +361,10 @@
     "Thriller"
    ],
    "imdb_id": "tt34206385",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 8.7,
+   "imdb_votes": 120,
+   "rt": 86.0,
+   "metacritic": 75.0,
    "letterboxd": 3.65,
    "letterboxd_url": "https://letterboxd.com/film/primetime-2026/"
   },
@@ -383,8 +383,8 @@
    "imdb_id": "tt36983905",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "rt": 55.0,
+   "metacritic": 53.0,
    "letterboxd": 2.82,
    "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/"
   },
@@ -403,7 +403,7 @@
    "imdb_id": "tt36841161",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 99.0,
    "metacritic": null,
    "letterboxd": 3.59,
    "letterboxd_url": "https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy-bottom/"
@@ -443,10 +443,10 @@
     "Family"
    ],
    "imdb_id": "tt0092106",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.2,
+   "imdb_votes": 45809,
+   "rt": 64.0,
+   "metacritic": 43.0,
    "letterboxd": 3.62,
    "letterboxd_url": "https://letterboxd.com/film/the-transformers-the-movie/"
   },
@@ -463,8 +463,8 @@
     "Fantasy"
    ],
    "imdb_id": "tt36103784",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 5.7,
+   "imdb_votes": 953,
    "rt": null,
    "metacritic": null,
    "letterboxd": 2.72,
@@ -484,7 +484,7 @@
    "imdb_id": "tt31969655",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 0.0,
    "metacritic": null,
    "letterboxd": 1.7,
    "letterboxd_url": "https://letterboxd.com/film/the-paradise-2026/"
@@ -525,7 +525,7 @@
    "imdb_id": "tt27050858",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 100.0,
    "metacritic": null,
    "letterboxd": 3.5,
    "letterboxd_url": "https://letterboxd.com/film/drishyam-the-conclusion/"
@@ -543,10 +543,10 @@
     "Family"
    ],
    "imdb_id": "tt0113824",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.8,
+   "imdb_votes": 85100,
+   "rt": 96.0,
+   "metacritic": 75.0,
    "letterboxd": 4.19,
    "letterboxd_url": "https://letterboxd.com/film/whisper-of-the-heart/"
   },
@@ -582,8 +582,8 @@
     "Crime"
    ],
    "imdb_id": "tt38775487",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 7.3,
+   "imdb_votes": 81,
    "rt": null,
    "metacritic": null,
    "letterboxd": 3.29,
@@ -601,10 +601,10 @@
     "History"
    ],
    "imdb_id": "tt37304295",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.3,
+   "imdb_votes": 1773,
+   "rt": 96.0,
+   "metacritic": 90.0,
    "letterboxd": 3.64,
    "letterboxd_url": "https://letterboxd.com/film/fatherland-2026/"
   },
@@ -620,10 +620,10 @@
     "War"
    ],
    "imdb_id": "tt44766123",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.9,
+   "imdb_votes": 3173,
+   "rt": 100.0,
+   "metacritic": 94.0,
    "letterboxd": 4.55,
    "letterboxd_url": "https://letterboxd.com/film/naza/"
   },
@@ -639,10 +639,10 @@
     "Drama"
    ],
    "imdb_id": "tt32432654",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 6.3,
+   "imdb_votes": 3488,
+   "rt": 88.0,
+   "metacritic": 70.0,
    "letterboxd": 3.14,
    "letterboxd_url": "https://letterboxd.com/film/girls-like-girls/"
   },
@@ -676,10 +676,10 @@
     "Horror"
    ],
    "imdb_id": "tt36629665",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 4.5,
+   "imdb_votes": 3433,
+   "rt": 40.0,
+   "metacritic": 44.0,
    "letterboxd": 2.22,
    "letterboxd_url": "https://letterboxd.com/film/her-private-hell-2026/"
   },
@@ -694,10 +694,10 @@
     "Drama"
    ],
    "imdb_id": "tt37803364",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.7,
+   "imdb_votes": 23,
+   "rt": 100.0,
+   "metacritic": 96.0,
    "letterboxd": 4.16,
    "letterboxd_url": "https://letterboxd.com/film/possible-love/"
   },
@@ -714,10 +714,10 @@
     "Family"
    ],
    "imdb_id": "tt1568921",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.6,
+   "imdb_votes": 119441,
+   "rt": 94.0,
+   "metacritic": 80.0,
    "letterboxd": 3.88,
    "letterboxd_url": "https://letterboxd.com/film/the-secret-world-of-arrietty/"
   },
@@ -733,8 +733,8 @@
     "Drama"
    ],
    "imdb_id": "tt35856133",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 8.0,
+   "imdb_votes": 1748,
    "rt": null,
    "metacritic": null,
    "letterboxd": 3.92,
@@ -850,10 +850,10 @@
     "Drama"
    ],
    "imdb_id": "tt34794183",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.2,
+   "imdb_votes": 4301,
+   "rt": 95.0,
+   "metacritic": 73.0,
    "letterboxd": 3.58,
    "letterboxd_url": "https://letterboxd.com/film/case-137-2025/"
   },
@@ -869,8 +869,8 @@
     "Music"
    ],
    "imdb_id": "tt37108970",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 7.6,
+   "imdb_votes": 229,
    "rt": null,
    "metacritic": null,
    "letterboxd": 4.0,
@@ -888,8 +888,8 @@
     "Thriller"
    ],
    "imdb_id": "tt33095205",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 8.7,
+   "imdb_votes": 1104,
    "rt": null,
    "metacritic": null,
    "letterboxd": 3.07,
@@ -906,9 +906,9 @@
     "Drama"
    ],
    "imdb_id": "tt27541205",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
+   "imdb": 7.9,
+   "imdb_votes": 52,
+   "rt": 94.0,
    "metacritic": null,
    "letterboxd": 3.84,
    "letterboxd_url": "https://letterboxd.com/film/queen-at-sea/"
@@ -945,7 +945,7 @@
    ],
    "imdb_id": "tt39150035",
    "imdb": null,
-   "imdb_votes": null,
+   "imdb_votes": 18,
    "rt": null,
    "metacritic": null,
    "letterboxd": 3.43,
@@ -981,8 +981,8 @@
     "Drama"
    ],
    "imdb_id": "tt33381528",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 8.9,
+   "imdb_votes": 1084,
    "rt": null,
    "metacritic": null,
    "letterboxd": 3.16,
@@ -1001,8 +1001,8 @@
     "Crime"
    ],
    "imdb_id": "tt41558341",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 7.0,
+   "imdb_votes": 14,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
@@ -1058,7 +1058,7 @@
    "imdb_id": "tt42643242",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 54.0,
    "metacritic": null,
    "letterboxd": 2.19,
    "letterboxd_url": "https://letterboxd.com/film/the-influencer-project/"
@@ -1133,8 +1133,8 @@
     "Documentary"
    ],
    "imdb_id": "tt43442522",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 8.6,
+   "imdb_votes": 875,
    "rt": null,
    "metacritic": null,
    "letterboxd": 4.23,
@@ -1154,7 +1154,7 @@
    "imdb_id": "tt32634611",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 74.0,
    "metacritic": null,
    "letterboxd": 3.16,
    "letterboxd_url": "https://letterboxd.com/film/daayra/"
@@ -1174,7 +1174,7 @@
    "imdb_id": "tt40856286",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 82.0,
    "metacritic": null,
    "letterboxd": 3.21,
    "letterboxd_url": "https://letterboxd.com/film/vibe-2026/"
@@ -1230,8 +1230,8 @@
     "History"
    ],
    "imdb_id": "tt5335774",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 8.3,
+   "imdb_votes": 5355,
    "rt": null,
    "metacritic": null,
    "letterboxd": 3.59,
@@ -1326,10 +1326,10 @@
     "Music"
    ],
    "imdb_id": "tt43596978",
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
+   "imdb": 7.6,
+   "imdb_votes": 232,
+   "rt": 95.0,
+   "metacritic": 72.0,
    "letterboxd": 4.04,
    "letterboxd_url": "https://letterboxd.com/film/pulp-what-do-you-do-for-an-encore/"
   },
@@ -1345,8 +1345,8 @@
     "Thriller"
    ],
    "imdb_id": "tt38712491",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 7.6,
+   "imdb_votes": 73,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
@@ -1363,8 +1363,8 @@
     "Drama"
    ],
    "imdb_id": "tt43407940",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 8.1,
+   "imdb_votes": 67,
    "rt": null,
    "metacritic": null,
    "letterboxd": 3.01,
@@ -1460,7 +1460,7 @@
    "imdb_id": "tt37677758",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 100.0,
    "metacritic": null,
    "letterboxd": 3.92,
    "letterboxd_url": "https://letterboxd.com/film/the-lost-children-of-tuam/"
@@ -1610,8 +1610,8 @@
     "Music"
    ],
    "imdb_id": "tt44568569",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 9.2,
+   "imdb_votes": 7,
    "rt": null,
    "metacritic": null,
    "letterboxd": 4.12,
@@ -1689,7 +1689,7 @@
    "imdb_id": "tt32534849",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 97.0,
    "metacritic": null,
    "letterboxd": 3.47,
    "letterboxd_url": "https://letterboxd.com/film/knife-the-attempted-murder-of-salman-rushdie/"
@@ -1708,7 +1708,7 @@
    "imdb_id": "tt37660515",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 71.0,
    "metacritic": null,
    "letterboxd": 3.38,
    "letterboxd_url": "https://letterboxd.com/film/barrio-triste/"
@@ -1743,8 +1743,8 @@
     "Documentary"
    ],
    "imdb_id": "tt44925622",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 8.3,
+   "imdb_votes": 12,
    "rt": null,
    "metacritic": null,
    "letterboxd": 3.66,
@@ -1764,7 +1764,7 @@
    "imdb_id": "tt30235784",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 95.0,
    "metacritic": null,
    "letterboxd": 3.28,
    "letterboxd_url": "https://letterboxd.com/film/winter-of-the-crow/"
@@ -1841,8 +1841,8 @@
     "Drama"
    ],
    "imdb_id": "tt27672841",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 9.2,
+   "imdb_votes": 12,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
@@ -1935,8 +1935,8 @@
     "Documentary"
    ],
    "imdb_id": "tt38390390",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 8.3,
+   "imdb_votes": 14,
    "rt": null,
    "metacritic": null,
    "letterboxd": 3.58,
@@ -2063,7 +2063,7 @@
    "imdb_id": "tt37654454",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 98.0,
    "metacritic": null,
    "letterboxd": 3.77,
    "letterboxd_url": "https://letterboxd.com/film/boorman-and-the-devil/"
@@ -2080,8 +2080,8 @@
     "Comedy"
    ],
    "imdb_id": "tt44862836",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 9.7,
+   "imdb_votes": 1031,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
@@ -2227,8 +2227,8 @@
     "Family"
    ],
    "imdb_id": "tt43201279",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 7.6,
+   "imdb_votes": 13,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
@@ -2266,8 +2266,8 @@
     "Drama"
    ],
    "imdb_id": "tt43637896",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 8.4,
+   "imdb_votes": 11,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
@@ -2418,7 +2418,7 @@
    "imdb_id": "tt33365660",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 74.0,
    "metacritic": null,
    "letterboxd": 3.09,
    "letterboxd_url": "https://letterboxd.com/film/by-design-2025/"
@@ -2654,8 +2654,8 @@
     "Drama"
    ],
    "imdb_id": "tt43641694",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 8.6,
+   "imdb_votes": 51,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
@@ -2674,8 +2674,8 @@
    ],
    "imdb_id": "tt38063160",
    "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
+   "imdb_votes": 27,
+   "rt": 100.0,
    "metacritic": null,
    "letterboxd": 3.9,
    "letterboxd_url": "https://letterboxd.com/film/the-cycle-of-love/"
@@ -2787,7 +2787,7 @@
    "imdb_id": "tt34798706",
    "imdb": null,
    "imdb_votes": null,
-   "rt": null,
+   "rt": 100.0,
    "metacritic": null,
    "letterboxd": 3.6,
    "letterboxd_url": "https://letterboxd.com/film/extra-geography/"
@@ -2917,8 +2917,8 @@
     "Drama"
    ],
    "imdb_id": "tt32625448",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 9.5,
+   "imdb_votes": 6,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
@@ -3027,8 +3027,8 @@
     "Fantasy"
    ],
    "imdb_id": "tt47091674",
-   "imdb": null,
-   "imdb_votes": null,
+   "imdb": 6.8,
+   "imdb_votes": 10,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
