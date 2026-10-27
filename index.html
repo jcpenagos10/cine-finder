@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cine Finder</title>
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@300..700&family=Google+Sans+Code:wght@400..500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --surface:#fdfcfc;--surface-dim:#f2f0f0;--surface-bright:#fff;--surface-high:#e6e6e6;
+  --on-surface:#000;--on-variant:rgba(0,0,0,.55);
+  --accent:#3186ff;--accent-container:#dcf1ff;--stroke:#e3e3e3;--outline:#727676;
+  --good:#1e8e3e;--mid:#b06000;--bad:#c5221f;
+  --sans:'Google Sans Flex','Google Sans',system-ui,sans-serif;--mono:'Google Sans Code',ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root{
+  --surface:#0f0f0f;--surface-dim:#141414;--surface-bright:#1c1c1c;--surface-high:#262626;
+  --on-surface:#e0e0e0;--on-variant:rgba(255,255,255,.55);
+  --accent:#9dd2ff;--accent-container:#192967;--stroke:#2d2f38;--outline:#9a9b9c;
+  --good:#81c995;--mid:#fdd663;--bad:#f28b82;
+}}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{font:15px/20px var(--sans);background:var(--surface);color:var(--on-surface);-webkit-font-smoothing:antialiased}
+main{max-width:760px;margin:0 auto;padding:16px;display:flex;flex-direction:column;gap:16px}
+h1{margin:0;font-size:24px;line-height:28px;font-weight:500}
+.sub{margin:4px 0 0;color:var(--on-variant);font-size:13px}
+.deck{background:var(--surface-dim);border-radius:12px;padding:12px;display:flex;flex-direction:column;gap:8px}
+.deck small{color:var(--on-variant);font-size:12px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+button,a.btn{font:500 13px var(--sans);border-radius:999px;border:1px solid var(--stroke);background:var(--surface-bright);color:var(--on-surface);min-height:36px;padding:0 14px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center}
+button:hover,a.btn:hover{background:var(--surface-high)}
+button.on{background:var(--accent-container);color:var(--accent);border-color:transparent}
+#list{display:flex;flex-direction:column;gap:8px}
+.card{background:var(--surface-bright);border:1px solid var(--stroke);border-radius:12px;padding:12px;display:grid;grid-template-columns:72px 1fr auto;gap:12px;align-items:start}
+.card img,.noimg{width:72px;height:108px;object-fit:cover;border-radius:8px;background:var(--surface-high)}
+.card h2{margin:0;font-size:16px;line-height:20px;font-weight:600}
+.meta{color:var(--on-variant);font-size:13px;margin:2px 0 8px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:12px var(--mono);padding:3px 8px;border-radius:999px;background:var(--surface-dim);color:var(--on-surface);text-decoration:none;white-space:nowrap}
+.chip.na{color:var(--on-variant)}
+.score{font:600 22px/28px var(--sans);text-align:center;min-width:44px}
+.score small{display:block;font:400 11px var(--sans);color:var(--on-variant)}
+.g{color:var(--good)}.m{color:var(--mid)}.b{color:var(--bad)}
+.empty{color:var(--on-variant);text-align:center;padding:24px}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Cine Finder</h1>
+    <p class="sub" id="updated">Cargando…</p>
+  </header>
+
+  <section class="deck">
+    <small>Horarios en cinemaguide</small>
+    <div class="row" id="cinemas"></div>
+  </section>
+
+  <section class="deck">
+    <small>Ordenar</small>
+    <div class="row" id="sort"></div>
+    <small>Filtro</small>
+    <div class="row" id="filter"></div>
+  </section>
+
+  <div id="list"></div>
+</main>
+<script>
+const CINEMAS = [
+  ['Leicester Sq', 'odeon-london-leicester-square'],
+  ['West End', 'odeon-london-west-end'],
+  ['Haymarket', 'odeon-london-haymarket'],
+  ['Tottenham Ct Rd', 'odeon-london-tottenham-court-road'],
+  ['Swiss Cottage', 'odeon-swiss-cottage'],
+  ['Greenwich', 'odeon-greenwich'],
+];
+const SORTS = {
+  combined: ['Combinada', f => f.score],
+  imdb: ['IMDb', f => f.imdb],
+  rt: ['Rotten Tomatoes', f => f.rt],
+  letterboxd: ['Letterboxd', f => f.letterboxd],
+  newest: ['Más reciente', f => f.release_date ? Date.parse(f.release_date) : null],
+};
+const DAY = 864e5;
+const FILTERS = {
+  all: ['Todas', () => true],
+  fresh: ['Nuevas', f => f.release_date && Date.now() - Date.parse(f.release_date) <= 21 * DAY],
+  gems: ['Joyas', f => f.score >= 75 && f.imdb_votes != null && f.imdb_votes < 20000],
+};
+let films = [], sort = 'combined', filter = 'all';
+
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const tone = v => v == null ? '' : v >= 75 ? 'g' : v >= 60 ? 'm' : 'b';
+
+// Mean of the available ratings on a 0-100 scale; fewer than two ratings counts as unrated.
+function combined(f) {
+  const v = [f.imdb && f.imdb * 10, f.rt, f.metacritic, f.letterboxd && f.letterboxd * 20].filter(x => x != null);
+  return v.length >= 2 ? Math.round(v.reduce((a, b) => a + b) / v.length) : null;
+}
+
+function chip(label, value, url) {
+  const cls = value == null ? 'chip na' : 'chip';
+  const text = `${label} ${value ?? '–'}`;
+  return url ? `<a class="${cls}" href="${esc(url)}" target="_blank" rel="noopener">${esc(text)}</a>` : `<span class="${cls}">${esc(text)}</span>`;
+}
+
+function card(f) {
+  const meta = [f.year, f.runtime && `${f.runtime} min`, f.genres.slice(0, 3).join(', ')].filter(Boolean).join(' · ');
+  const img = f.poster ? `<img src="${esc(f.poster)}" alt="" loading="lazy">` : '<div class="noimg"></div>';
+  return `<article class="card">${img}
+    <div><h2>${esc(f.title)}</h2><div class="meta">${esc(meta)}</div>
+      <div class="chips">
+        ${chip('IMDb', f.imdb, f.imdb_id && `https://www.imdb.com/title/${f.imdb_id}/`)}
+        ${chip('RT', f.rt != null ? f.rt + '%' : null, `https://www.rottentomatoes.com/search?search=${encodeURIComponent(f.title)}`)}
+        ${chip('MC', f.metacritic, null)}
+        ${chip('LB', f.letterboxd?.toFixed(1), f.letterboxd_url)}
+      </div></div>
+    <div class="score ${tone(f.score)}">${f.score ?? '–'}<small>/100</small></div>
+  </article>`;
+}
+
+function buttons(el, opts, current, set) {
+  el.innerHTML = Object.entries(opts).map(([k, [label]]) => `<button data-k="${k}" class="${k === current ? 'on' : ''}">${label}</button>`).join('');
+  el.onclick = e => { const k = e.target.dataset.k; if (k) { set(k); render(); } };
+}
+
+function render() {
+  buttons(document.getElementById('sort'), SORTS, sort, k => sort = k);
+  buttons(document.getElementById('filter'), FILTERS, filter, k => filter = k);
+  const key = SORTS[sort][1];
+  const shown = films.filter(FILTERS[filter][1]).sort((a, b) => (key(b) ?? -Infinity) - (key(a) ?? -Infinity));
+  document.getElementById('list').innerHTML = shown.length ? shown.map(card).join('') : '<p class="empty">Nada por aquí con este filtro.</p>';
+}
+
+document.getElementById('cinemas').innerHTML = CINEMAS.map(([name, slug]) =>
+  `<a class="btn" href="https://cinemaguide.co.uk/cinemas/${slug}" target="_blank" rel="noopener">${name}</a>`).join('');
+
+fetch('films.json', {cache: 'no-cache'}).then(r => r.json()).then(d => {
+  films = d.films.map(f => ({...f, score: combined(f)}));
+  document.getElementById('updated').textContent = d.updated
+    ? `${films.length} películas en cartelera en UK · actualizado ${new Date(d.updated).toLocaleString('es', {dateStyle: 'medium', timeStyle: 'short'})}`
+    : 'Todavía sin datos: la primera actualización corre cada mañana.';
+  render();
+}).catch(() => document.getElementById('updated').textContent = 'No se pudo cargar la lista.');
+</script>
+</body>
+</html>
