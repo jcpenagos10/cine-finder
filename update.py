@@ -39,12 +39,6 @@ def parse_letterboxd(html):
     return float(m.group(1)) if m else None
 
 
-def wide_uk(release_dates):
-    """True if TMDB lists a wide theatrical release (type 3) in the UK."""
-    gb = next((c for c in release_dates.get("results", []) if c["iso_3166_1"] == "GB"), {})
-    return any(r.get("type") == 3 for r in gb.get("release_dates", []))
-
-
 def tmdb(path, key, **params):
     q = urllib.parse.urlencode({"api_key": key, **params})
     return get(f"https://api.themoviedb.org/3{path}?{q}")
@@ -68,16 +62,15 @@ def main():
             "year": (f.get("release_date") or "")[:4] or None,
             "poster": f"https://image.tmdb.org/t/p/w342{f['poster_path']}" if f.get("poster_path") else None,
             "runtime": None, "genres": [], "imdb_id": None,
-            "popularity": f.get("popularity"), "wide": False,
+            "popularity": f.get("popularity"),
             "imdb": None, "imdb_votes": None, "rt": None, "metacritic": None,
             "letterboxd": None, "letterboxd_url": None,
         }
         try:
-            det = tmdb(f"/movie/{f['id']}", tk, append_to_response="external_ids,release_dates")
+            det = tmdb(f"/movie/{f['id']}", tk, append_to_response="external_ids")
             film["runtime"] = det.get("runtime") or None
             film["genres"] = [g["name"] for g in det.get("genres", [])]
             film["imdb_id"] = det["external_ids"].get("imdb_id")
-            film["wide"] = wide_uk(det.get("release_dates", {}))
         except Exception as e:
             print("tmdb detail", f["title"], e, file=sys.stderr)
         if film["imdb_id"]:
@@ -106,9 +99,6 @@ def selftest():
     assert parse_omdb({"imdbRating": "N/A", "imdbVotes": "N/A"})["imdb_votes"] is None
     assert parse_letterboxd('<meta name="twitter:data2" content="4.10 out of 5" />') == 4.1
     assert parse_letterboxd("<html>no rating yet</html>") is None
-    rd = {"results": [{"iso_3166_1": "US", "release_dates": [{"type": 3}]},
-                      {"iso_3166_1": "GB", "release_dates": [{"type": 2}, {"type": 3}]}]}
-    assert wide_uk(rd) and not wide_uk({"results": [rd["results"][0]]}) and not wide_uk({})
     print("selftest ok")
 
 

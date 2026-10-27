@@ -42,6 +42,7 @@ button.on{background:var(--accent-container);color:var(--accent);border-color:tr
 .score{font:600 22px/28px var(--sans);text-align:center;min-width:44px}
 .score small{display:block;font:400 11px var(--sans);color:var(--on-variant)}
 .g{color:var(--good)}.m{color:var(--mid)}.b{color:var(--bad)}
+button.seen{min-height:30px;margin-top:8px;font-size:12px;padding:0 12px}
 .empty{color:var(--on-variant);text-align:center;padding:24px}
 </style>
 </head>
@@ -83,15 +84,27 @@ const SORTS = {
   newest: ['Más reciente', f => f.release_date ? Date.parse(f.release_date) : null],
 };
 const DAY = 864e5;
-// "Likely at Odeon": wide UK release per TMDB, or among the most popular. Odeon's own listings can't be read.
-const TOP_POPULAR = 60;
+// "Likely at Odeon" = among the most popular on TMDB. Odeon's own listings can't be read, and TMDB's
+// wide-release tag marked ~70% of films so it didn't filter anything.
+const TOP_POPULAR = 30;
 const FILTERS = {
-  likely: ['Cines grandes', f => f.likely],
-  fresh: ['Nuevas', f => f.likely && f.release_date && Date.now() - Date.parse(f.release_date) <= 21 * DAY],
-  gems: ['Joyas', f => f.likely && f.score >= 75 && f.imdb_votes != null && f.imdb_votes < 20000],
-  all: ['Todo UK', () => true],
+  likely: ['Cines grandes', f => f.likely && !f.seen],
+  fresh: ['Nuevas', f => f.likely && !f.seen && f.release_date && Date.now() - Date.parse(f.release_date) <= 21 * DAY],
+  gems: ['Joyas', f => !f.seen && f.score >= 75 && f.imdb_votes != null && f.imdb_votes < 20000],
+  all: ['Todo UK', f => !f.seen],
+  seen: ['Ya vistas', f => f.seen],
 };
 let films = [], sort = 'combined', filter = 'likely';
+
+// Seen films live only in this browser (iPhone and Mac keep separate lists).
+let seen = new Set();
+try { seen = new Set(JSON.parse(localStorage.getItem('seen') || '[]')); } catch {}
+function toggleSeen(id) {
+  seen.has(id) ? seen.delete(id) : seen.add(id);
+  try { localStorage.setItem('seen', JSON.stringify([...seen])); } catch {}
+  films.forEach(f => f.seen = seen.has(f.tmdb_id));
+  render();
+}
 
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const tone = v => v == null ? '' : v >= 75 ? 'g' : v >= 60 ? 'm' : 'b';
@@ -118,7 +131,8 @@ function card(f) {
         ${chip('RT', f.rt != null ? f.rt + '%' : null, `https://www.rottentomatoes.com/search?search=${encodeURIComponent(f.title)}`)}
         ${chip('MC', f.metacritic, null)}
         ${chip('LB', f.letterboxd?.toFixed(1), f.letterboxd_url)}
-      </div></div>
+      </div>
+      <button class="seen ${f.seen ? 'on' : ''}" data-seen="${f.tmdb_id}">${f.seen ? '✓ Vista' : 'Ya la vi'}</button></div>
     <div class="score ${tone(f.score)}">${f.score ?? '–'}<small>/100</small></div>
   </article>`;
 }
@@ -136,12 +150,14 @@ function render() {
   document.getElementById('list').innerHTML = shown.length ? shown.map(card).join('') : '<p class="empty">Nada por aquí con este filtro.</p>';
 }
 
+document.getElementById('list').onclick = e => { const id = e.target.dataset.seen; if (id) toggleSeen(+id); };
+
 document.getElementById('cinemas').innerHTML = CINEMAS.map(([name, slug]) =>
   `<a class="btn" href="https://cinemaguide.co.uk/cinemas/${slug}" target="_blank" rel="noopener">${name}</a>`).join('');
 
 fetch('films.json', {cache: 'no-cache'}).then(r => r.json()).then(d => {
   const popular = new Set([...d.films].sort((a, b) => (b.popularity ?? 0) - (a.popularity ?? 0)).slice(0, TOP_POPULAR).map(f => f.tmdb_id));
-  films = d.films.map(f => ({...f, score: combined(f), likely: f.wide || popular.has(f.tmdb_id)}));
+  films = d.films.map(f => ({...f, score: combined(f), likely: popular.has(f.tmdb_id), seen: seen.has(f.tmdb_id)}));
   document.getElementById('updated').textContent = d.updated
     ? `${films.filter(f => f.likely).length} en cines grandes · ${films.length} en todo UK · actualizado ${new Date(d.updated).toLocaleString('es', {dateStyle: 'medium', timeStyle: 'short'})}`
     : 'Todavía sin datos: la primera actualización corre cada mañana.';

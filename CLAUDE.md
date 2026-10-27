@@ -9,4 +9,5 @@ Films now showing in the UK ranked by IMDb / Rotten Tomatoes / Metacritic / Lett
 
 Showtimes are links only: Odeon's site is behind a Cloudflare bot challenge (don't bypass) and cinemaguide's API is private (use only with its owner's permission).
 
-Default view "Cines grandes" = TMDB wide UK release (release type 3 in GB) OR top 60 by TMDB popularity (`TOP_POPULAR` in index.html); "Todo UK" shows everything.
+Default view "Cines grandes" = top 30 by TMDB popularity (`TOP_POPULAR` in index.html); "Todo UK" shows everything. TMDB's UK wide-release tag (type 3) was tried and dropped: ~70% of films had it.
+"Ya la vi" marks are in localStorage (`seen`, TMDB ids), per browser: iPhone and Mac don't sync.
