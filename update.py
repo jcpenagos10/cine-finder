@@ -63,6 +63,8 @@ def main():
             "poster": f"https://image.tmdb.org/t/p/w342{f['poster_path']}" if f.get("poster_path") else None,
             "runtime": None, "genres": [], "imdb_id": None,
             "popularity": f.get("popularity"),
+            # ponytail: under 20 votes TMDB's average is noise, so it's dropped
+            "tmdb": f.get("vote_average") if f.get("vote_count", 0) >= 20 else None,
             "imdb": None, "imdb_votes": None, "rt": None, "metacritic": None,
             "letterboxd": None, "letterboxd_url": None,
         }

@@ -110,8 +110,10 @@ const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;
 const tone = v => v == null ? '' : v >= 75 ? 'g' : v >= 60 ? 'm' : 'b';
 
 // Mean of the available ratings on a 0-100 scale; fewer than two ratings counts as unrated.
+// TMDB's audience score stands in for IMDb while OMDb hasn't caught up on a new release.
 function combined(f) {
-  const v = [f.imdb && f.imdb * 10, f.rt, f.metacritic, f.letterboxd && f.letterboxd * 20].filter(x => x != null);
+  const audience = f.imdb ?? f.tmdb;
+  const v = [audience && audience * 10, f.rt, f.metacritic, f.letterboxd && f.letterboxd * 20].filter(x => x != null);
   return v.length >= 2 ? Math.round(v.reduce((a, b) => a + b) / v.length) : null;
 }
 
@@ -131,6 +133,7 @@ function card(f) {
         ${chip('RT', f.rt != null ? f.rt + '%' : null, `https://www.rottentomatoes.com/search?search=${encodeURIComponent(f.title)}`)}
         ${chip('MC', f.metacritic, null)}
         ${chip('LB', f.letterboxd?.toFixed(1), f.letterboxd_url)}
+        ${chip('TMDB', f.tmdb?.toFixed(1), `https://www.themoviedb.org/movie/${f.tmdb_id}`)}
       </div>
       <button class="seen ${f.seen ? 'on' : ''}" data-seen="${f.tmdb_id}">${f.seen ? '✓ Vista' : 'Ya la vi'}</button></div>
     <div class="score ${tone(f.score)}">${f.score ?? '–'}<small>/100</small></div>

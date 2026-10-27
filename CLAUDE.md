@@ -11,3 +11,4 @@ Showtimes are links only: Odeon's site is behind a Cloudflare bot challenge (don
 
 Default view "Cines grandes" = top 30 by TMDB popularity (`TOP_POPULAR` in index.html); "Todo UK" shows everything. TMDB's UK wide-release tag (type 3) was tried and dropped: ~70% of films had it.
 "Ya la vi" marks are in localStorage (`seen`, TMDB ids), per browser: iPhone and Mac don't sync.
+OMDb lags IMDb on new releases (imdbRating "N/A" for weeks); TMDB vote_average (≥20 votes) is shown and stands in for IMDb in the combined score. Do not scrape IMDb (its terms forbid it).
