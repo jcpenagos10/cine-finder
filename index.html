@@ -181,10 +181,11 @@ const MOODS = { // [label, test, the opposite button it switches off]
   corta: ['Corta (≤1h45)', f => f.runtime && f.runtime <= 105],
   clasica: ['Clásica', f => +f.year <= 2004, 'reciente'],
   reciente: ['Reciente', f => +f.year >= 2018, 'clasica'],
+  nueva: ['✨ Sorpréndeme', () => true], // all 3 suggestions come from the "para descubrir" pool
 };
 const SERVICES = ['Netflix', 'Prime Video', 'Disney+', 'HBO Max'];
 // Ranking knobs for "En casa": taste is scaled to 0-1, then quality, genre sliders and a little shuffle are added.
-const QUALITY = 0.35, SLIDER = 0.25, JITTER = 0.15, SEEDS = 10;
+const QUALITY = 0.35, SLIDER = 0.25, JITTER = 0.15, SEEDS = 10, FRESH_VOTES = 1000; // "para descubrir" skips niche films
 
 const store = {
   get(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } },
@@ -241,7 +242,7 @@ function rateButtons(f) {
   return `<button class="${r >= 0 ? 'on' : ''}" data-act="open" data-id="${id}">${label}</button>`;
 }
 
-function card(f, why) {
+function card(f, why, fresh) {
   const meta = [f.year, f.runtime && `${f.runtime} min`, f.genres.slice(0, 3).map(g => GENRES[g] || g).join(', ')].filter(Boolean).join(' · ');
   const img = f.poster ? `<img src="${esc(f.poster)}" alt="" loading="lazy">` : '<div class="noimg"></div>';
   const atHome = why !== undefined, because = why && ix.byId.get(why);
@@ -255,7 +256,8 @@ function card(f, why) {
         ${atHome ? '' : chip('LB', f.letterboxd?.toFixed(1), f.letterboxd_url)}
         ${chip('TMDB', f.tmdb?.toFixed(1), `https://www.themoviedb.org/movie/${f.tmdb_id}`)}
       </div>
-      ${because ? `<p class="why">Porque ${mode === 'me' ? 'te gustó' : 'les gustó'} ${esc(because.title)}</p>` : ''}
+      ${fresh ? `<p class="why">✨ Para descubrir: distinta a lo que ${mode === 'me' ? 'sueles' : 'suelen'} ver y muy bien valorada</p>`
+        : because ? `<p class="why">Porque ${mode === 'me' ? 'te gustó' : 'les gustó'} ${esc(because.title)}</p>` : ''}
       <div class="acts">${rateButtons(f)}${atHome && rateOpen !== f.tmdb_id ? `<button data-act="nope" data-id="${f.tmdb_id}">No me llama</button>
         <a class="btn" href="https://www.themoviedb.org/movie/${f.tmdb_id}/watch?locale=GB" target="_blank" rel="noopener">Dónde verla</a>` : ''}</div></div>
     <div class="score ${tone(f.score)}">${f.score ?? '–'}<small>/100</small></div>
@@ -264,7 +266,7 @@ function card(f, why) {
 
 const seg = (el, items, current, act) => el.innerHTML = items.map(([k, label]) => `<button data-act="${act}" data-v="${k}" class="${k === current ? 'on' : ''}">${label}</button>`).join('');
 
-// Films the current profile hasn't rated, on the chosen services, passing mood and filters, best first.
+// Films the current profile hasn't rated, on the chosen services, passing mood and filters.
 function ranked() {
   const cands = home.filter(f => f.providers.some(p => opts.services.includes(p)) && !rated(f.tmdb_id)
     && Object.entries(opts.mood).every(([k, on]) => !on || MOODS[k][1](f))
@@ -273,10 +275,26 @@ function ranked() {
   return cands.map(f => {
     const t = tastes.get(f.tmdb_id);
     if (!jitter.has(f.tmdb_id)) jitter.set(f.tmdb_id, Math.random() * JITTER);
-    const rank = t.score / max + QUALITY * ((quality(f) ?? 60) - 60) / 40 + jitter.get(f.tmdb_id)
-      + f.genres.reduce((a, g) => a + (opts.sliders[g] || 0) * SLIDER, 0);
-    return [f, rank, t.score > 0 ? t.why : null];
-  }).sort((a, b) => b[1] - a[1]);
+    const extra = jitter.get(f.tmdb_id) + f.genres.reduce((a, g) => a + (opts.sliders[g] || 0) * SLIDER, 0);
+    const q = ((quality(f) ?? 60) - 60) / 40;
+    return {f, rank: t.score / max + QUALITY * q + extra, freshRank: q + extra, score: t.score, why: t.score > 0 ? t.why : null};
+  });
+}
+
+// Every third suggestion (all three with "Sorpréndeme") is "para descubrir": the best rated among films
+// less like your favourites than the median, but not like the ones you disliked (score < 0).
+function suggestions() {
+  const list = ranked(), scores = list.map(x => x.score).sort((a, b) => a - b), median = scores[scores.length >> 1];
+  const fit = [...list].sort((a, b) => b.rank - a.rank);
+  const fresh = list.filter(x => x.score >= 0 && x.score <= median && (x.f.votes ?? 0) >= FRESH_VOTES).sort((a, b) => b.freshRank - a.freshRank);
+  const used = new Set(), pos = {fit: 0, fresh: 0}, src = {fit, fresh}, out = [];
+  const take = k => { while (pos[k] < src[k].length) { const x = src[k][pos[k]++]; if (!used.has(x)) { used.add(x); return x; } } };
+  while (out.length < list.length) {
+    const want = opts.mood.nueva || out.length % 3 === 2 ? 'fresh' : 'fit';
+    const x = take(want);
+    out.push(x ? {...x, fresh: want === 'fresh'} : take('fit'));
+  }
+  return out;
 }
 
 function renderHome() {
@@ -286,9 +304,9 @@ function renderHome() {
   if (seeding) return renderGrid();
   $('moods').innerHTML = Object.entries(MOODS).map(([k, [label]]) => `<button data-act="mood" data-v="${k}" class="${opts.mood[k] ? 'on' : ''}">${label}</button>`).join('');
   $('services').innerHTML = SERVICES.map(s => `<button data-act="svc" data-v="${s}" class="${opts.services.includes(s) ? 'on' : ''}">${s}</button>`).join('');
-  const list = ranked();
+  const list = suggestions();
   if (page * 3 >= list.length) page = 0;
-  $('homeList').innerHTML = list.length ? list.slice(page * 3, page * 3 + 3).map(([f, , why]) => card(f, why)).join('')
+  $('homeList').innerHTML = list.length ? list.slice(page * 3, page * 3 + 3).map(x => card(x.f, x.why, x.fresh)).join('')
     : '<p class="empty">Nada con estos filtros. Prueba quitando alguno.</p>';
 }
 
