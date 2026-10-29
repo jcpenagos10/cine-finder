@@ -87,6 +87,7 @@ def main():
             "tmdb": f.get("vote_average") if f.get("vote_count", 0) >= 20 else None,
             "imdb": None, "imdb_votes": None, "rt": None, "metacritic": None,
             "letterboxd": None, "letterboxd_url": None,
+            "plot": f.get("overview") or None,
         }
         try:
             film.update(parse_details(tmdb(f"/movie/{f['id']}", tk, append_to_response=DETAILS)))
@@ -176,7 +177,7 @@ def home(tk, ok, cinema):
                  "poster": f"https://image.tmdb.org/t/p/w342{r['poster_path']}" if r.get("poster_path") else None,
                  "imdb": None, "imdb_votes": None, "rt": None, "metacritic": None, "omdb_at": None,
                  **parse_details(det)}
-        f.update(popularity=r.get("popularity"), votes=r.get("vote_count"),
+        f.update(popularity=r.get("popularity"), votes=r.get("vote_count"), plot=r.get("overview") or None,
                  tmdb=r.get("vote_average") if r.get("vote_count", 0) >= 20 else None,
                  providers=sorted(providers.get(fid, [])))
         out[fid] = f
