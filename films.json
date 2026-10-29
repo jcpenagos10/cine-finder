@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:36+00:00",
+ "updated": "2026-10-29T12:46+00:00",
  "films": [
   {
    "tmdb_id": 1058424,
@@ -14,8 +14,8 @@
     "Action"
    ],
    "imdb_id": "tt27369017",
-   "popularity": 526.0192,
-   "tmdb": 6.7,
+   "popularity": 509.9983,
+   "tmdb": 6.78,
    "imdb": 6.9,
    "imdb_votes": 4367,
    "rt": 78.0,
@@ -36,8 +36,8 @@
     "Science Fiction"
    ],
    "imdb_id": "tt34890576",
-   "popularity": 251.5349,
-   "tmdb": 7.467,
+   "popularity": 231.682,
+   "tmdb": 7.483,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
@@ -58,8 +58,8 @@
     "Fantasy"
    ],
    "imdb_id": "tt2056785",
-   "popularity": 154.7558,
-   "tmdb": 8.639,
+   "popularity": 152.4449,
+   "tmdb": 8.6,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
@@ -80,8 +80,8 @@
     "Drama"
    ],
    "imdb_id": "tt32261958",
-   "popularity": 138.1498,
-   "tmdb": 6.4,
+   "popularity": 179.6426,
+   "tmdb": 6.3,
    "imdb": null,
    "imdb_votes": null,
    "rt": 31.0,
@@ -101,8 +101,8 @@
     "Fantasy"
    ],
    "imdb_id": "tt27419420",
-   "popularity": 127.6293,
-   "tmdb": 6.4,
+   "popularity": 116.5205,
+   "tmdb": 6.3,
    "imdb": 6.2,
    "imdb_votes": 1231,
    "rt": null,
@@ -125,8 +125,8 @@
     "Family"
    ],
    "imdb_id": "tt36583977",
-   "popularity": 104.3815,
-   "tmdb": 7.6,
+   "popularity": 115.6275,
+   "tmdb": 7.504,
    "imdb": 7.7,
    "imdb_votes": 1331,
    "rt": 95.0,
@@ -145,8 +145,8 @@
     "Horror"
    ],
    "imdb_id": "tt36586020",
-   "popularity": 97.2845,
-   "tmdb": 5.8,
+   "popularity": 93.7702,
+   "tmdb": 5.842,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
@@ -155,24 +155,46 @@
    "letterboxd_url": "https://letterboxd.com/film/other-mommy/"
   },
   {
-   "tmdb_id": 1255833,
-   "title": "Whalefall",
-   "release_date": "2026-10-16",
+   "tmdb_id": 1503762,
+   "title": "Sense and Sensibility",
+   "release_date": "2026-09-25",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-   "runtime": 106,
+   "poster": "https://image.tmdb.org/t/p/w342/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+   "runtime": 132,
    "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "imdb_id": "tt13609648",
+   "popularity": 92.5104,
+   "tmdb": 7.4,
+   "imdb": 7.2,
+   "imdb_votes": 1752,
+   "rt": 79.0,
+   "metacritic": 72.0,
+   "letterboxd": 3.98,
+   "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/"
+  },
+  {
+   "tmdb_id": 1263337,
+   "title": "Heart of the Beast",
+   "release_date": "2026-09-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+   "runtime": 101,
+   "genres": [
+    "Adventure",
     "Thriller"
    ],
-   "imdb_id": "tt28535715",
-   "popularity": 79.2953,
-   "tmdb": 6.623,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
+   "imdb_id": "tt7526136",
+   "popularity": 79.4377,
+   "tmdb": 7.331,
+   "imdb": 7.5,
+   "imdb_votes": 542,
+   "rt": 85.0,
    "metacritic": null,
-   "letterboxd": 3.22,
-   "letterboxd_url": "https://letterboxd.com/film/whalefall/"
+   "letterboxd": 3.29,
+   "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/"
   },
   {
    "tmdb_id": 1248832,
@@ -186,8 +208,8 @@
     "Drama"
    ],
    "imdb_id": "tt31450459",
-   "popularity": 76.9765,
-   "tmdb": 7.5,
+   "popularity": 75.6082,
+   "tmdb": 7.489,
    "imdb": null,
    "imdb_votes": null,
    "rt": 52.0,
@@ -208,8 +230,8 @@
     "Action"
    ],
    "imdb_id": "tt4154796",
-   "popularity": 76.6856,
-   "tmdb": 8.2,
+   "popularity": 75.8559,
+   "tmdb": 8.247,
    "imdb": 8.4,
    "imdb_votes": 1497908,
    "rt": 94.0,
@@ -218,67 +240,65 @@
    "letterboxd_url": "https://letterboxd.com/film/avengers-endgame/"
   },
   {
-   "tmdb_id": 1263337,
-   "title": "Heart of the Beast",
-   "release_date": "2026-09-23",
+   "tmdb_id": 1255833,
+   "title": "Whalefall",
+   "release_date": "2026-10-16",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+   "runtime": 106,
    "genres": [
-    "Adventure",
     "Thriller"
    ],
-   "imdb_id": "tt7526136",
-   "popularity": 77.8195,
-   "tmdb": 7.327,
-   "imdb": 7.5,
-   "imdb_votes": 542,
-   "rt": 85.0,
-   "metacritic": null,
-   "letterboxd": 3.29,
-   "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/"
-  },
-  {
-   "tmdb_id": 1433583,
-   "title": "The Weight",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-   "runtime": 112,
-   "genres": [
-    "Drama",
-    "Thriller"
-   ],
-   "imdb_id": "tt10794054",
-   "popularity": 66.7089,
-   "tmdb": 6.68,
+   "imdb_id": "tt28535715",
+   "popularity": 75.2818,
+   "tmdb": 6.6,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": 3.47,
-   "letterboxd_url": "https://letterboxd.com/film/the-weight-2026/"
+   "letterboxd": 3.21,
+   "letterboxd_url": "https://letterboxd.com/film/whalefall/"
   },
   {
-   "tmdb_id": 1503762,
-   "title": "Sense and Sensibility",
-   "release_date": "2026-09-25",
+   "tmdb_id": 1376400,
+   "title": "Crawlers",
+   "release_date": "2026-10-30",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-   "runtime": 132,
+   "poster": "https://image.tmdb.org/t/p/w342/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+   "runtime": 80,
    "genres": [
-    "Drama",
-    "Romance"
+    "Horror",
+    "Thriller"
    ],
-   "imdb_id": "tt13609648",
-   "popularity": 86.2164,
-   "tmdb": 7.329,
-   "imdb": 7.2,
-   "imdb_votes": 1752,
-   "rt": 79.0,
-   "metacritic": 72.0,
-   "letterboxd": 3.99,
-   "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/"
+   "imdb_id": "tt32329539",
+   "popularity": 101.3514,
+   "tmdb": 6.1,
+   "imdb": 4.8,
+   "imdb_votes": 72,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 2.24,
+   "letterboxd_url": "https://letterboxd.com/film/crawlers-2026/"
+  },
+  {
+   "tmdb_id": 1727734,
+   "title": "Ali G: Who Iz I?",
+   "release_date": "2026-10-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+   "runtime": 89,
+   "genres": [
+    "Comedy"
+   ],
+   "imdb_id": "tt43655467",
+   "popularity": 71.8228,
+   "tmdb": 5.6,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 2.93,
+   "letterboxd_url": "https://letterboxd.com/film/ali-g-who-iz-i/"
   },
   {
    "tmdb_id": 1195803,
@@ -293,7 +313,7 @@
     "Comedy"
    ],
    "imdb_id": "tt29611136",
-   "popularity": 68.1485,
+   "popularity": 71.3542,
    "tmdb": null,
    "imdb": 7.4,
    "imdb_votes": 376,
@@ -303,25 +323,25 @@
    "letterboxd_url": "https://letterboxd.com/film/wicker/"
   },
   {
-   "tmdb_id": 1375441,
-   "title": "Primetime",
-   "release_date": "2026-10-28",
+   "tmdb_id": 1433583,
+   "title": "The Weight",
+   "release_date": "2026-10-02",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-   "runtime": 110,
+   "poster": "https://image.tmdb.org/t/p/w342/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+   "runtime": 112,
    "genres": [
     "Drama",
     "Thriller"
    ],
-   "imdb_id": "tt34206385",
-   "popularity": 60.8817,
-   "tmdb": 6.8,
-   "imdb": 8.7,
-   "imdb_votes": 120,
-   "rt": 86.0,
-   "metacritic": 75.0,
-   "letterboxd": 3.65,
-   "letterboxd_url": "https://letterboxd.com/film/primetime-2026/"
+   "imdb_id": "tt10794054",
+   "popularity": 48.7749,
+   "tmdb": 6.697,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.47,
+   "letterboxd_url": "https://letterboxd.com/film/the-weight-2026/"
   },
   {
    "tmdb_id": 858035,
@@ -335,14 +355,35 @@
     "Drama"
    ],
    "imdb_id": "tt14371256",
-   "popularity": 60.7752,
-   "tmdb": 5.6,
+   "popularity": 59.1211,
+   "tmdb": 5.8,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": 3.13,
    "letterboxd_url": "https://letterboxd.com/film/klara-and-the-sun/"
+  },
+  {
+   "tmdb_id": 1375441,
+   "title": "Primetime",
+   "release_date": "2026-10-28",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+   "runtime": 110,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdb_id": "tt34206385",
+   "popularity": 60.5715,
+   "tmdb": 6.8,
+   "imdb": 8.7,
+   "imdb_votes": 120,
+   "rt": 86.0,
+   "metacritic": 75.0,
+   "letterboxd": 3.66,
+   "letterboxd_url": "https://letterboxd.com/film/primetime-2026/"
   },
   {
    "tmdb_id": 1281331,
@@ -356,7 +397,7 @@
     "Thriller"
    ],
    "imdb_id": "tt37510326",
-   "popularity": 53.424,
+   "popularity": 52.2632,
    "tmdb": 7.0,
    "imdb": null,
    "imdb_votes": null,
@@ -366,25 +407,25 @@
    "letterboxd_url": "https://letterboxd.com/film/the-social-reckoning/"
   },
   {
-   "tmdb_id": 1376400,
-   "title": "Crawlers",
-   "release_date": "2026-10-30",
+   "tmdb_id": 1234139,
+   "title": "Jailer 2",
+   "release_date": "2026-10-14",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
-   "runtime": 80,
+   "poster": "https://image.tmdb.org/t/p/w342/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+   "runtime": 163,
    "genres": [
-    "Horror",
-    "Thriller"
+    "Action",
+    "Comedy"
    ],
-   "imdb_id": "tt32329539",
-   "popularity": 74.9515,
-   "tmdb": 6.191,
-   "imdb": 4.8,
-   "imdb_votes": 72,
+   "imdb_id": "tt33318732",
+   "popularity": 39.8289,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": 2.24,
-   "letterboxd_url": "https://letterboxd.com/film/crawlers-2026/"
+   "letterboxd": 3.42,
+   "letterboxd_url": "https://letterboxd.com/film/jailer-2-2026/"
   },
   {
    "tmdb_id": 977942,
@@ -399,35 +440,14 @@
     "History"
    ],
    "imdb_id": "tt36983905",
-   "popularity": 43.024,
-   "tmdb": 7.89,
+   "popularity": 41.0303,
+   "tmdb": 7.894,
    "imdb": null,
    "imdb_votes": null,
    "rt": 55.0,
    "metacritic": 53.0,
    "letterboxd": 2.82,
    "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/"
-  },
-  {
-   "tmdb_id": 1234139,
-   "title": "Jailer 2",
-   "release_date": "2026-10-14",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-   "runtime": 163,
-   "genres": [
-    "Action",
-    "Comedy"
-   ],
-   "imdb_id": "tt33318732",
-   "popularity": 44.2991,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.43,
-   "letterboxd_url": "https://letterboxd.com/film/jailer-2-2026/"
   },
   {
    "tmdb_id": 1572116,
@@ -442,7 +462,7 @@
     "Family"
    ],
    "imdb_id": "tt38807889",
-   "popularity": 37.0432,
+   "popularity": 37.8512,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -464,35 +484,14 @@
     "Fantasy"
    ],
    "imdb_id": "tt36103784",
-   "popularity": 30.8795,
+   "popularity": 28.5934,
    "tmdb": 5.855,
    "imdb": 5.7,
    "imdb_votes": 953,
    "rt": null,
    "metacritic": null,
-   "letterboxd": 2.72,
+   "letterboxd": 2.73,
    "letterboxd_url": "https://letterboxd.com/film/kung-fu-soccer/"
-  },
-  {
-   "tmdb_id": 1376856,
-   "title": "The Paradise",
-   "release_date": "2026-09-23",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
-   "runtime": 170,
-   "genres": [
-    "Action",
-    "Drama"
-   ],
-   "imdb_id": "tt31969655",
-   "popularity": 27.0647,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": 0.0,
-   "metacritic": null,
-   "letterboxd": 1.68,
-   "letterboxd_url": "https://letterboxd.com/film/the-paradise-2026/"
   },
   {
    "tmdb_id": 1437696,
@@ -506,14 +505,35 @@
     "History"
    ],
    "imdb_id": "tt37304295",
-   "popularity": 24.8678,
-   "tmdb": 7.319,
+   "popularity": 29.1043,
+   "tmdb": 7.297,
    "imdb": 7.3,
    "imdb_votes": 1773,
    "rt": 96.0,
    "metacritic": 90.0,
    "letterboxd": 3.64,
    "letterboxd_url": "https://letterboxd.com/film/fatherland-2026/"
+  },
+  {
+   "tmdb_id": 1376856,
+   "title": "The Paradise",
+   "release_date": "2026-09-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+   "runtime": 170,
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "imdb_id": "tt31969655",
+   "popularity": 25.1561,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": 0.0,
+   "metacritic": null,
+   "letterboxd": 1.68,
+   "letterboxd_url": "https://letterboxd.com/film/the-paradise-2026/"
   },
   {
    "tmdb_id": 1381071,
@@ -528,7 +548,7 @@
     "Action"
    ],
    "imdb_id": "tt34384661",
-   "popularity": 21.0126,
+   "popularity": 20.6745,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -550,7 +570,7 @@
     "Drama"
    ],
    "imdb_id": "tt32324552",
-   "popularity": 20.2262,
+   "popularity": 18.7791,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -572,7 +592,7 @@
     "Thriller"
    ],
    "imdb_id": "tt15799564",
-   "popularity": 19.5868,
+   "popularity": 19.8202,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -580,6 +600,49 @@
    "metacritic": null,
    "letterboxd": 4.12,
    "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/"
+  },
+  {
+   "tmdb_id": 1515692,
+   "title": "Baththa",
+   "release_date": "2026-10-01",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/n8Df1H1TmcmZfjGgWh5uQyRFzHy.jpg",
+   "runtime": 159,
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Action"
+   ],
+   "imdb_id": "tt44090278",
+   "popularity": 17.5257,
+   "tmdb": null,
+   "imdb": 9.2,
+   "imdb_votes": 5566,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 4.21,
+   "letterboxd_url": "https://letterboxd.com/film/baththa/"
+  },
+  {
+   "tmdb_id": 1567937,
+   "title": "V",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
+   "runtime": 160,
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "imdb_id": "tt38775487",
+   "popularity": 14.5283,
+   "tmdb": null,
+   "imdb": 7.3,
+   "imdb_votes": 81,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.3,
+   "letterboxd_url": "https://letterboxd.com/film/v-2026/"
   },
   {
    "tmdb_id": 1269325,
@@ -595,7 +658,7 @@
     "Crime"
    ],
    "imdb_id": "tt27050858",
-   "popularity": 14.4922,
+   "popularity": 14.1293,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -603,91 +666,6 @@
    "metacritic": null,
    "letterboxd": 3.5,
    "letterboxd_url": "https://letterboxd.com/film/drishyam-the-conclusion/"
-  },
-  {
-   "tmdb_id": 1567937,
-   "title": "V",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
-   "runtime": 160,
-   "genres": [
-    "Drama",
-    "Crime"
-   ],
-   "imdb_id": "tt38775487",
-   "popularity": 14.7763,
-   "tmdb": null,
-   "imdb": 7.3,
-   "imdb_votes": 81,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.29,
-   "letterboxd_url": "https://letterboxd.com/film/v-2026/"
-  },
-  {
-   "tmdb_id": 1727734,
-   "title": "Ali G: Who Iz I?",
-   "release_date": "2026-10-23",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-   "runtime": 89,
-   "genres": [
-    "Comedy"
-   ],
-   "imdb_id": "tt43655467",
-   "popularity": 14.1893,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.17,
-   "letterboxd_url": "https://letterboxd.com/film/ali-g-who-iz-i/"
-  },
-  {
-   "tmdb_id": 1515692,
-   "title": "Baththa",
-   "release_date": "2026-10-01",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
-   "runtime": 159,
-   "genres": [
-    "Drama",
-    "Comedy",
-    "Action"
-   ],
-   "imdb_id": "tt32012509",
-   "popularity": 14.8522,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 4.2,
-   "letterboxd_url": "https://letterboxd.com/film/baththa/"
-  },
-  {
-   "tmdb_id": 31767,
-   "title": "The Devils",
-   "release_date": "1971-07-25",
-   "year": "1971",
-   "poster": "https://image.tmdb.org/t/p/w342/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
-   "runtime": 112,
-   "genres": [
-    "Drama",
-    "History",
-    "Horror"
-   ],
-   "imdb_id": "tt0066993",
-   "popularity": 12.9102,
-   "tmdb": 7.5,
-   "imdb": 7.7,
-   "imdb_votes": 21984,
-   "rt": 55.0,
-   "metacritic": 52.0,
-   "letterboxd": 4.26,
-   "letterboxd_url": "https://letterboxd.com/film/the-devils/"
   },
   {
    "tmdb_id": 1397485,
@@ -701,7 +679,7 @@
     "Drama"
    ],
    "imdb_id": "tt32432654",
-   "popularity": 13.6619,
+   "popularity": 12.9863,
    "tmdb": 7.429,
    "imdb": 6.3,
    "imdb_votes": 3488,
@@ -721,28 +699,50 @@
     "Horror"
    ],
    "imdb_id": "tt34383465",
-   "popularity": 13.1441,
-   "tmdb": 6.019,
+   "popularity": 11.5416,
+   "tmdb": 6.006,
    "imdb": 5.6,
    "imdb_votes": 3127,
    "rt": 74.0,
    "metacritic": 60.0,
-   "letterboxd": 2.62,
+   "letterboxd": 2.61,
    "letterboxd_url": "https://letterboxd.com/film/nightborn/"
+  },
+  {
+   "tmdb_id": 31767,
+   "title": "The Devils",
+   "release_date": "1971-07-25",
+   "year": "1971",
+   "poster": "https://image.tmdb.org/t/p/w342/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+   "runtime": 112,
+   "genres": [
+    "Drama",
+    "History",
+    "Horror"
+   ],
+   "imdb_id": "tt0066993",
+   "popularity": 11.8885,
+   "tmdb": 7.458,
+   "imdb": 7.7,
+   "imdb_votes": 21984,
+   "rt": 55.0,
+   "metacritic": 52.0,
+   "letterboxd": 4.26,
+   "letterboxd_url": "https://letterboxd.com/film/the-devils/"
   },
   {
    "tmdb_id": 1755291,
    "title": "NAZA",
    "release_date": "2026-10-16",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
    "runtime": 77,
    "genres": [
     "Documentary",
     "War"
    ],
    "imdb_id": "tt44766123",
-   "popularity": 12.6858,
+   "popularity": 11.4176,
    "tmdb": 8.1,
    "imdb": 7.9,
    "imdb_votes": 3173,
@@ -750,28 +750,6 @@
    "metacritic": 94.0,
    "letterboxd": 4.55,
    "letterboxd_url": "https://letterboxd.com/film/naza/"
-  },
-  {
-   "tmdb_id": 51739,
-   "title": "Arrietty",
-   "release_date": "2011-07-29",
-   "year": "2011",
-   "poster": "https://image.tmdb.org/t/p/w342/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg",
-   "runtime": 95,
-   "genres": [
-    "Fantasy",
-    "Animation",
-    "Family"
-   ],
-   "imdb_id": "tt1568921",
-   "popularity": 10.8443,
-   "tmdb": 7.7,
-   "imdb": 7.6,
-   "imdb_votes": 119441,
-   "rt": 94.0,
-   "metacritic": 80.0,
-   "letterboxd": 3.88,
-   "letterboxd_url": "https://letterboxd.com/film/the-secret-world-of-arrietty/"
   },
   {
    "tmdb_id": 1483525,
@@ -784,7 +762,7 @@
     "Drama"
    ],
    "imdb_id": "tt37803364",
-   "popularity": 11.0802,
+   "popularity": 9.9471,
    "tmdb": null,
    "imdb": 7.7,
    "imdb_votes": 23,
@@ -805,7 +783,7 @@
     "Horror"
    ],
    "imdb_id": "tt36629665",
-   "popularity": 10.917,
+   "popularity": 9.6687,
    "tmdb": 5.434,
    "imdb": 4.5,
    "imdb_votes": 3433,
@@ -815,68 +793,68 @@
    "letterboxd_url": "https://letterboxd.com/film/her-private-hell-2026/"
   },
   {
-   "tmdb_id": 1227877,
-   "title": "I Love Boosters",
-   "release_date": "2026-10-30",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-   "runtime": 113,
+   "tmdb_id": 51739,
+   "title": "Arrietty",
+   "release_date": "2011-07-29",
+   "year": "2011",
+   "poster": "https://image.tmdb.org/t/p/w342/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg",
+   "runtime": 95,
    "genres": [
-    "Comedy",
-    "Science Fiction",
-    "Crime"
+    "Fantasy",
+    "Animation",
+    "Family"
    ],
-   "imdb_id": "tt30827810",
-   "popularity": 6.2498,
-   "tmdb": 6.3,
-   "imdb": 6.6,
-   "imdb_votes": 8530,
-   "rt": 92.0,
-   "metacritic": 71.0,
-   "letterboxd": 3.78,
-   "letterboxd_url": "https://letterboxd.com/film/i-love-boosters/"
+   "imdb_id": "tt1568921",
+   "popularity": 10.2661,
+   "tmdb": 7.7,
+   "imdb": 7.6,
+   "imdb_votes": 119441,
+   "rt": 94.0,
+   "metacritic": 80.0,
+   "letterboxd": 3.88,
+   "letterboxd_url": "https://letterboxd.com/film/the-secret-world-of-arrietty/"
+  },
+  {
+   "tmdb_id": 1735270,
+   "title": "Premada Oorali",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/6eP8D6HDRw315Gmmc7RmGBaeTyO.jpg",
+   "runtime": 155,
+   "genres": [
+    "Family",
+    "Drama"
+   ],
+   "imdb_id": "tt33381528",
+   "popularity": 7.1866,
+   "tmdb": null,
+   "imdb": 8.9,
+   "imdb_votes": 1084,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.16,
+   "letterboxd_url": "https://letterboxd.com/film/premada-oorali/"
   },
   {
    "tmdb_id": 1590718,
    "title": "Dhoomakethu",
    "release_date": "2026-09-25",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/kZCKwhUx7r9HRDqpGbavdMtd8f5.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/bxUSscHMoCkPFRrF40Vtncmcpdw.jpg",
    "runtime": 122,
    "genres": [
     "Comedy",
     "Fantasy"
    ],
    "imdb_id": "tt38990864",
-   "popularity": 9.7019,
+   "popularity": 9.4003,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": 3.05,
+   "letterboxd": 3.03,
    "letterboxd_url": "https://letterboxd.com/film/dhoomakethu-2026/"
-  },
-  {
-   "tmdb_id": 1257942,
-   "title": "It's My Time",
-   "release_date": "2026-10-16",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/8nGil8qyQKj4p4MT96tYDaIHnyM.jpg",
-   "runtime": 107,
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "imdb_id": "tt36130077",
-   "popularity": 8.5147,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.38,
-   "letterboxd_url": "https://letterboxd.com/film/its-my-time/"
   },
   {
    "tmdb_id": 1654581,
@@ -892,7 +870,7 @@
     "Drama"
    ],
    "imdb_id": "tt40855841",
-   "popularity": 8.819,
+   "popularity": 8.2955,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -900,6 +878,27 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/nayyi-navelli/"
+  },
+  {
+   "tmdb_id": 1257942,
+   "title": "It's My Time",
+   "release_date": "2026-10-16",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/8nGil8qyQKj4p4MT96tYDaIHnyM.jpg",
+   "runtime": 107,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "imdb_id": "tt36130077",
+   "popularity": 8.3591,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.38,
+   "letterboxd_url": "https://letterboxd.com/film/its-my-time/"
   },
   {
    "tmdb_id": 1643567,
@@ -913,7 +912,7 @@
     "Comedy"
    ],
    "imdb_id": "tt40311603",
-   "popularity": 8.0384,
+   "popularity": 8.2785,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -921,6 +920,27 @@
    "metacritic": null,
    "letterboxd": 3.94,
    "letterboxd_url": "https://letterboxd.com/film/ghosts-the-possession-of-button-house/"
+  },
+  {
+   "tmdb_id": 1489932,
+   "title": "Always Lalisa",
+   "release_date": "2026-10-12",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
+   "runtime": 98,
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "imdb_id": "tt37108970",
+   "popularity": 7.5692,
+   "tmdb": null,
+   "imdb": 7.6,
+   "imdb_votes": 229,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 4.0,
+   "letterboxd_url": "https://letterboxd.com/film/always-lalisa/"
   },
   {
    "tmdb_id": 1538457,
@@ -935,35 +955,14 @@
     "Drama"
    ],
    "imdb_id": "tt38097205",
-   "popularity": 7.6534,
+   "popularity": 7.638,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": 2.9,
+   "letterboxd": 2.89,
    "letterboxd_url": "https://letterboxd.com/film/meesaya-murukku-2/"
-  },
-  {
-   "tmdb_id": 1489932,
-   "title": "Always Lalisa",
-   "release_date": "2026-10-12",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
-   "runtime": 98,
-   "genres": [
-    "Documentary",
-    "Music"
-   ],
-   "imdb_id": "tt37108970",
-   "popularity": 7.8123,
-   "tmdb": null,
-   "imdb": 7.6,
-   "imdb_votes": 229,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 4.0,
-   "letterboxd_url": "https://letterboxd.com/film/always-lalisa/"
   },
   {
    "tmdb_id": 10404,
@@ -976,8 +975,8 @@
     "Drama"
    ],
    "imdb_id": "tt0101640",
-   "popularity": 6.9509,
-   "tmdb": 7.977,
+   "popularity": 7.1554,
+   "tmdb": 7.98,
    "imdb": 8.1,
    "imdb_votes": 38549,
    "rt": 97.0,
@@ -986,25 +985,24 @@
    "letterboxd_url": "https://letterboxd.com/film/raise-the-red-lantern/"
   },
   {
-   "tmdb_id": 1735270,
-   "title": "Premada Oorali",
-   "release_date": "2026-10-09",
+   "tmdb_id": 1473148,
+   "title": "Gentle Monster",
+   "release_date": "2026-10-30",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/6eP8D6HDRw315Gmmc7RmGBaeTyO.jpg",
-   "runtime": 155,
+   "poster": "https://image.tmdb.org/t/p/w342/v7sbP2qv8ezCfo9FOI6DVUXDSaw.jpg",
+   "runtime": 114,
    "genres": [
-    "Family",
     "Drama"
    ],
-   "imdb_id": "tt33381528",
-   "popularity": 9.4212,
+   "imdb_id": "tt37020296",
+   "popularity": 7.089,
    "tmdb": null,
-   "imdb": 8.9,
-   "imdb_votes": 1084,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.16,
-   "letterboxd_url": "https://letterboxd.com/film/premada-oorali/"
+   "imdb": 5.5,
+   "imdb_votes": 85,
+   "rt": 63.0,
+   "metacritic": 70.0,
+   "letterboxd": 3.35,
+   "letterboxd_url": "https://letterboxd.com/film/gentle-monster/"
   },
   {
    "tmdb_id": 1294698,
@@ -1018,7 +1016,7 @@
     "Drama"
    ],
    "imdb_id": "tt34794183",
-   "popularity": 6.7161,
+   "popularity": 6.8277,
    "tmdb": 6.9,
    "imdb": 7.2,
    "imdb_votes": 4301,
@@ -1026,6 +1024,28 @@
    "metacritic": 73.0,
    "letterboxd": 3.58,
    "letterboxd_url": "https://letterboxd.com/film/case-137-2025/"
+  },
+  {
+   "tmdb_id": 1227877,
+   "title": "I Love Boosters",
+   "release_date": "2026-10-30",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+   "runtime": 113,
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Crime"
+   ],
+   "imdb_id": "tt30827810",
+   "popularity": 5.7346,
+   "tmdb": 6.3,
+   "imdb": 6.6,
+   "imdb_votes": 8530,
+   "rt": 92.0,
+   "metacritic": 71.0,
+   "letterboxd": 3.79,
+   "letterboxd_url": "https://letterboxd.com/film/i-love-boosters/"
   },
   {
    "tmdb_id": 1748404,
@@ -1039,7 +1059,7 @@
     "Drama"
    ],
    "imdb_id": null,
-   "popularity": 5.5902,
+   "popularity": 6.619,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1049,24 +1069,66 @@
    "letterboxd_url": "https://letterboxd.com/film/always-yours-never-mine/"
   },
   {
-   "tmdb_id": 1473148,
-   "title": "Gentle Monster",
-   "release_date": "2026-10-30",
+   "tmdb_id": 1596285,
+   "title": "The Disciple: A Wu-Tang Fable",
+   "release_date": "2026-10-09",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/v7sbP2qv8ezCfo9FOI6DVUXDSaw.jpg",
-   "runtime": 114,
+   "poster": "https://image.tmdb.org/t/p/w342/2vrQxy3Xrb6AvPtsa7jAU9DKxvu.jpg",
+   "runtime": 105,
    "genres": [
-    "Drama"
+    "Documentary",
+    "Music"
    ],
-   "imdb_id": "tt37020296",
-   "popularity": 6.899,
+   "imdb_id": "tt39150035",
+   "popularity": 4.8993,
    "tmdb": null,
-   "imdb": 5.5,
-   "imdb_votes": 85,
-   "rt": 63.0,
-   "metacritic": 70.0,
-   "letterboxd": 3.35,
-   "letterboxd_url": "https://letterboxd.com/film/gentle-monster/"
+   "imdb": null,
+   "imdb_votes": 18,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.43,
+   "letterboxd_url": "https://letterboxd.com/film/the-disciple-a-wu-tang-fable/"
+  },
+  {
+   "tmdb_id": 1388805,
+   "title": "LINKIN PARK: UNSHATTER",
+   "release_date": "2026-09-30",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/kHNrz7DBVPrtyMhJxmBm2poS2l9.jpg",
+   "runtime": 108,
+   "genres": [
+    "Music",
+    "Documentary"
+   ],
+   "imdb_id": "tt43442522",
+   "popularity": 4.7852,
+   "tmdb": null,
+   "imdb": 8.6,
+   "imdb_votes": 875,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 4.23,
+   "letterboxd_url": "https://letterboxd.com/film/linkin-park-unshatter/"
+  },
+  {
+   "tmdb_id": 1702350,
+   "title": "Fallen Angels by Noël Coward",
+   "release_date": "2026-10-22",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/fVUdqgCL8hgWzEho5mGMTdXPY2o.jpg",
+   "runtime": 105,
+   "genres": [
+    "Comedy"
+   ],
+   "imdb_id": "tt42921285",
+   "popularity": 4.7755,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.66,
+   "letterboxd_url": "https://letterboxd.com/film/fallen-angels-by-noel-coward/"
   },
   {
    "tmdb_id": 1503023,
@@ -1081,7 +1143,7 @@
     "Crime"
    ],
    "imdb_id": "tt41558341",
-   "popularity": 4.9419,
+   "popularity": 4.6252,
    "tmdb": null,
    "imdb": 7.0,
    "imdb_votes": 14,
@@ -1089,47 +1151,6 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/go-for-broke-2-2026/"
-  },
-  {
-   "tmdb_id": 1596285,
-   "title": "The Disciple: A Wu-Tang Fable",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/2vrQxy3Xrb6AvPtsa7jAU9DKxvu.jpg",
-   "runtime": 105,
-   "genres": [
-    "Documentary",
-    "Music"
-   ],
-   "imdb_id": "tt39150035",
-   "popularity": 5.3569,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": 18,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.43,
-   "letterboxd_url": "https://letterboxd.com/film/the-disciple-a-wu-tang-fable/"
-  },
-  {
-   "tmdb_id": 1797226,
-   "title": "HYBE CHEERING PARTY",
-   "release_date": "2026-10-24",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/8udWFUoL5NxqKR1xtYinhcxY3gn.jpg",
-   "runtime": 60,
-   "genres": [
-    "Music"
-   ],
-   "imdb_id": "tt46659669",
-   "popularity": 4.8401,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/hybe-cheering-party/"
   },
   {
    "tmdb_id": 1081010,
@@ -1143,7 +1164,7 @@
     "Drama"
    ],
    "imdb_id": "tt28773062",
-   "popularity": 4.9043,
+   "popularity": 4.9002,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1164,7 +1185,7 @@
     "Thriller"
    ],
    "imdb_id": "tt38984184",
-   "popularity": 4.8693,
+   "popularity": 4.907,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1174,64 +1195,44 @@
    "letterboxd_url": "https://letterboxd.com/film/418/"
   },
   {
-   "tmdb_id": 1702350,
-   "title": "Fallen Angels by Noël Coward",
-   "release_date": "2026-10-22",
+   "tmdb_id": 1797226,
+   "title": "HYBE CHEERING PARTY",
+   "release_date": "2026-10-24",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/fVUdqgCL8hgWzEho5mGMTdXPY2o.jpg",
-   "runtime": 105,
+   "poster": "https://image.tmdb.org/t/p/w342/8udWFUoL5NxqKR1xtYinhcxY3gn.jpg",
+   "runtime": 60,
    "genres": [
-    "Comedy"
+    "Music"
    ],
-   "imdb_id": "tt42921285",
-   "popularity": 5.2181,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.66,
-   "letterboxd_url": "https://letterboxd.com/film/fallen-angels-by-noel-coward/"
-  },
-  {
-   "tmdb_id": 1425784,
-   "title": "Animol",
-   "release_date": "2026-10-30",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/88fNySRQLV0YQSbVp2JyAUldTn9.jpg",
-   "runtime": 93,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt33995791",
-   "popularity": 3.9288,
-   "tmdb": null,
-   "imdb": 7.9,
-   "imdb_votes": 41,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.63,
-   "letterboxd_url": "https://letterboxd.com/film/animol/"
-  },
-  {
-   "tmdb_id": 1783196,
-   "title": "Green Grass",
-   "release_date": "2026-10-22",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/qTx5ncxy4f5qjrM2GtFnkk140ph.jpg",
-   "runtime": 17,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": null,
-   "popularity": 4.1519,
+   "imdb_id": "tt46659669",
+   "popularity": 4.4347,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/green-grass-2026/"
+   "letterboxd_url": "https://letterboxd.com/film/hybe-cheering-party/"
+  },
+  {
+   "tmdb_id": 1654086,
+   "title": "The Influencer Project",
+   "release_date": "2026-10-16",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/3yolfJrhMf8XvfKVlBB6Zetn2wS.jpg",
+   "runtime": 95,
+   "genres": [
+    "Horror"
+   ],
+   "imdb_id": "tt42643242",
+   "popularity": 4.0997,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": 54.0,
+   "metacritic": null,
+   "letterboxd": 2.19,
+   "letterboxd_url": "https://letterboxd.com/film/the-influencer-project/"
   },
   {
    "tmdb_id": 1650896,
@@ -1246,7 +1247,7 @@
     "Adventure"
    ],
    "imdb_id": "tt47973863",
-   "popularity": 4.6389,
+   "popularity": 5.9752,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1256,45 +1257,26 @@
    "letterboxd_url": "https://letterboxd.com/film/peppa-pig-perfect-holiday/"
   },
   {
-   "tmdb_id": 1388805,
-   "title": "LINKIN PARK: UNSHATTER",
-   "release_date": "2026-09-30",
+   "tmdb_id": 1496785,
+   "title": "Aadarsha Kutumbam House No: 47 - AK47",
+   "release_date": "2026-10-30",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/kHNrz7DBVPrtyMhJxmBm2poS2l9.jpg",
-   "runtime": 108,
+   "poster": "https://image.tmdb.org/t/p/w342/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg",
+   "runtime": 149,
    "genres": [
-    "Music",
-    "Documentary"
+    "Family",
+    "Comedy",
+    "Action"
    ],
-   "imdb_id": "tt43442522",
-   "popularity": 5.2194,
-   "tmdb": null,
-   "imdb": 8.6,
-   "imdb_votes": 875,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 4.23,
-   "letterboxd_url": "https://letterboxd.com/film/linkin-park-unshatter/"
-  },
-  {
-   "tmdb_id": 1654086,
-   "title": "The Influencer Project",
-   "release_date": "2026-10-16",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/3yolfJrhMf8XvfKVlBB6Zetn2wS.jpg",
-   "runtime": 95,
-   "genres": [
-    "Horror"
-   ],
-   "imdb_id": "tt42643242",
-   "popularity": 4.655,
+   "imdb_id": "tt30768979",
+   "popularity": 4.2978,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
-   "rt": 54.0,
+   "rt": null,
    "metacritic": null,
-   "letterboxd": 2.19,
-   "letterboxd_url": "https://letterboxd.com/film/the-influencer-project/"
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/aadarsha-kutumbam-house-no-47-ak47/"
   },
   {
    "tmdb_id": 1603262,
@@ -1307,36 +1289,95 @@
     "Documentary"
    ],
    "imdb_id": "tt38691481",
-   "popularity": 4.4317,
+   "popularity": 5.3128,
    "tmdb": null,
    "imdb": 7.9,
    "imdb_votes": 11,
    "rt": 85.0,
    "metacritic": 65.0,
-   "letterboxd": 3.55,
+   "letterboxd": 3.56,
    "letterboxd_url": "https://letterboxd.com/film/everest-the-other-side/"
   },
   {
-   "tmdb_id": 1496785,
-   "title": "Aadarsha Kutumbam House No: 47 - AK47",
-   "release_date": "2026-10-30",
+   "tmdb_id": 1783196,
+   "title": "Green Grass",
+   "release_date": "2026-10-22",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg",
-   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/qTx5ncxy4f5qjrM2GtFnkk140ph.jpg",
+   "runtime": 17,
    "genres": [
-    "Family",
-    "Action",
-    "Comedy"
+    "Drama"
    ],
-   "imdb_id": "tt30768979",
-   "popularity": 4.5501,
+   "imdb_id": null,
+   "popularity": 3.9401,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/aadarsha-kutumbam-house-no-47-ak47/"
+   "letterboxd_url": "https://letterboxd.com/film/green-grass-2026/"
+  },
+  {
+   "tmdb_id": 1321666,
+   "title": "The Doll",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/6vN4ppExgYQXuCeyXkrEfnvTqIT.jpg",
+   "runtime": 162,
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "imdb_id": "tt37082105",
+   "popularity": 4.0543,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.56,
+   "letterboxd_url": "https://letterboxd.com/film/the-doll-2026/"
+  },
+  {
+   "tmdb_id": 1425784,
+   "title": "Animol",
+   "release_date": "2026-10-30",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/88fNySRQLV0YQSbVp2JyAUldTn9.jpg",
+   "runtime": 93,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt33995791",
+   "popularity": 4.1425,
+   "tmdb": null,
+   "imdb": 7.9,
+   "imdb_votes": 41,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.63,
+   "letterboxd_url": "https://letterboxd.com/film/animol/"
+  },
+  {
+   "tmdb_id": 1456196,
+   "title": "Thella Kaagitham",
+   "release_date": "2026-10-01",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/qDt0ZouigmSNZUFBfymK6hsO8Zi.jpg",
+   "runtime": 163,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt43407940",
+   "popularity": 3.9559,
+   "tmdb": null,
+   "imdb": 8.1,
+   "imdb_votes": 67,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.01,
+   "letterboxd_url": "https://letterboxd.com/film/thella-kaagitham/"
   },
   {
    "tmdb_id": 1261763,
@@ -1351,7 +1392,7 @@
     "Action"
    ],
    "imdb_id": "tt31841170",
-   "popularity": 3.738,
+   "popularity": 4.1351,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1359,26 +1400,6 @@
    "metacritic": null,
    "letterboxd": 2.96,
    "letterboxd_url": "https://letterboxd.com/film/dont-trouble-the-trouble/"
-  },
-  {
-   "tmdb_id": 1456196,
-   "title": "Thella Kaagitham",
-   "release_date": "2026-10-01",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/qDt0ZouigmSNZUFBfymK6hsO8Zi.jpg",
-   "runtime": 163,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt43407940",
-   "popularity": 3.758,
-   "tmdb": null,
-   "imdb": 8.1,
-   "imdb_votes": 67,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.01,
-   "letterboxd_url": "https://letterboxd.com/film/thella-kaagitham/"
   },
   {
    "tmdb_id": 1310387,
@@ -1394,7 +1415,7 @@
     "Romance"
    ],
    "imdb_id": "tt38652027",
-   "popularity": 3.6826,
+   "popularity": 3.5101,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1402,133 +1423,6 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-irregular-at-magic-high-school-the-movie/"
-  },
-  {
-   "tmdb_id": 1678239,
-   "title": "Lesbian Lines",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/8ASJFSuposauiPEGzjUTgjSdyRa.jpg",
-   "runtime": 76,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": "tt41973739",
-   "popularity": 2.9419,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.68,
-   "letterboxd_url": "https://letterboxd.com/film/lesbian-lines/"
-  },
-  {
-   "tmdb_id": 1321666,
-   "title": "The Doll",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/6vN4ppExgYQXuCeyXkrEfnvTqIT.jpg",
-   "runtime": 162,
-   "genres": [
-    "Romance",
-    "Drama"
-   ],
-   "imdb_id": "tt37082105",
-   "popularity": 4.0006,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.56,
-   "letterboxd_url": "https://letterboxd.com/film/the-doll-2026/"
-  },
-  {
-   "tmdb_id": 1563192,
-   "title": "Lenin Pandiyan",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/qhvvef3ayMfnuA4wQcPscC8em0A.jpg",
-   "runtime": 131,
-   "genres": [
-    "Drama",
-    "Crime",
-    "Romance"
-   ],
-   "imdb_id": "tt38916037",
-   "popularity": 3.5365,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.12,
-   "letterboxd_url": "https://letterboxd.com/film/lenin-pandiyan/"
-  },
-  {
-   "tmdb_id": 1245119,
-   "title": "The Yellow Tie",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/tkCQjcvLKG5HhvVyqkNriifLgLW.jpg",
-   "runtime": 145,
-   "genres": [
-    "Music",
-    "Drama",
-    "Adventure",
-    "History"
-   ],
-   "imdb_id": "tt5335774",
-   "popularity": 2.8281,
-   "tmdb": 8.386,
-   "imdb": 8.3,
-   "imdb_votes": 5355,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.59,
-   "letterboxd_url": "https://letterboxd.com/film/the-yellow-tie/"
-  },
-  {
-   "tmdb_id": 1496491,
-   "title": "Comédie-Française",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/1RYOtCOlAV2Xeztv7nUnbFSYGpr.jpg",
-   "runtime": 75,
-   "genres": [
-    "Comedy"
-   ],
-   "imdb_id": "tt37846373",
-   "popularity": 2.6516,
-   "tmdb": 6.9,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.44,
-   "letterboxd_url": "https://letterboxd.com/film/comedie-francaise/"
-  },
-  {
-   "tmdb_id": 1776461,
-   "title": "Old Knobbley",
-   "release_date": "2026-09-28",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/zsB1n8AtjJwvleDQGC944HiTsSN.jpg",
-   "runtime": 13,
-   "genres": [
-    "Drama",
-    "History"
-   ],
-   "imdb_id": null,
-   "popularity": 2.5841,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/old-knobbley/"
   },
   {
    "tmdb_id": 1601531,
@@ -1543,7 +1437,7 @@
     "Comedy"
    ],
    "imdb_id": null,
-   "popularity": 3.5893,
+   "popularity": 4.1023,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1551,6 +1445,28 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/village-idiot/"
+  },
+  {
+   "tmdb_id": 1563192,
+   "title": "Lenin Pandiyan",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/qhvvef3ayMfnuA4wQcPscC8em0A.jpg",
+   "runtime": 131,
+   "genres": [
+    "Drama",
+    "Crime",
+    "Romance"
+   ],
+   "imdb_id": "tt38916037",
+   "popularity": 3.1486,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.12,
+   "letterboxd_url": "https://letterboxd.com/film/lenin-pandiyan/"
   },
   {
    "tmdb_id": 1395215,
@@ -1565,7 +1481,7 @@
     "Drama"
    ],
    "imdb_id": "tt39239754",
-   "popularity": 3.0902,
+   "popularity": 3.2899,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1586,7 +1502,7 @@
     "Documentary"
    ],
    "imdb_id": "tt46658626",
-   "popularity": 3.0704,
+   "popularity": 3.0464,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1596,66 +1512,24 @@
    "letterboxd_url": "https://letterboxd.com/film/seventeen-world-tour-new_/"
   },
   {
-   "tmdb_id": 1688795,
-   "title": "TOMORROW X TOGETHER WORLD TOUR 'ACT : TOMORROW'",
-   "release_date": "2026-10-24",
+   "tmdb_id": 1678239,
+   "title": "Lesbian Lines",
+   "release_date": "2026-10-09",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/aRoPHxYzfQjCLxSp4H4sJANNmou.jpg",
-   "runtime": 97,
+   "poster": "https://image.tmdb.org/t/p/w342/8ASJFSuposauiPEGzjUTgjSdyRa.jpg",
+   "runtime": 76,
    "genres": [
-    "Music",
     "Documentary"
    ],
-   "imdb_id": "tt46658752",
-   "popularity": 2.4727,
+   "imdb_id": "tt41973739",
+   "popularity": 2.6382,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/tomorrow-x-together-world-tour-act-tomorrow/"
-  },
-  {
-   "tmdb_id": 1768608,
-   "title": "Bloodline",
-   "release_date": "2026-10-15",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/l10MXtbaO8G0IZzWToXnr21zG97.jpg",
-   "runtime": 95,
-   "genres": [
-    "Horror"
-   ],
-   "imdb_id": "tt42886802",
-   "popularity": 2.4177,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 2.82,
-   "letterboxd_url": "https://letterboxd.com/film/bloodline-2026-3/"
-  },
-  {
-   "tmdb_id": 1630307,
-   "title": "Charlie Shaw's Revenge",
-   "release_date": "2026-10-06",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/fVRD1OFTaMzEqC5ZENJEQ9Tq3Fm.jpg",
-   "runtime": 109,
-   "genres": [
-    "Horror",
-    "Thriller"
-   ],
-   "imdb_id": "tt38712491",
-   "popularity": 2.7632,
-   "tmdb": null,
-   "imdb": 7.6,
-   "imdb_votes": 73,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/charlie-shaws-revenge/"
+   "letterboxd": 3.68,
+   "letterboxd_url": "https://letterboxd.com/film/lesbian-lines/"
   },
   {
    "tmdb_id": 1299581,
@@ -1668,7 +1542,7 @@
     "Documentary"
    ],
    "imdb_id": "tt32534849",
-   "popularity": 2.9392,
+   "popularity": 3.1032,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1676,154 +1550,6 @@
    "metacritic": null,
    "letterboxd": 3.47,
    "letterboxd_url": "https://letterboxd.com/film/knife-the-attempted-murder-of-salman-rushdie/"
-  },
-  {
-   "tmdb_id": 1774055,
-   "title": "Chha Maya Chhapakkai 2",
-   "release_date": "2026-10-18",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/wEX219Czsx6jztVtHDPQD93dX9d.jpg",
-   "runtime": 158,
-   "genres": [
-    "Drama",
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 2.169,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/chha-maya-chhapakkai-2/"
-  },
-  {
-   "tmdb_id": 1601527,
-   "title": "Wild",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/iEwFjDjqTTExVXfAcPAW1eeXiAS.jpg",
-   "runtime": 60,
-   "genres": [
-    "Drama",
-    "TV Movie",
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 2.6831,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/wild-2026-2/"
-  },
-  {
-   "tmdb_id": 1727244,
-   "title": "Gupi and the King Who Doesn't Smile",
-   "release_date": "2026-10-23",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/ksAmCuRqlUxmfRxSMYpdp194nyW.jpg",
-   "runtime": 81,
-   "genres": [
-    "Animation",
-    "Adventure",
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 2.2188,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/gupi-and-the-king-who-doesnt-smile/"
-  },
-  {
-   "tmdb_id": 1768638,
-   "title": "Hope Street: One of Our Own",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/wTPKCyR3d7RGYt48fVuzXRnFCfD.jpg",
-   "runtime": 87,
-   "genres": [
-    "Mystery",
-    "Thriller"
-   ],
-   "imdb_id": null,
-   "popularity": 2.2228,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/hope-street-one-of-our-own/"
-  },
-  {
-   "tmdb_id": 1212310,
-   "title": "Winter of the Crow",
-   "release_date": "2026-10-16",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/nxyZ9jPq2DAsPpENL5ZjZlb2M9j.jpg",
-   "runtime": 112,
-   "genres": [
-    "Drama",
-    "Thriller"
-   ],
-   "imdb_id": "tt30235784",
-   "popularity": 2.2772,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": 95.0,
-   "metacritic": null,
-   "letterboxd": 3.28,
-   "letterboxd_url": "https://letterboxd.com/film/winter-of-the-crow/"
-  },
-  {
-   "tmdb_id": 1705387,
-   "title": "Kiri and Lou Go Raaa!",
-   "release_date": "2026-10-16",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/fXOlVLwUbbtz6sfj5jNnt4q8FGt.jpg",
-   "runtime": 61,
-   "genres": [
-    "Animation",
-    "Family"
-   ],
-   "imdb_id": "tt43201279",
-   "popularity": 2.5977,
-   "tmdb": null,
-   "imdb": 7.6,
-   "imdb_votes": 13,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/kiri-and-lou-go-raaa/"
-  },
-  {
-   "tmdb_id": 1743245,
-   "title": "FLORID",
-   "release_date": "2026-10-08",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/zSdacVQX2349eVF3BTby3yRn28i.jpg",
-   "runtime": 84,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt8260802",
-   "popularity": 2.3177,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.59,
-   "letterboxd_url": "https://letterboxd.com/film/florid-2026/"
   },
   {
    "tmdb_id": 1770999,
@@ -1838,7 +1564,7 @@
     "Thriller"
    ],
    "imdb_id": null,
-   "popularity": 2.9319,
+   "popularity": 2.6066,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1848,24 +1574,154 @@
    "letterboxd_url": "https://letterboxd.com/film/suspect-the-road-rage-killer/"
   },
   {
-   "tmdb_id": 1789960,
-   "title": "Hot Flash",
-   "release_date": "2026-10-10",
+   "tmdb_id": 1245119,
+   "title": "The Yellow Tie",
+   "release_date": "2026-10-09",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/hpvXwNf1m3ouRCrs1WwR6IVp3Jj.jpg",
-   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/tkCQjcvLKG5HhvVyqkNriifLgLW.jpg",
+   "runtime": 145,
    "genres": [
-    "Comedy"
+    "Music",
+    "Drama",
+    "Adventure",
+    "History"
    ],
-   "imdb_id": "tt39901506",
-   "popularity": 2.4245,
+   "imdb_id": "tt5335774",
+   "popularity": 3.3307,
+   "tmdb": 8.386,
+   "imdb": 8.3,
+   "imdb_votes": 5355,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.59,
+   "letterboxd_url": "https://letterboxd.com/film/the-yellow-tie/"
+  },
+  {
+   "tmdb_id": 1630307,
+   "title": "Charlie Shaw's Revenge",
+   "release_date": "2026-10-06",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/fVRD1OFTaMzEqC5ZENJEQ9Tq3Fm.jpg",
+   "runtime": 109,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "imdb_id": "tt38712491",
+   "popularity": 2.7396,
+   "tmdb": null,
+   "imdb": 7.6,
+   "imdb_votes": 73,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/charlie-shaws-revenge/"
+  },
+  {
+   "tmdb_id": 869152,
+   "title": "Titans",
+   "release_date": "2026-10-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/sjVZFosphZzsiTHjMaUM5aR9Lrt.jpg",
+   "runtime": 126,
+   "genres": [
+    "Fantasy",
+    "Comedy",
+    "Thriller"
+   ],
+   "imdb_id": "tt37547793",
+   "popularity": 2.7801,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/hot-flash-2026/"
+   "letterboxd_url": "https://letterboxd.com/film/titans-2026/"
+  },
+  {
+   "tmdb_id": 1601527,
+   "title": "Wild",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/iEwFjDjqTTExVXfAcPAW1eeXiAS.jpg",
+   "runtime": 60,
+   "genres": [
+    "Drama",
+    "TV Movie",
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 2.9491,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/wild-2026-2/"
+  },
+  {
+   "tmdb_id": 1496491,
+   "title": "Comédie-Française",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/1RYOtCOlAV2Xeztv7nUnbFSYGpr.jpg",
+   "runtime": 75,
+   "genres": [
+    "Comedy"
+   ],
+   "imdb_id": "tt37846373",
+   "popularity": 3.2868,
+   "tmdb": 6.841,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.44,
+   "letterboxd_url": "https://letterboxd.com/film/comedie-francaise/"
+  },
+  {
+   "tmdb_id": 1705387,
+   "title": "Kiri and Lou Go Raaa!",
+   "release_date": "2026-10-16",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/fXOlVLwUbbtz6sfj5jNnt4q8FGt.jpg",
+   "runtime": 61,
+   "genres": [
+    "Animation",
+    "Family"
+   ],
+   "imdb_id": "tt43201279",
+   "popularity": 2.649,
+   "tmdb": null,
+   "imdb": 7.6,
+   "imdb_votes": 13,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/kiri-and-lou-go-raaa/"
+  },
+  {
+   "tmdb_id": 1776461,
+   "title": "Old Knobbley",
+   "release_date": "2026-09-28",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/zsB1n8AtjJwvleDQGC944HiTsSN.jpg",
+   "runtime": 13,
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "imdb_id": null,
+   "popularity": 2.3329,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/old-knobbley/"
   },
   {
    "tmdb_id": 1447059,
@@ -1879,7 +1735,7 @@
     "Drama"
    ],
    "imdb_id": "tt27672841",
-   "popularity": 2.5806,
+   "popularity": 2.336,
    "tmdb": null,
    "imdb": 9.2,
    "imdb_votes": 12,
@@ -1900,100 +1756,75 @@
     "History"
    ],
    "imdb_id": "tt37677758",
-   "popularity": 2.5005,
+   "popularity": 2.4386,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": 100.0,
    "metacritic": null,
-   "letterboxd": 3.92,
+   "letterboxd": 3.93,
    "letterboxd_url": "https://letterboxd.com/film/the-lost-children-of-tuam/"
   },
   {
-   "tmdb_id": 1217928,
-   "title": "Bad Day at the Office",
-   "release_date": "2026-10-30",
+   "tmdb_id": 1688795,
+   "title": "TOMORROW X TOGETHER WORLD TOUR 'ACT : TOMORROW'",
+   "release_date": "2026-10-24",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/fK5Wt1TPZvP1AyYtFRleIpiEW7E.jpg",
-   "runtime": 112,
+   "poster": "https://image.tmdb.org/t/p/w342/aRoPHxYzfQjCLxSp4H4sJANNmou.jpg",
+   "runtime": 97,
    "genres": [
-    "Action",
-    "Thriller"
+    "Music",
+    "Documentary"
    ],
-   "imdb_id": "tt30458232",
-   "popularity": 1.9074,
-   "tmdb": null,
-   "imdb": 6.2,
-   "imdb_votes": 16,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/bad-day-at-the-office-2026/"
-  },
-  {
-   "tmdb_id": 869152,
-   "title": "Titans",
-   "release_date": "2026-10-23",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/sjVZFosphZzsiTHjMaUM5aR9Lrt.jpg",
-   "runtime": 126,
-   "genres": [
-    "Fantasy",
-    "Comedy",
-    "Thriller"
-   ],
-   "imdb_id": "tt37547793",
-   "popularity": 2.7549,
+   "imdb_id": "tt46658752",
+   "popularity": 2.3241,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/titans-2026/"
+   "letterboxd_url": "https://letterboxd.com/film/tomorrow-x-together-world-tour-act-tomorrow/"
   },
   {
-   "tmdb_id": 1624274,
-   "title": "Aaram",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/875X0bFgOlQg18KaUx7d6JWasuD.jpg",
-   "runtime": 150,
-   "genres": [
-    "Crime",
-    "Thriller",
-    "Drama"
-   ],
-   "imdb_id": "tt39460608",
-   "popularity": 2.3023,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/aaram-2026/"
-  },
-  {
-   "tmdb_id": 1792381,
-   "title": "ELECTRICKS",
+   "tmdb_id": 1789960,
+   "title": "Hot Flash",
    "release_date": "2026-10-10",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/l0vI6dC23eYNKdQGLRSjSDqG3aI.jpg",
-   "runtime": 14,
+   "poster": "https://image.tmdb.org/t/p/w342/hpvXwNf1m3ouRCrs1WwR6IVp3Jj.jpg",
+   "runtime": null,
    "genres": [
-    "Drama",
-    "Thriller"
+    "Comedy"
    ],
-   "imdb_id": null,
-   "popularity": 2.2024,
+   "imdb_id": "tt39901506",
+   "popularity": 2.6396,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/electricks/"
+   "letterboxd_url": "https://letterboxd.com/film/hot-flash-2026/"
+  },
+  {
+   "tmdb_id": 1768608,
+   "title": "Bloodline",
+   "release_date": "2026-10-15",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/l10MXtbaO8G0IZzWToXnr21zG97.jpg",
+   "runtime": 95,
+   "genres": [
+    "Horror"
+   ],
+   "imdb_id": "tt42886802",
+   "popularity": 2.5607,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 2.81,
+   "letterboxd_url": "https://letterboxd.com/film/bloodline-2026-3/"
   },
   {
    "tmdb_id": 1767753,
@@ -2008,7 +1839,7 @@
     "Documentary"
    ],
    "imdb_id": "tt48395812",
-   "popularity": 2.397,
+   "popularity": 2.2212,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2016,6 +1847,174 @@
    "metacritic": null,
    "letterboxd": 4.12,
    "letterboxd_url": "https://letterboxd.com/film/jet-lag-the-game-japanorama-finale/"
+  },
+  {
+   "tmdb_id": 1743245,
+   "title": "FLORID",
+   "release_date": "2026-10-08",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/zSdacVQX2349eVF3BTby3yRn28i.jpg",
+   "runtime": 84,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt8260802",
+   "popularity": 2.5421,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.59,
+   "letterboxd_url": "https://letterboxd.com/film/florid-2026/"
+  },
+  {
+   "tmdb_id": 1624274,
+   "title": "Aaram",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/875X0bFgOlQg18KaUx7d6JWasuD.jpg",
+   "runtime": 150,
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "imdb_id": "tt39460608",
+   "popularity": 1.8467,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/aaram-2026/"
+  },
+  {
+   "tmdb_id": 1212310,
+   "title": "Winter of the Crow",
+   "release_date": "2026-10-16",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/nxyZ9jPq2DAsPpENL5ZjZlb2M9j.jpg",
+   "runtime": 112,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdb_id": "tt30235784",
+   "popularity": 2.2462,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": 95.0,
+   "metacritic": null,
+   "letterboxd": 3.28,
+   "letterboxd_url": "https://letterboxd.com/film/winter-of-the-crow/"
+  },
+  {
+   "tmdb_id": 1768638,
+   "title": "Hope Street: One of Our Own",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/wTPKCyR3d7RGYt48fVuzXRnFCfD.jpg",
+   "runtime": 87,
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "imdb_id": null,
+   "popularity": 2.2015,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/hope-street-one-of-our-own/"
+  },
+  {
+   "tmdb_id": 1727244,
+   "title": "Gupi and the King Who Doesn't Smile",
+   "release_date": "2026-10-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/ksAmCuRqlUxmfRxSMYpdp194nyW.jpg",
+   "runtime": 81,
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 2.3417,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/gupi-and-the-king-who-doesnt-smile/"
+  },
+  {
+   "tmdb_id": 1792381,
+   "title": "ELECTRICKS",
+   "release_date": "2026-10-10",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/l0vI6dC23eYNKdQGLRSjSDqG3aI.jpg",
+   "runtime": 14,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdb_id": null,
+   "popularity": 2.2514,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/electricks/"
+  },
+  {
+   "tmdb_id": 1526746,
+   "title": "A Rose for Iris",
+   "release_date": "2026-09-24",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/kUpuRrvlzGie3pokUkfS8PhTVyO.jpg",
+   "runtime": 13,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "",
+   "popularity": 2.0554,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/a-rose-for-iris/"
+  },
+  {
+   "tmdb_id": 1774055,
+   "title": "Chha Maya Chhapakkai 2",
+   "release_date": "2026-10-18",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/wEX219Czsx6jztVtHDPQD93dX9d.jpg",
+   "runtime": 158,
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 2.354,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/chha-maya-chhapakkai-2/"
   },
   {
    "tmdb_id": 1756656,
@@ -2031,7 +2030,7 @@
     "Mystery"
    ],
    "imdb_id": "tt39182863",
-   "popularity": 2.1579,
+   "popularity": 2.3168,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2039,185 +2038,6 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/blue-hour-2026-2/"
-  },
-  {
-   "tmdb_id": 1740387,
-   "title": "Acharya",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/z3z4hK7E2UZvF8hhKu3iKZyZJvw.jpg",
-   "runtime": 178,
-   "genres": [
-    "Action",
-    "Drama"
-   ],
-   "imdb_id": "tt45609487",
-   "popularity": 1.9025,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/acharya-2026/"
-  },
-  {
-   "tmdb_id": 1526746,
-   "title": "A Rose for Iris",
-   "release_date": "2026-09-24",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/kUpuRrvlzGie3pokUkfS8PhTVyO.jpg",
-   "runtime": 13,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "",
-   "popularity": 2.1974,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/a-rose-for-iris/"
-  },
-  {
-   "tmdb_id": 1789971,
-   "title": "The Pen That Will Not Bow",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/lIzWm7BREGnemlMjoIe4UIzsL0P.jpg",
-   "runtime": null,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt44631036",
-   "popularity": 1.9591,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-pen-that-will-not-bow/"
-  },
-  {
-   "tmdb_id": 1783274,
-   "title": "Red Ledger",
-   "release_date": "2026-10-22",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/t2Km56pdiM5I7DUz3UJf5lWWNUk.jpg",
-   "runtime": 6,
-   "genres": [
-    "Thriller"
-   ],
-   "imdb_id": null,
-   "popularity": 1.7527,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/red-ledger/"
-  },
-  {
-   "tmdb_id": 1757883,
-   "title": "Rooted Out: Chapter One",
-   "release_date": "2026-10-27",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/uEHT7ztwmLHXx0lpLxWTURGwwFy.jpg",
-   "runtime": 81,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt43619416",
-   "popularity": 1.9522,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/rooted-out-chapter-one/"
-  },
-  {
-   "tmdb_id": 1632638,
-   "title": "Try!",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/rdTjkMiqaKM4VaGw3N39bNamzqO.jpg",
-   "runtime": 88,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": "tt39688189",
-   "popularity": 1.861,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/try-2026/"
-  },
-  {
-   "tmdb_id": 1799096,
-   "title": "Alex Jones: One Day in Aberfan",
-   "release_date": "2026-10-18",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/1UQtQtVfCA5JoXUimYzklGAdPTA.jpg",
-   "runtime": 50,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 1.9045,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/alex-jones-one-day-in-aberfan/"
-  },
-  {
-   "tmdb_id": 1764258,
-   "title": "Landing Nowhere",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/qAxcbQD8CJcXO6SdlhxLt04IjFU.jpg",
-   "runtime": 24,
-   "genres": [],
-   "imdb_id": "tt38582670",
-   "popularity": 1.8253,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/landing-nowhere/"
-  },
-  {
-   "tmdb_id": 1620941,
-   "title": "All Rivers Spill Their Stories to the Sea",
-   "release_date": "2026-10-23",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/d0m6PDzDLByPNfp1bdv2D9MbFGY.jpg",
-   "runtime": 99,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": "tt40548469",
-   "popularity": 1.912,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.68,
-   "letterboxd_url": "https://letterboxd.com/film/all-rivers-spill-their-stories-to-the-sea/"
   },
   {
    "tmdb_id": 1776938,
@@ -2231,7 +2051,7 @@
     "Comedy"
    ],
    "imdb_id": "tt44862836",
-   "popularity": 1.9889,
+   "popularity": 1.6061,
    "tmdb": null,
    "imdb": 9.7,
    "imdb_votes": 1031,
@@ -2239,6 +2059,308 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/tutt-paini-english-ne/"
+  },
+  {
+   "tmdb_id": 1789971,
+   "title": "The Pen That Will Not Bow",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/lIzWm7BREGnemlMjoIe4UIzsL0P.jpg",
+   "runtime": null,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt44631036",
+   "popularity": 2.158,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-pen-that-will-not-bow/"
+  },
+  {
+   "tmdb_id": 1757883,
+   "title": "Rooted Out: Chapter One",
+   "release_date": "2026-10-27",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/uEHT7ztwmLHXx0lpLxWTURGwwFy.jpg",
+   "runtime": 81,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt43619416",
+   "popularity": 2.19,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/rooted-out-chapter-one/"
+  },
+  {
+   "tmdb_id": 1596306,
+   "title": "Kikuyu Land",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/a5YGraLDDgg6kTB5MxBzzrWjyWc.jpg",
+   "runtime": 96,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": "tt38390390",
+   "popularity": 1.5759,
+   "tmdb": null,
+   "imdb": 8.3,
+   "imdb_votes": 14,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.58,
+   "letterboxd_url": "https://letterboxd.com/film/kikuyu-land/"
+  },
+  {
+   "tmdb_id": 1620941,
+   "title": "All Rivers Spill Their Stories to the Sea",
+   "release_date": "2026-10-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/d0m6PDzDLByPNfp1bdv2D9MbFGY.jpg",
+   "runtime": 99,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": "tt40548469",
+   "popularity": 1.6745,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.68,
+   "letterboxd_url": "https://letterboxd.com/film/all-rivers-spill-their-stories-to-the-sea/"
+  },
+  {
+   "tmdb_id": 1217928,
+   "title": "Bad Day at the Office",
+   "release_date": "2026-10-30",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/fK5Wt1TPZvP1AyYtFRleIpiEW7E.jpg",
+   "runtime": 112,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "imdb_id": "tt30458232",
+   "popularity": 2.3442,
+   "tmdb": null,
+   "imdb": 6.2,
+   "imdb_votes": 16,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/bad-day-at-the-office-2026/"
+  },
+  {
+   "tmdb_id": 1799096,
+   "title": "Alex Jones: One Day in Aberfan",
+   "release_date": "2026-10-18",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/1UQtQtVfCA5JoXUimYzklGAdPTA.jpg",
+   "runtime": 50,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 1.7821,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/alex-jones-one-day-in-aberfan/"
+  },
+  {
+   "tmdb_id": 1740387,
+   "title": "Acharya",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/z3z4hK7E2UZvF8hhKu3iKZyZJvw.jpg",
+   "runtime": 178,
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "imdb_id": "tt45609487",
+   "popularity": 1.8689,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/acharya-2026/"
+  },
+  {
+   "tmdb_id": 1658840,
+   "title": "Relatives",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/jI6Ko8ET4P3PpnBZ1Eyq3D3l4fb.jpg",
+   "runtime": 86,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "imdb_id": "tt40924565",
+   "popularity": 1.7304,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/relatives-2026/"
+  },
+  {
+   "tmdb_id": 1734486,
+   "title": "Our Share of Sand",
+   "release_date": "2026-10-10",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/5zT5jKwdwyJ0e6fI0G2g5t133Cl.jpg",
+   "runtime": 95,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt40823211",
+   "popularity": 1.7747,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.46,
+   "letterboxd_url": "https://letterboxd.com/film/our-share-of-sand/"
+  },
+  {
+   "tmdb_id": 1342462,
+   "title": "Learners",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/lc48jGfzWfluCmqeY5dFpymR1iP.jpg",
+   "runtime": 15,
+   "genres": [
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 2.3202,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/learners-2026/"
+  },
+  {
+   "tmdb_id": 1632638,
+   "title": "Try!",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/rdTjkMiqaKM4VaGw3N39bNamzqO.jpg",
+   "runtime": 88,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": "tt39688189",
+   "popularity": 2.0659,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/try-2026/"
+  },
+  {
+   "tmdb_id": 1764258,
+   "title": "Landing Nowhere",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/qAxcbQD8CJcXO6SdlhxLt04IjFU.jpg",
+   "runtime": 24,
+   "genres": [],
+   "imdb_id": "tt38582670",
+   "popularity": 1.6421,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/landing-nowhere/"
+  },
+  {
+   "tmdb_id": 1285321,
+   "title": "Children of The Wicker Man",
+   "release_date": "2026-10-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/cGALR5w2wkKteIXHmGrA1NSaSbt.jpg",
+   "runtime": 92,
+   "genres": [
+    "Documentary",
+    "Horror"
+   ],
+   "imdb_id": "tt32582337",
+   "popularity": 1.5512,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.3,
+   "letterboxd_url": "https://letterboxd.com/film/children-of-the-wicker-man/"
+  },
+  {
+   "tmdb_id": 1783274,
+   "title": "Red Ledger",
+   "release_date": "2026-10-22",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/t2Km56pdiM5I7DUz3UJf5lWWNUk.jpg",
+   "runtime": 6,
+   "genres": [
+    "Thriller"
+   ],
+   "imdb_id": null,
+   "popularity": 1.6232,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/red-ledger/"
+  },
+  {
+   "tmdb_id": 1517111,
+   "title": "Boorman and the Devil",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/4HJzmhP8iMzkIQ7cjr2zfIcReiK.jpg",
+   "runtime": 112,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": "tt37654454",
+   "popularity": 1.7525,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": 98.0,
+   "metacritic": null,
+   "letterboxd": 3.77,
+   "letterboxd_url": "https://letterboxd.com/film/boorman-and-the-devil/"
   },
   {
    "tmdb_id": 1355496,
@@ -2253,7 +2375,7 @@
     "Romance"
    ],
    "imdb_id": "tt33365660",
-   "popularity": 1.6683,
+   "popularity": 1.7097,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2261,230 +2383,6 @@
    "metacritic": null,
    "letterboxd": 3.09,
    "letterboxd_url": "https://letterboxd.com/film/by-design-2025/"
-  },
-  {
-   "tmdb_id": 1596306,
-   "title": "Kikuyu Land",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/a5YGraLDDgg6kTB5MxBzzrWjyWc.jpg",
-   "runtime": 96,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": "tt38390390",
-   "popularity": 1.9335,
-   "tmdb": null,
-   "imdb": 8.3,
-   "imdb_votes": 14,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.58,
-   "letterboxd_url": "https://letterboxd.com/film/kikuyu-land/"
-  },
-  {
-   "tmdb_id": 1517111,
-   "title": "Boorman and the Devil",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/4HJzmhP8iMzkIQ7cjr2zfIcReiK.jpg",
-   "runtime": 112,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": "tt37654454",
-   "popularity": 1.7213,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": 98.0,
-   "metacritic": null,
-   "letterboxd": 3.77,
-   "letterboxd_url": "https://letterboxd.com/film/boorman-and-the-devil/"
-  },
-  {
-   "tmdb_id": 1342462,
-   "title": "Learners",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/lc48jGfzWfluCmqeY5dFpymR1iP.jpg",
-   "runtime": 15,
-   "genres": [
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 1.8836,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/learners-2026/"
-  },
-  {
-   "tmdb_id": 1794350,
-   "title": "Her Daughters’ Mother",
-   "release_date": "2026-10-28",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/jWJt5hDOI6RzX4W1bQB6AQO8gij.jpg",
-   "runtime": 110,
-   "genres": [],
-   "imdb_id": null,
-   "popularity": 1.4757,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/her-daughters-mother/"
-  },
-  {
-   "tmdb_id": 1462368,
-   "title": "These Violent Delights",
-   "release_date": "2026-10-21",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/jNkGb8NiDKKyDgtlITcmYHKFH6i.jpg",
-   "runtime": 70,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt43637896",
-   "popularity": 1.5074,
-   "tmdb": null,
-   "imdb": 8.4,
-   "imdb_votes": 11,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/these-violent-delights/"
-  },
-  {
-   "tmdb_id": 1356474,
-   "title": "Babystar",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/vrqHneBh2iDYWvyPzxJqlw2JknT.jpg",
-   "runtime": 98,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt34998116",
-   "popularity": 1.4035,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.33,
-   "letterboxd_url": "https://letterboxd.com/film/babystar/"
-  },
-  {
-   "tmdb_id": 1658840,
-   "title": "Relatives",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/jI6Ko8ET4P3PpnBZ1Eyq3D3l4fb.jpg",
-   "runtime": 86,
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "imdb_id": "tt40924565",
-   "popularity": 1.8931,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/relatives-2026/"
-  },
-  {
-   "tmdb_id": 1789889,
-   "title": "Back in Business",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/j92BIzjtl7CFSV1mR6KxKeDmmdo.jpg",
-   "runtime": null,
-   "genres": [
-    "Comedy",
-    "Crime",
-    "Thriller"
-   ],
-   "imdb_id": "tt10091576",
-   "popularity": 1.5912,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/back-in-business-2026/"
-  },
-  {
-   "tmdb_id": 1285321,
-   "title": "Children of The Wicker Man",
-   "release_date": "2026-10-23",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/cGALR5w2wkKteIXHmGrA1NSaSbt.jpg",
-   "runtime": 92,
-   "genres": [
-    "Documentary",
-    "Horror"
-   ],
-   "imdb_id": "tt32582337",
-   "popularity": 1.8126,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.3,
-   "letterboxd_url": "https://letterboxd.com/film/children-of-the-wicker-man/"
-  },
-  {
-   "tmdb_id": 1734486,
-   "title": "Our Share of Sand",
-   "release_date": "2026-10-10",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/5zT5jKwdwyJ0e6fI0G2g5t133Cl.jpg",
-   "runtime": 95,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt40823211",
-   "popularity": 1.8896,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.46,
-   "letterboxd_url": "https://letterboxd.com/film/our-share-of-sand/"
-  },
-  {
-   "tmdb_id": 1800703,
-   "title": "Fails of Suspense",
-   "release_date": "2026-10-26",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/bEUh1QaRvYeUE3dirWPLha04Wzv.jpg",
-   "runtime": 7,
-   "genres": [
-    "Thriller",
-    "Crime",
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 1.5006,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/fails-of-suspense/"
   },
   {
    "tmdb_id": 1723572,
@@ -2497,7 +2395,7 @@
     "Drama"
    ],
    "imdb_id": null,
-   "popularity": 1.6532,
+   "popularity": 1.655,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2505,26 +2403,6 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/close-2026-2/"
-  },
-  {
-   "tmdb_id": 1508223,
-   "title": "Say It",
-   "release_date": "2026-03-27",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/r1rd7LazXcGb9ZnOqwnqFiZrcIu.jpg",
-   "runtime": 10,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt35856130",
-   "popularity": 1.2098,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/say-it-2025/"
   },
   {
    "tmdb_id": 1692364,
@@ -2537,7 +2415,7 @@
     "Drama"
    ],
    "imdb_id": "tt5796056",
-   "popularity": 1.6386,
+   "popularity": 1.617,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2557,7 +2435,7 @@
     "Documentary"
    ],
    "imdb_id": "tt39117304",
-   "popularity": 1.6193,
+   "popularity": 1.5412,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2565,6 +2443,108 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/enter-the-television/"
+  },
+  {
+   "tmdb_id": 1789889,
+   "title": "Back in Business",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/j92BIzjtl7CFSV1mR6KxKeDmmdo.jpg",
+   "runtime": null,
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+   ],
+   "imdb_id": "tt10091576",
+   "popularity": 1.412,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/back-in-business-2026/"
+  },
+  {
+   "tmdb_id": 1528830,
+   "title": "Extra Geography",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
+   "runtime": 94,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt34798706",
+   "popularity": 1.2208,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": 100.0,
+   "metacritic": null,
+   "letterboxd": 3.6,
+   "letterboxd_url": "https://letterboxd.com/film/extra-geography/"
+  },
+  {
+   "tmdb_id": 1462368,
+   "title": "These Violent Delights",
+   "release_date": "2026-10-21",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/jNkGb8NiDKKyDgtlITcmYHKFH6i.jpg",
+   "runtime": 70,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt43637896",
+   "popularity": 1.6763,
+   "tmdb": null,
+   "imdb": 8.4,
+   "imdb_votes": 11,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/these-violent-delights/"
+  },
+  {
+   "tmdb_id": 1800703,
+   "title": "Fails of Suspense",
+   "release_date": "2026-10-26",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/bEUh1QaRvYeUE3dirWPLha04Wzv.jpg",
+   "runtime": 7,
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 1.3413,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/fails-of-suspense/"
+  },
+  {
+   "tmdb_id": 1794350,
+   "title": "Her Daughters’ Mother",
+   "release_date": "2026-10-28",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/jWJt5hDOI6RzX4W1bQB6AQO8gij.jpg",
+   "runtime": 110,
+   "genres": [],
+   "imdb_id": null,
+   "popularity": 1.5763,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/her-daughters-mother/"
   },
   {
    "tmdb_id": 1712448,
@@ -2577,7 +2557,7 @@
     "Comedy"
    ],
    "imdb_id": "tt41379174",
-   "popularity": 1.4752,
+   "popularity": 1.4385,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2585,6 +2565,27 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/ice-cream-i-scream-capital/"
+  },
+  {
+   "tmdb_id": 1710666,
+   "title": "Outsiders",
+   "release_date": "2026-10-10",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/cSIx8hpU1qEiPLfFzUpGovbtPR5.jpg",
+   "runtime": 17,
+   "genres": [
+    "Science Fiction",
+    "Horror"
+   ],
+   "imdb_id": "tt40415634",
+   "popularity": 1.2489,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/outsiders-2026/"
   },
   {
    "tmdb_id": 1765715,
@@ -2599,7 +2600,7 @@
     "Music"
    ],
    "imdb_id": null,
-   "popularity": 1.4352,
+   "popularity": 1.4122,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2607,24 +2608,6 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-meadows/"
-  },
-  {
-   "tmdb_id": 1783165,
-   "title": "One Last Night",
-   "release_date": "2026-09-23",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/q0dBF3IDkN78f74qOBXK9ZAl0Y7.jpg",
-   "runtime": 19,
-   "genres": [],
-   "imdb_id": null,
-   "popularity": 1.3518,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/one-last-night-2026/"
   },
   {
    "tmdb_id": 1691418,
@@ -2637,7 +2620,7 @@
     "Drama"
    ],
    "imdb_id": "tt42667042",
-   "popularity": 1.4339,
+   "popularity": 1.3051,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2645,6 +2628,168 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/for-those-who-love-leave-and-love-again/"
+  },
+  {
+   "tmdb_id": 1776954,
+   "title": "Mitrata",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/9WpP9KlGkPovW3BGbad7mKVAw5C.jpg",
+   "runtime": 114,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "imdb_id": "tt43641694",
+   "popularity": 1.2069,
+   "tmdb": null,
+   "imdb": 8.6,
+   "imdb_votes": 51,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/mitrata/"
+  },
+  {
+   "tmdb_id": 1590154,
+   "title": "The Fall of Barsisa",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/34z4kc9m040LJx4641dPDI76JQi.jpg",
+   "runtime": 75,
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Horror"
+   ],
+   "imdb_id": null,
+   "popularity": 1.1573,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-fall-of-barsisa/"
+  },
+  {
+   "tmdb_id": 1356474,
+   "title": "Babystar",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/vrqHneBh2iDYWvyPzxJqlw2JknT.jpg",
+   "runtime": 98,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt34998116",
+   "popularity": 1.5075,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.33,
+   "letterboxd_url": "https://letterboxd.com/film/babystar/"
+  },
+  {
+   "tmdb_id": 1798382,
+   "title": "Homecoming Shenanigans",
+   "release_date": "2026-10-15",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/guhWyAkAyovSwHiNz1yecRrTtHk.jpg",
+   "runtime": 23,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt35693677",
+   "popularity": 1.4526,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/homecoming-shenanigans/"
+  },
+  {
+   "tmdb_id": 1783165,
+   "title": "One Last Night",
+   "release_date": "2026-09-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/q0dBF3IDkN78f74qOBXK9ZAl0Y7.jpg",
+   "runtime": 19,
+   "genres": [],
+   "imdb_id": null,
+   "popularity": 1.2133,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/one-last-night-2026/"
+  },
+  {
+   "tmdb_id": 1796471,
+   "title": "Aberfan: The Village That Fought Back",
+   "release_date": "2026-10-19",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/hyKyKDsnxYGx5zlMyy4qw0a0yZ1.jpg",
+   "runtime": 60,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": "tt49656931",
+   "popularity": 1.0109,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/aberfan-the-village-that-fought-back/"
+  },
+  {
+   "tmdb_id": 1505441,
+   "title": "Nightmares",
+   "release_date": "2026-10-01",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/iBGo3tzQ2fesULpZWlUYgOWASac.jpg",
+   "runtime": null,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdb_id": "tt32528755",
+   "popularity": 1.1165,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/nightmares-2026/"
+  },
+  {
+   "tmdb_id": 1725773,
+   "title": "For Your Suffering",
+   "release_date": "2020-10-01",
+   "year": "2020",
+   "poster": "https://image.tmdb.org/t/p/w342/3xQqcX14uNp23XpCgotbM9DSKbR.jpg",
+   "runtime": 7,
+   "genres": [
+    "Mystery"
+   ],
+   "imdb_id": "tt13218898",
+   "popularity": 1.2289,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/for-your-suffering/"
   },
   {
    "tmdb_id": 1781334,
@@ -2657,7 +2802,7 @@
     "Drama"
    ],
    "imdb_id": "tt47259278",
-   "popularity": 1.2768,
+   "popularity": 1.2183,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2665,6 +2810,67 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/spicegirl/"
+  },
+  {
+   "tmdb_id": 1125403,
+   "title": "In the Shadows",
+   "release_date": "2026-10-30",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/1cuSXENMYq5ltA8HP9GZXG8fhwO.jpg",
+   "runtime": 116,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt10997764",
+   "popularity": 1.2436,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/in-the-shadows-2026/"
+  },
+  {
+   "tmdb_id": 1721871,
+   "title": "Breezeblock",
+   "release_date": "2026-10-10",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/mhWA6q4ReiSoxuZgqTebnRuBrWJ.jpg",
+   "runtime": 4,
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "imdb_id": "tt36257630",
+   "popularity": 1.4076,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/breezeblock/"
+  },
+  {
+   "tmdb_id": 1792612,
+   "title": "Behind the Reflection",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/rJwb4EJMWswcMyroiRO5Yw90Oqj.jpg",
+   "runtime": 24,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt37432817",
+   "popularity": 1.1812,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/behind-the-reflection-2026/"
   },
   {
    "tmdb_id": 1790261,
@@ -2678,7 +2884,7 @@
     "Thriller"
    ],
    "imdb_id": "tt42526456",
-   "popularity": 1.2507,
+   "popularity": 1.4414,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2688,45 +2894,128 @@
    "letterboxd_url": "https://letterboxd.com/film/the-memory-remains/"
   },
   {
-   "tmdb_id": 1710666,
-   "title": "Outsiders",
-   "release_date": "2026-10-10",
+   "tmdb_id": 1781036,
+   "title": "Blue Lagoon",
+   "release_date": "2026-09-24",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/cSIx8hpU1qEiPLfFzUpGovbtPR5.jpg",
-   "runtime": 17,
+   "poster": null,
+   "runtime": 13,
    "genres": [
-    "Science Fiction",
-    "Horror"
+    "Documentary",
+    "Music"
    ],
-   "imdb_id": "tt40415634",
-   "popularity": 1.4406,
+   "imdb_id": null,
+   "popularity": 1.0523,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/outsiders-2026/"
+   "letterboxd_url": "https://letterboxd.com/film/blue-lagoon-2026/"
   },
   {
-   "tmdb_id": 1798382,
-   "title": "Homecoming Shenanigans",
-   "release_date": "2026-10-15",
+   "tmdb_id": 1756742,
+   "title": "Out of Breath",
+   "release_date": "2026-09-29",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/guhWyAkAyovSwHiNz1yecRrTtHk.jpg",
-   "runtime": 23,
+   "poster": "https://image.tmdb.org/t/p/w342/cKnu9KN0HZ0JxzCU8RBp4d9xutU.jpg",
+   "runtime": 83,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 1.2261,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/out-of-breath-2026/"
+  },
+  {
+   "tmdb_id": 1508223,
+   "title": "Say It",
+   "release_date": "2026-03-27",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/r1rd7LazXcGb9ZnOqwnqFiZrcIu.jpg",
+   "runtime": 10,
    "genres": [
     "Drama"
    ],
-   "imdb_id": "tt35693677",
-   "popularity": 1.3738,
+   "imdb_id": "tt35856130",
+   "popularity": 1.104,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/homecoming-shenanigans/"
+   "letterboxd_url": "https://letterboxd.com/film/say-it-2025/"
+  },
+  {
+   "tmdb_id": 1776971,
+   "title": "Lutt Mubarak",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/q9Nlv8mW8Nouf4BjKrLCZoiweIR.jpg",
+   "runtime": 130,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt39007156",
+   "popularity": 1.014,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/lutt-mubarak/"
+  },
+  {
+   "tmdb_id": 1448266,
+   "title": "The Catcher",
+   "release_date": "2026-04-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/sHlCqBrv8AWtqEiqSFcT3oTXpxF.jpg",
+   "runtime": 29,
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery",
+    "Science Fiction"
+   ],
+   "imdb_id": "tt36434292",
+   "popularity": 1.0565,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-catcher-2026/"
+  },
+  {
+   "tmdb_id": 1719676,
+   "title": "Take His Life",
+   "release_date": "2026-10-03",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/h5vgzSStGmtJf56qoaouws2NC4R.jpg",
+   "runtime": 4,
+   "genres": [
+    "Thriller"
+   ],
+   "imdb_id": "tt36242376",
+   "popularity": 1.0415,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/take-his-life/"
   },
   {
    "tmdb_id": 1573018,
@@ -2739,7 +3028,7 @@
     "Drama"
    ],
    "imdb_id": "tt39398294",
-   "popularity": 1.1798,
+   "popularity": 1.2002,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2760,7 +3049,7 @@
     "Horror"
    ],
    "imdb_id": null,
-   "popularity": 1.1286,
+   "popularity": 1.153,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2768,232 +3057,6 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/limbus-2026/"
-  },
-  {
-   "tmdb_id": 1796471,
-   "title": "Aberfan: The Village That Fought Back",
-   "release_date": "2026-10-19",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/hyKyKDsnxYGx5zlMyy4qw0a0yZ1.jpg",
-   "runtime": 60,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": "tt49656931",
-   "popularity": 1.3337,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/aberfan-the-village-that-fought-back/"
-  },
-  {
-   "tmdb_id": 1781036,
-   "title": "Blue Lagoon",
-   "release_date": "2026-09-24",
-   "year": "2026",
-   "poster": null,
-   "runtime": 13,
-   "genres": [
-    "Documentary",
-    "Music"
-   ],
-   "imdb_id": null,
-   "popularity": 1.2445,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/blue-lagoon-2026/"
-  },
-  {
-   "tmdb_id": 1721871,
-   "title": "Breezeblock",
-   "release_date": "2026-10-10",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/mhWA6q4ReiSoxuZgqTebnRuBrWJ.jpg",
-   "runtime": 4,
-   "genres": [
-    "Drama",
-    "Comedy"
-   ],
-   "imdb_id": "tt36257630",
-   "popularity": 1.2563,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/breezeblock/"
-  },
-  {
-   "tmdb_id": 1590154,
-   "title": "The Fall of Barsisa",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/34z4kc9m040LJx4641dPDI76JQi.jpg",
-   "runtime": 75,
-   "genres": [
-    "Fantasy",
-    "Adventure",
-    "Horror"
-   ],
-   "imdb_id": null,
-   "popularity": 1.4062,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-fall-of-barsisa/"
-  },
-  {
-   "tmdb_id": 1792520,
-   "title": "Crocodile Tears",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/7ZMshMCl9gwt3IQ5LMaNuaJk0Ns.jpg",
-   "runtime": 15,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt41796019",
-   "popularity": 1.0437,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/crocodile-tears-2026-1/"
-  },
-  {
-   "tmdb_id": 1756742,
-   "title": "Out of Breath",
-   "release_date": "2026-09-29",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/cKnu9KN0HZ0JxzCU8RBp4d9xutU.jpg",
-   "runtime": 83,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 1.2445,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/out-of-breath-2026/"
-  },
-  {
-   "tmdb_id": 1528830,
-   "title": "Extra Geography",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
-   "runtime": 94,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt34798706",
-   "popularity": 1.5232,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": 100.0,
-   "metacritic": null,
-   "letterboxd": 3.6,
-   "letterboxd_url": "https://letterboxd.com/film/extra-geography/"
-  },
-  {
-   "tmdb_id": 1654015,
-   "title": "Can you hear me Major Tom?",
-   "release_date": "2026-10-10",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/gRTdIQAQ3ElQWo6jUxwx7xMnItC.jpg",
-   "runtime": 20,
-   "genres": [
-    "Drama",
-    "Animation"
-   ],
-   "imdb_id": null,
-   "popularity": 1.119,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/can-you-hear-me-major-tom/"
-  },
-  {
-   "tmdb_id": 1776971,
-   "title": "Lutt Mubarak",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/q9Nlv8mW8Nouf4BjKrLCZoiweIR.jpg",
-   "runtime": 130,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt39007156",
-   "popularity": 1.2024,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/lutt-mubarak/"
-  },
-  {
-   "tmdb_id": 1776954,
-   "title": "Mitrata",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/9WpP9KlGkPovW3BGbad7mKVAw5C.jpg",
-   "runtime": 114,
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "imdb_id": "tt43641694",
-   "popularity": 1.4335,
-   "tmdb": null,
-   "imdb": 8.6,
-   "imdb_votes": 51,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/mitrata/"
-  },
-  {
-   "tmdb_id": 1719676,
-   "title": "Take His Life",
-   "release_date": "2026-10-03",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/h5vgzSStGmtJf56qoaouws2NC4R.jpg",
-   "runtime": 4,
-   "genres": [
-    "Thriller"
-   ],
-   "imdb_id": "tt36242376",
-   "popularity": 1.1858,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/take-his-life/"
   },
   {
    "tmdb_id": 1718221,
@@ -3007,7 +3070,7 @@
     "Drama"
    ],
    "imdb_id": "tt37805796",
-   "popularity": 1.123,
+   "popularity": 1.1435,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3017,229 +3080,45 @@
    "letterboxd_url": "https://letterboxd.com/film/a-girl-called-alice/"
   },
   {
-   "tmdb_id": 1125403,
-   "title": "In the Shadows",
-   "release_date": "2026-10-30",
+   "tmdb_id": 1654015,
+   "title": "Can you hear me Major Tom?",
+   "release_date": "2026-10-10",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/1cuSXENMYq5ltA8HP9GZXG8fhwO.jpg",
-   "runtime": 116,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt10997764",
-   "popularity": 1.2612,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/in-the-shadows-2026/"
-  },
-  {
-   "tmdb_id": 1784633,
-   "title": "Remember That Time",
-   "release_date": "2026-09-30",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/f6V4vySxdQPUyXzn72nfilgor0l.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/gRTdIQAQ3ElQWo6jUxwx7xMnItC.jpg",
    "runtime": 20,
    "genres": [
-    "Documentary"
+    "Drama",
+    "Animation"
    ],
    "imdb_id": null,
-   "popularity": 0.9953,
+   "popularity": 1.0908,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/remember-that-time/"
+   "letterboxd_url": "https://letterboxd.com/film/can-you-hear-me-major-tom/"
   },
   {
-   "tmdb_id": 1669763,
-   "title": "The Dance of the Kokorrdit",
-   "release_date": "2026-10-05",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/u7tvuYcwylVaSGC5cnpFGOpUqiX.jpg",
-   "runtime": 76,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.9149,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-dance-of-the-kokorrdit/"
-  },
-  {
-   "tmdb_id": 1792612,
-   "title": "Behind the Reflection",
+   "tmdb_id": 1792520,
+   "title": "Crocodile Tears",
    "release_date": "2026-10-09",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/rJwb4EJMWswcMyroiRO5Yw90Oqj.jpg",
-   "runtime": 24,
+   "poster": "https://image.tmdb.org/t/p/w342/7ZMshMCl9gwt3IQ5LMaNuaJk0Ns.jpg",
+   "runtime": 15,
    "genres": [
     "Drama"
    ],
-   "imdb_id": "tt37432817",
-   "popularity": 1.2509,
+   "imdb_id": "tt41796019",
+   "popularity": 1.1608,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/behind-the-reflection-2026/"
-  },
-  {
-   "tmdb_id": 1792337,
-   "title": "Of Times There Were Before",
-   "release_date": "2026-11-03",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/2lrYHR0eNOT254kWvzSPvnSiiiv.jpg",
-   "runtime": 83,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.9797,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/of-times-there-were-before/"
-  },
-  {
-   "tmdb_id": 1448266,
-   "title": "The Catcher",
-   "release_date": "2026-04-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/sHlCqBrv8AWtqEiqSFcT3oTXpxF.jpg",
-   "runtime": 29,
-   "genres": [
-    "Drama",
-    "Thriller",
-    "Mystery",
-    "Science Fiction"
-   ],
-   "imdb_id": "tt36434292",
-   "popularity": 1.1947,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-catcher-2026/"
-  },
-  {
-   "tmdb_id": 1505441,
-   "title": "Nightmares",
-   "release_date": "2026-10-01",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/iBGo3tzQ2fesULpZWlUYgOWASac.jpg",
-   "runtime": null,
-   "genres": [
-    "Drama",
-    "Thriller"
-   ],
-   "imdb_id": "tt32528755",
-   "popularity": 1.317,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/nightmares-2026/"
-  },
-  {
-   "tmdb_id": 1502997,
-   "title": "Wendehorn",
-   "release_date": "2026-10-31",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/9aEGtedbaOojHxwYDy3b2Y631sQ.jpg",
-   "runtime": null,
-   "genres": [
-    "Horror"
-   ],
-   "imdb_id": "tt37137126",
-   "popularity": 0.8553,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/wendehorn/"
-  },
-  {
-   "tmdb_id": 1773928,
-   "title": "Mask Murder",
-   "release_date": "2026-10-13",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/itCuMjnYBcol2fX0WYDRZtRFjtF.jpg",
-   "runtime": 2,
-   "genres": [
-    "Horror"
-   ],
-   "imdb_id": null,
-   "popularity": 0.9837,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/mask-murder/"
-  },
-  {
-   "tmdb_id": 1792741,
-   "title": "ADHD",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/pImNQdmeynzRJvVvUPe2IfBkb4G.jpg",
-   "runtime": 6,
-   "genres": [
-    "Drama",
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 0.9569,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/adhd/"
-  },
-  {
-   "tmdb_id": 1725773,
-   "title": "For Your Suffering",
-   "release_date": "2020-10-01",
-   "year": "2020",
-   "poster": "https://image.tmdb.org/t/p/w342/3xQqcX14uNp23XpCgotbM9DSKbR.jpg",
-   "runtime": 7,
-   "genres": [
-    "Mystery"
-   ],
-   "imdb_id": "tt13218898",
-   "popularity": 1.3073,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/for-your-suffering/"
+   "letterboxd_url": "https://letterboxd.com/film/crocodile-tears-2026-1/"
   },
   {
    "tmdb_id": 1792115,
@@ -3253,7 +3132,7 @@
     "Fantasy"
    ],
    "imdb_id": "tt47091674",
-   "popularity": 1.0317,
+   "popularity": 0.8976,
    "tmdb": null,
    "imdb": 6.8,
    "imdb_votes": 10,
@@ -3263,24 +3142,24 @@
    "letterboxd_url": "https://letterboxd.com/film/agbara-nla-the-return/"
   },
   {
-   "tmdb_id": 1793050,
-   "title": "Hazard Perception",
-   "release_date": "2026-10-09",
+   "tmdb_id": 1575013,
+   "title": "Black Hollow",
+   "release_date": "2026-10-31",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/1MaXVLjTaWhaym4olF3oBPoZoO0.jpg",
-   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/6OrVFi90eMtnardezRuzjZnNGCz.jpg",
+   "runtime": 10,
    "genres": [
-    "Drama"
+    "Horror"
    ],
-   "imdb_id": "tt39537077",
-   "popularity": 0.8642,
+   "imdb_id": null,
+   "popularity": 0.997,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/hazard-perception/"
+   "letterboxd_url": "https://letterboxd.com/film/black-hollow/"
   },
   {
    "tmdb_id": 1718506,
@@ -3294,7 +3173,7 @@
     "Family"
    ],
    "imdb_id": null,
-   "popularity": 1.0135,
+   "popularity": 0.9668,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3304,45 +3183,44 @@
    "letterboxd_url": "https://letterboxd.com/film/baa-ek-yoddha/"
   },
   {
-   "tmdb_id": 1804039,
-   "title": "City of Masks",
-   "release_date": "2026-10-30",
+   "tmdb_id": 1784633,
+   "title": "Remember That Time",
+   "release_date": "2026-09-30",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/vORv4gR1DTrNcZnehbHbaTcVEOe.jpg",
-   "runtime": 93,
-   "genres": [
-    "Romance",
-    "Thriller"
-   ],
-   "imdb_id": "tt38046366",
-   "popularity": 0.9102,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/city-of-masks/"
-  },
-  {
-   "tmdb_id": 1796487,
-   "title": "Unseen: The Aberfan Portraits",
-   "release_date": "2026-10-19",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/hGxpTWXh4y04cWa5tFk1PhrZLob.jpg",
-   "runtime": 15,
+   "poster": "https://image.tmdb.org/t/p/w342/f6V4vySxdQPUyXzn72nfilgor0l.jpg",
+   "runtime": 20,
    "genres": [
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.8392,
+   "popularity": 0.8532,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/unseen-the-aberfan-portraits/"
+   "letterboxd_url": "https://letterboxd.com/film/remember-that-time/"
+  },
+  {
+   "tmdb_id": 1773928,
+   "title": "Mask Murder",
+   "release_date": "2026-10-13",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/itCuMjnYBcol2fX0WYDRZtRFjtF.jpg",
+   "runtime": 2,
+   "genres": [
+    "Horror"
+   ],
+   "imdb_id": null,
+   "popularity": 0.8001,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/mask-murder/"
   },
   {
    "tmdb_id": 1523450,
@@ -3356,7 +3234,7 @@
     "Drama"
    ],
    "imdb_id": "tt37646850",
-   "popularity": 0.9816,
+   "popularity": 0.9094,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3364,6 +3242,67 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/a-hairs-breadth/"
+  },
+  {
+   "tmdb_id": 1792337,
+   "title": "Of Times There Were Before",
+   "release_date": "2026-11-03",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/2lrYHR0eNOT254kWvzSPvnSiiiv.jpg",
+   "runtime": 83,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 1.0114,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/of-times-there-were-before/"
+  },
+  {
+   "tmdb_id": 1792741,
+   "title": "ADHD",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/pImNQdmeynzRJvVvUPe2IfBkb4G.jpg",
+   "runtime": 6,
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 0.8059,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/adhd/"
+  },
+  {
+   "tmdb_id": 1669763,
+   "title": "The Dance of the Kokorrdit",
+   "release_date": "2026-10-05",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/u7tvuYcwylVaSGC5cnpFGOpUqiX.jpg",
+   "runtime": 76,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.9452,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-dance-of-the-kokorrdit/"
   },
   {
    "tmdb_id": 1796228,
@@ -3377,7 +3316,7 @@
     "Horror"
    ],
    "imdb_id": null,
-   "popularity": 0.9137,
+   "popularity": 1.0692,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3387,24 +3326,63 @@
    "letterboxd_url": "https://letterboxd.com/film/the-dog-whistle/"
   },
   {
-   "tmdb_id": 1788989,
-   "title": "It's Pronounced Dave",
-   "release_date": "2026-10-01",
+   "tmdb_id": 1804039,
+   "title": "City of Masks",
+   "release_date": "2026-10-30",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/5t3CXdqwrckkzNacdujI40hYsfn.jpg",
-   "runtime": 4,
+   "poster": "https://image.tmdb.org/t/p/w342/vORv4gR1DTrNcZnehbHbaTcVEOe.jpg",
+   "runtime": 93,
    "genres": [
-    "Comedy"
+    "Romance",
+    "Thriller"
    ],
-   "imdb_id": null,
-   "popularity": 0.849,
+   "imdb_id": "tt38046366",
+   "popularity": 1.0193,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/its-pronounced-dave/"
+   "letterboxd_url": "https://letterboxd.com/film/city-of-masks/"
+  },
+  {
+   "tmdb_id": 1792099,
+   "title": "Ukraine Ghost Ship",
+   "release_date": "2026-10-12",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/A0I7vmUon7bHCXxlvbihFt3bgGz.jpg",
+   "runtime": 72,
+   "genres": [],
+   "imdb_id": null,
+   "popularity": 0.7259,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/ukraine-ghost-ship/"
+  },
+  {
+   "tmdb_id": 1792548,
+   "title": "Procedure",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/hv1zEuKIL4m34vzpbkB4VSwdK43.jpg",
+   "runtime": 9,
+   "genres": [
+    "Thriller"
+   ],
+   "imdb_id": null,
+   "popularity": 0.926,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/procedure-2026/"
   },
   {
    "tmdb_id": 1769897,
@@ -3417,7 +3395,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.8667,
+   "popularity": 0.6627,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3425,6 +3403,128 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/transformation-2026/"
+  },
+  {
+   "tmdb_id": 1793050,
+   "title": "Hazard Perception",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/1MaXVLjTaWhaym4olF3oBPoZoO0.jpg",
+   "runtime": null,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt39537077",
+   "popularity": 0.8843,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/hazard-perception/"
+  },
+  {
+   "tmdb_id": 1502997,
+   "title": "Wendehorn",
+   "release_date": "2026-10-31",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/9aEGtedbaOojHxwYDy3b2Y631sQ.jpg",
+   "runtime": null,
+   "genres": [
+    "Horror"
+   ],
+   "imdb_id": "tt37137126",
+   "popularity": 0.8548,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/wendehorn/"
+  },
+  {
+   "tmdb_id": 1788989,
+   "title": "It's Pronounced Dave",
+   "release_date": "2026-10-01",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/5t3CXdqwrckkzNacdujI40hYsfn.jpg",
+   "runtime": 4,
+   "genres": [
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 0.8333,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/its-pronounced-dave/"
+  },
+  {
+   "tmdb_id": 1796487,
+   "title": "Unseen: The Aberfan Portraits",
+   "release_date": "2026-10-19",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/hGxpTWXh4y04cWa5tFk1PhrZLob.jpg",
+   "runtime": 15,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.7838,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/unseen-the-aberfan-portraits/"
+  },
+  {
+   "tmdb_id": 1475044,
+   "title": "Forget-me-not",
+   "release_date": "2026-10-31",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/A5oupBnv26V6qQ1uyJ6m7rUP6Fp.jpg",
+   "runtime": 8,
+   "genres": [
+    "Horror",
+    "Drama",
+    "Mystery"
+   ],
+   "imdb_id": null,
+   "popularity": 0.6469,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/forget-me-not-2026/"
+  },
+  {
+   "tmdb_id": 1792757,
+   "title": "The First Silence",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/oumqA3N9NmDmqYpBQkZj0aWyOaj.jpg",
+   "runtime": 13,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt43596743",
+   "popularity": 0.8145,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-first-silence/"
   },
   {
    "tmdb_id": 1746080,
@@ -3435,7 +3535,7 @@
    "runtime": 82,
    "genres": [],
    "imdb_id": "tt43704166",
-   "popularity": 0.8202,
+   "popularity": 0.7269,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3453,7 +3553,7 @@
    "runtime": 7,
    "genres": [],
    "imdb_id": null,
-   "popularity": 0.7977,
+   "popularity": 0.704,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3461,26 +3561,6 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/bridport-torchlight-procession/"
-  },
-  {
-   "tmdb_id": 1792757,
-   "title": "The First Silence",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/oumqA3N9NmDmqYpBQkZj0aWyOaj.jpg",
-   "runtime": 13,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt43596743",
-   "popularity": 0.8243,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-first-silence/"
   },
   {
    "tmdb_id": 1438857,
@@ -3493,7 +3573,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.7659,
+   "popularity": 0.7941,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3501,306 +3581,6 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/secrets-of-the-southwest-science-behind-the/"
-  },
-  {
-   "tmdb_id": 1793467,
-   "title": "Egg",
-   "release_date": "2026-10-10",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/3gZAm35Nc2wk9eQVljWaJhagBbk.jpg",
-   "runtime": 9,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": null,
-   "popularity": 0.707,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/egg-2026-2/"
-  },
-  {
-   "tmdb_id": 1475044,
-   "title": "Forget-me-not",
-   "release_date": "2026-10-31",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/A5oupBnv26V6qQ1uyJ6m7rUP6Fp.jpg",
-   "runtime": 8,
-   "genres": [
-    "Horror",
-    "Drama",
-    "Mystery"
-   ],
-   "imdb_id": null,
-   "popularity": 0.8317,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/forget-me-not-2026/"
-  },
-  {
-   "tmdb_id": 1575013,
-   "title": "Black Hollow",
-   "release_date": "2026-10-31",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/6OrVFi90eMtnardezRuzjZnNGCz.jpg",
-   "runtime": 10,
-   "genres": [
-    "Horror"
-   ],
-   "imdb_id": null,
-   "popularity": 1.0185,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/black-hollow/"
-  },
-  {
-   "tmdb_id": 1792099,
-   "title": "Ukraine Ghost Ship",
-   "release_date": "2026-10-12",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/A0I7vmUon7bHCXxlvbihFt3bgGz.jpg",
-   "runtime": 72,
-   "genres": [],
-   "imdb_id": null,
-   "popularity": 0.9057,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/ukraine-ghost-ship/"
-  },
-  {
-   "tmdb_id": 1791598,
-   "title": "Mucker",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": null,
-   "runtime": null,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.721,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/mucker/"
-  },
-  {
-   "tmdb_id": 1791595,
-   "title": "Dreamscape",
-   "release_date": "2026-10-10",
-   "year": "2026",
-   "poster": null,
-   "runtime": 8,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.6921,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/dreamscape-2026-2/"
-  },
-  {
-   "tmdb_id": 1792548,
-   "title": "Procedure",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/hv1zEuKIL4m34vzpbkB4VSwdK43.jpg",
-   "runtime": 9,
-   "genres": [
-    "Thriller"
-   ],
-   "imdb_id": null,
-   "popularity": 0.8668,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/procedure-2026/"
-  },
-  {
-   "tmdb_id": 1799614,
-   "title": "S K 8",
-   "release_date": "2026-10-17",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/zqYVNdI8jYrm67f2geiY2uKObzi.jpg",
-   "runtime": 8,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.6473,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/s-k-8/"
-  },
-  {
-   "tmdb_id": 1801497,
-   "title": "Lost City",
-   "release_date": "2026-10-29",
-   "year": "2026",
-   "poster": null,
-   "runtime": 94,
-   "genres": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "imdb_id": "tt44127752",
-   "popularity": 0.7321,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/lost-city-2026/"
-  },
-  {
-   "tmdb_id": 1791563,
-   "title": "The Sound We Make Together",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/zn60OfUc2i29YgTsi2ofMNf3itN.jpg",
-   "runtime": 7,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.6384,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-sound-we-make-together/"
-  },
-  {
-   "tmdb_id": 1547942,
-   "title": "The Ones Who Stay",
-   "release_date": "2026-09-27",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/grRWPJo3jb1VcJtMQFJCdF6acsR.jpg",
-   "runtime": 21,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": "tt41483672",
-   "popularity": 0.6442,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-ones-who-stay-2025/"
-  },
-  {
-   "tmdb_id": 1712449,
-   "title": "Bermuda Riots Are Different",
-   "release_date": "2026-10-16",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/cVLb2U5P3mpXyxPp51sHn7huFc8.jpg",
-   "runtime": 6,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.6629,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/bermuda-riots-are-different/"
-  },
-  {
-   "tmdb_id": 1637977,
-   "title": "The World Came Flooding In",
-   "release_date": "2026-10-07",
-   "year": "2026",
-   "poster": null,
-   "runtime": 25,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": "tt37675896",
-   "popularity": 0.751,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-world-came-flooding-in/"
-  },
-  {
-   "tmdb_id": 1793042,
-   "title": "Gaffer",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": null,
-   "runtime": 11,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": null,
-   "popularity": 0.637,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/gaffer/"
-  },
-  {
-   "tmdb_id": 1771633,
-   "title": "I AM FINE, THANK YOU",
-   "release_date": "2026-10-03",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/rq4Vt8N73ULSzFWtZLe9oxOl22u.jpg",
-   "runtime": null,
-   "genres": [],
-   "imdb_id": null,
-   "popularity": 0.6688,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/i-am-fine-thank-you/"
   },
   {
    "tmdb_id": 1785138,
@@ -3817,7 +3597,7 @@
     "Music"
    ],
    "imdb_id": "tt47660989",
-   "popularity": 0.7567,
+   "popularity": 0.6983,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3827,26 +3607,165 @@
    "letterboxd_url": "https://letterboxd.com/film/deq/"
   },
   {
-   "tmdb_id": 1778334,
-   "title": "Burdens of Darkness: A Student Filmmaker's Apocalypse, The Untold Tragedy of The Making of 'Incident at Madeira Road - A Short Film'",
-   "release_date": "2026-09-24",
+   "tmdb_id": 1637977,
+   "title": "The World Came Flooding In",
+   "release_date": "2026-10-07",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/iYl3Nlm8X9Bx9HtlzcWQyEQPWBv.jpg",
-   "runtime": 19,
+   "poster": null,
+   "runtime": 25,
    "genres": [
-    "Comedy",
-    "Drama",
     "Documentary"
    ],
-   "imdb_id": null,
-   "popularity": 0.5854,
+   "imdb_id": "tt37675896",
+   "popularity": 0.7052,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/burdens-of-darkness-a-student-filmmakers/"
+   "letterboxd_url": "https://letterboxd.com/film/the-world-came-flooding-in/"
+  },
+  {
+   "tmdb_id": 1801058,
+   "title": "Thick Skin",
+   "release_date": "2026-10-26",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/h2iprXM65fJPtp1TnzepfGevl9c.jpg",
+   "runtime": 7,
+   "genres": [
+    "Science Fiction",
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 0.7925,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/thick-skin-2026/"
+  },
+  {
+   "tmdb_id": 1801497,
+   "title": "Lost City",
+   "release_date": "2026-10-29",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/e3bNRxBjfdO4igPOcmD7tHc6PKA.jpg",
+   "runtime": 94,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "imdb_id": "tt44127752",
+   "popularity": 0.7728,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/lost-city-2026/"
+  },
+  {
+   "tmdb_id": 1791598,
+   "title": "Mucker",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": null,
+   "runtime": null,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.7215,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/mucker/"
+  },
+  {
+   "tmdb_id": 1793467,
+   "title": "Egg",
+   "release_date": "2026-10-10",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/3gZAm35Nc2wk9eQVljWaJhagBbk.jpg",
+   "runtime": 9,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": null,
+   "popularity": 0.6881,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/egg-2026-2/"
+  },
+  {
+   "tmdb_id": 1791595,
+   "title": "Dreamscape",
+   "release_date": "2026-10-10",
+   "year": "2026",
+   "poster": null,
+   "runtime": 8,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.7273,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/dreamscape-2026-2/"
+  },
+  {
+   "tmdb_id": 1771633,
+   "title": "I AM FINE, THANK YOU",
+   "release_date": "2026-10-03",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/rq4Vt8N73ULSzFWtZLe9oxOl22u.jpg",
+   "runtime": null,
+   "genres": [],
+   "imdb_id": null,
+   "popularity": 0.6482,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/i-am-fine-thank-you/"
+  },
+  {
+   "tmdb_id": 1712449,
+   "title": "Bermuda Riots Are Different",
+   "release_date": "2026-10-16",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/cVLb2U5P3mpXyxPp51sHn7huFc8.jpg",
+   "runtime": 6,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.6704,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/bermuda-riots-are-different/"
   },
   {
    "tmdb_id": 1506696,
@@ -3859,7 +3778,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.6556,
+   "popularity": 0.6594,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3867,6 +3786,64 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/duckweed-2026/"
+  },
+  {
+   "tmdb_id": 1783427,
+   "title": "The Country Gentlewoman",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": null,
+   "runtime": 20,
+   "genres": [],
+   "imdb_id": "tt44034828",
+   "popularity": 0.5639,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-country-gentlewoman/"
+  },
+  {
+   "tmdb_id": 1799614,
+   "title": "S K 8",
+   "release_date": "2026-10-17",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/zqYVNdI8jYrm67f2geiY2uKObzi.jpg",
+   "runtime": 8,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.607,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/s-k-8/"
+  },
+  {
+   "tmdb_id": 1547942,
+   "title": "The Ones Who Stay",
+   "release_date": "2026-09-27",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/grRWPJo3jb1VcJtMQFJCdF6acsR.jpg",
+   "runtime": 21,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": "tt41483672",
+   "popularity": 0.6825,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-ones-who-stay-2025/"
   },
   {
    "tmdb_id": 1793052,
@@ -3879,7 +3856,7 @@
     "Drama"
    ],
    "imdb_id": null,
-   "popularity": 0.6411,
+   "popularity": 0.6284,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3889,42 +3866,44 @@
    "letterboxd_url": "https://letterboxd.com/film/close-2026-1/"
   },
   {
-   "tmdb_id": 1792122,
-   "title": "Run",
-   "release_date": "2026-10-26",
+   "tmdb_id": 1791563,
+   "title": "The Sound We Make Together",
+   "release_date": "2026-10-09",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/7KSB7OTl6XUpS1jmcmo6Wufpxnj.jpg",
-   "runtime": 30,
+   "poster": "https://image.tmdb.org/t/p/w342/zn60OfUc2i29YgTsi2ofMNf3itN.jpg",
+   "runtime": 7,
    "genres": [
-    "Thriller"
+    "Documentary"
    ],
-   "imdb_id": "tt44919770",
-   "popularity": 0.5766,
+   "imdb_id": null,
+   "popularity": 0.621,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/run-2026-5/"
+   "letterboxd_url": "https://letterboxd.com/film/the-sound-we-make-together/"
   },
   {
-   "tmdb_id": 1783409,
-   "title": "Hand Me Down",
-   "release_date": "2026-10-02",
+   "tmdb_id": 1793042,
+   "title": "Gaffer",
+   "release_date": "2026-10-09",
    "year": "2026",
    "poster": null,
-   "runtime": 9,
-   "genres": [],
+   "runtime": 11,
+   "genres": [
+    "Drama"
+   ],
    "imdb_id": null,
-   "popularity": 0.5755,
+   "popularity": 0.6072,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/hand-me-down-2026/"
+   "letterboxd_url": "https://letterboxd.com/film/gaffer/"
   },
   {
    "tmdb_id": 1793047,
@@ -3937,7 +3916,7 @@
     "Drama"
    ],
    "imdb_id": null,
-   "popularity": 0.6337,
+   "popularity": 0.5472,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3957,7 +3936,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.5983,
+   "popularity": 0.5859,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3965,6 +3944,104 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/secrets-of-the-southwest-2026/"
+  },
+  {
+   "tmdb_id": 1778334,
+   "title": "Burdens of Darkness: A Student Filmmaker's Apocalypse, The Untold Tragedy of The Making of 'Incident at Madeira Road - A Short Film'",
+   "release_date": "2026-09-24",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/iYl3Nlm8X9Bx9HtlzcWQyEQPWBv.jpg",
+   "runtime": 19,
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 1.0478,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/burdens-of-darkness-a-student-filmmakers/"
+  },
+  {
+   "tmdb_id": 1803442,
+   "title": "Test 1",
+   "release_date": "2026-10-21",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/xPRSMahqfoSbtGjBlkszRIH53PW.jpg",
+   "runtime": 1,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.5308,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/test-1-2026/"
+  },
+  {
+   "tmdb_id": 1792122,
+   "title": "Run",
+   "release_date": "2026-10-26",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/7KSB7OTl6XUpS1jmcmo6Wufpxnj.jpg",
+   "runtime": 30,
+   "genres": [
+    "Thriller"
+   ],
+   "imdb_id": "tt44919770",
+   "popularity": 0.568,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/run-2026-5/"
+  },
+  {
+   "tmdb_id": 1783409,
+   "title": "Hand Me Down",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": null,
+   "runtime": 9,
+   "genres": [],
+   "imdb_id": null,
+   "popularity": 0.5623,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/hand-me-down-2026/"
+  },
+  {
+   "tmdb_id": 1783406,
+   "title": "Legs!",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": null,
+   "runtime": 7,
+   "genres": [],
+   "imdb_id": null,
+   "popularity": 0.5238,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/legs-2026/"
   },
   {
    "tmdb_id": 1767006,
@@ -3978,7 +4055,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.538,
+   "popularity": 0.4931,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3986,27 +4063,6 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/duthchas-our-underwater-forests/"
-  },
-  {
-   "tmdb_id": 1801058,
-   "title": "Thick Skin",
-   "release_date": "2026-10-26",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/h2iprXM65fJPtp1TnzepfGevl9c.jpg",
-   "runtime": 7,
-   "genres": [
-    "Science Fiction",
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 0.7426,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/thick-skin-2026/"
   },
   {
    "tmdb_id": 1745204,
@@ -4020,7 +4076,7 @@
     "Drama"
    ],
    "imdb_id": "tt43751970",
-   "popularity": 0.531,
+   "popularity": 0.5213,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4040,7 +4096,7 @@
     "Science Fiction"
    ],
    "imdb_id": null,
-   "popularity": 0.5205,
+   "popularity": 0.47,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4050,26 +4106,24 @@
    "letterboxd_url": "https://letterboxd.com/film/synthetica/"
   },
   {
-   "tmdb_id": 1793452,
-   "title": "Your Life Sucks, Here's Why",
-   "release_date": "2026-10-10",
+   "tmdb_id": 1804839,
+   "title": "Language of the Wind",
+   "release_date": "2026-10-30",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/8nlRMuUe2fV0rmEKsLUmvNKJpAq.jpg",
-   "runtime": 9,
+   "poster": "https://image.tmdb.org/t/p/w342/lu53GU0kbUThyOqfjmuJGdJbpd6.jpg",
+   "runtime": 84,
    "genres": [
-    "Fantasy",
-    "Science Fiction",
-    "Drama"
+    "Documentary"
    ],
-   "imdb_id": "tt37085358",
-   "popularity": 0.4786,
+   "imdb_id": null,
+   "popularity": 0.7802,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/your-life-sucks-heres-why/"
+   "letterboxd_url": "https://letterboxd.com/film/language-of-the-wind/"
   },
   {
    "tmdb_id": 1716382,
@@ -4082,7 +4136,7 @@
     "Documentary"
    ],
    "imdb_id": "tt43135953",
-   "popularity": 0.5159,
+   "popularity": 0.4745,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4090,63 +4144,6 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/creatures-2026/"
-  },
-  {
-   "tmdb_id": 1792542,
-   "title": "Fractured",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/x793KbSOX4Ftwv8JMpt8Q3yOE6S.jpg",
-   "runtime": 4,
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "imdb_id": null,
-   "popularity": 0.4735,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/fractured-2026-1/"
-  },
-  {
-   "tmdb_id": 1783406,
-   "title": "Legs!",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": null,
-   "runtime": 7,
-   "genres": [],
-   "imdb_id": null,
-   "popularity": 0.5532,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/legs-2026/"
-  },
-  {
-   "tmdb_id": 1783420,
-   "title": "Tom's Dress",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": null,
-   "runtime": 9,
-   "genres": [],
-   "imdb_id": null,
-   "popularity": 0.4928,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/toms-dress/"
   }
  ]
 }
