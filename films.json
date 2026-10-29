@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:54+00:00",
+ "updated": "2026-10-29T19:25+00:00",
  "films": [
   {
    "tmdb_id": 1058424,
@@ -22,6 +22,7 @@
    "metacritic": 66.0,
    "letterboxd": 3.17,
    "letterboxd_url": "https://letterboxd.com/film/hope-2026/",
+   "plot": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
    "original_title": "호프",
    "kw": [
     6152,
@@ -82,6 +83,7 @@
    "metacritic": null,
    "letterboxd": 3.74,
    "letterboxd_url": "https://letterboxd.com/film/clayface/",
+   "plot": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
    "original_title": null,
    "kw": [
     1299,
@@ -140,6 +142,7 @@
    "metacritic": null,
    "letterboxd": 4.43,
    "letterboxd_url": "https://letterboxd.com/film/wildwood-2026/",
+   "plot": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
    "original_title": null,
    "kw": [
     818,
@@ -199,6 +202,7 @@
    "metacritic": null,
    "letterboxd": 2.65,
    "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
+   "plot": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
    "original_title": null,
    "kw": [
     818,
@@ -250,6 +254,7 @@
    "metacritic": 46.0,
    "letterboxd": 2.78,
    "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
+   "plot": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
    "original_title": null,
    "kw": [
     779,
@@ -309,6 +314,7 @@
    "metacritic": 73.0,
    "letterboxd": 3.88,
    "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
+   "plot": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
    "original_title": null,
    "kw": [
     6054,
@@ -374,6 +380,7 @@
    "metacritic": null,
    "letterboxd": 2.18,
    "letterboxd_url": "https://letterboxd.com/film/other-mommy/",
+   "plot": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
    "original_title": null,
    "kw": [
     818,
@@ -431,6 +438,7 @@
    "metacritic": 72.0,
    "letterboxd": 3.98,
    "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
+   "plot": "A charming, witty, and deeply relatable story of love and sisterhood.",
    "original_title": null,
    "kw": [
     4034,
@@ -496,6 +504,7 @@
    "metacritic": null,
    "letterboxd": 3.29,
    "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
+   "plot": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
    "original_title": null,
    "kw": [
     9880,
@@ -551,6 +560,7 @@
    "metacritic": null,
    "letterboxd": 3.91,
    "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
+   "plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
    "original_title": null,
    "kw": [
     592,
@@ -614,6 +624,7 @@
    "metacritic": 78.0,
    "letterboxd": 4.03,
    "letterboxd_url": "https://letterboxd.com/film/avengers-endgame/",
+   "plot": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
    "original_title": null,
    "kw": [
     9715,
@@ -672,6 +683,7 @@
    "metacritic": null,
    "letterboxd": 3.21,
    "letterboxd_url": "https://letterboxd.com/film/whalefall/",
+   "plot": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
    "original_title": null,
    "kw": [
     4776,
@@ -728,6 +740,7 @@
    "metacritic": null,
    "letterboxd": 2.24,
    "letterboxd_url": "https://letterboxd.com/film/crawlers-2026/",
+   "plot": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
    "original_title": null,
    "kw": [
     554,
@@ -782,6 +795,7 @@
    "metacritic": null,
    "letterboxd": 2.91,
    "letterboxd_url": "https://letterboxd.com/film/ali-g-who-iz-i/",
+   "plot": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
    "original_title": null,
    "kw": [
     3979,
@@ -832,6 +846,7 @@
    "metacritic": 70.0,
    "letterboxd": 3.7,
    "letterboxd_url": "https://letterboxd.com/film/wicker/",
+   "plot": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
    "original_title": null,
    "kw": [
     931,
@@ -890,6 +905,7 @@
    "metacritic": null,
    "letterboxd": 3.47,
    "letterboxd_url": "https://letterboxd.com/film/the-weight-2026/",
+   "plot": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
    "original_title": null,
    "kw": [
     1321,
@@ -944,6 +960,7 @@
    "metacritic": null,
    "letterboxd": 3.13,
    "letterboxd_url": "https://letterboxd.com/film/klara-and-the-sun/",
+   "plot": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
    "original_title": null,
    "kw": [
     6054,
@@ -998,6 +1015,7 @@
    "metacritic": 75.0,
    "letterboxd": 3.66,
    "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
+   "plot": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
    "original_title": null,
    "kw": [
     2337,
@@ -1061,6 +1079,7 @@
    "metacritic": null,
    "letterboxd": 3.02,
    "letterboxd_url": "https://letterboxd.com/film/the-social-reckoning/",
+   "plot": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
    "original_title": null,
    "kw": [
     417,
@@ -1119,6 +1138,7 @@
    "metacritic": null,
    "letterboxd": 3.42,
    "letterboxd_url": "https://letterboxd.com/film/jailer-2-2026/",
+   "plot": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home.",
    "original_title": "ஜெயிலர் 2",
    "kw": [
     12347,
@@ -1171,6 +1191,7 @@
    "metacritic": null,
    "letterboxd": 3.18,
    "letterboxd_url": "https://letterboxd.com/film/monster-mia/",
+   "plot": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
    "original_title": null,
    "kw": [
     6054,
@@ -1227,6 +1248,7 @@
    "metacritic": 90.0,
    "letterboxd": 3.65,
    "letterboxd_url": "https://letterboxd.com/film/fatherland-2026/",
+   "plot": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
    "original_title": "Ojczyzna",
    "kw": [
     818,
@@ -1287,6 +1309,7 @@
    "metacritic": null,
    "letterboxd": 2.73,
    "letterboxd_url": "https://letterboxd.com/film/kung-fu-soccer/",
+   "plot": "Dismissed as underdogs before they even step onto the pitch, the Emei Women's Football Team enters the prestigious Supreme Invincible Cup determined to prove everyone wrong. Led by captain Shuangshuang, star striker Yulong, and mentor Xu Feng, the team combines martial arts mastery with football skill in a thrilling quest for victory. Against mounting challenges and impossible odds, they fight to make their mark and chase their championship dream.",
    "original_title": "功夫女足",
    "kw": [
     13042,
@@ -1334,6 +1357,7 @@
    "metacritic": null,
    "letterboxd": 1.68,
    "letterboxd_url": "https://letterboxd.com/film/the-paradise-2026/",
+   "plot": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
    "original_title": "ది ప్యారడైజ్",
    "kw": [
     100,
@@ -1385,6 +1409,7 @@
    "metacritic": null,
    "letterboxd": 3.98,
    "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
+   "plot": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
    "original_title": "ゴジラ-0.0",
    "kw": [
     9663,
@@ -1436,6 +1461,7 @@
    "metacritic": null,
    "letterboxd": 4.12,
    "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
+   "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
    "original_title": null,
    "kw": [
     591,
@@ -1485,6 +1511,7 @@
    "metacritic": null,
    "letterboxd": 2.99,
    "letterboxd_url": "https://letterboxd.com/film/ranabaali/",
+   "plot": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
    "original_title": "రణబాలి",
    "kw": [
     207928,
@@ -1536,6 +1563,7 @@
    "metacritic": null,
    "letterboxd": 4.21,
    "letterboxd_url": "https://letterboxd.com/film/baththa/",
+   "plot": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
    "original_title": "பத்தா",
    "kw": [],
    "people": [
@@ -1580,6 +1608,7 @@
    "metacritic": null,
    "letterboxd": 3.3,
    "letterboxd_url": "https://letterboxd.com/film/v-2026/",
+   "plot": "In the early 1990s, this city of desire, once a land of opportunity, was plagued by rampant crime and a breakdown of order. Man Tsz-keung, a working-class man desperate to change his fate, meets flight attendant Lok Ka-yuen, and the two team up to rob a large sum of money. This success fuels Man Tsz-keung's madness, pushing him into a deeper power struggle with wealthy businessman Chan Fai-yin. Meanwhile, mainland police officer Qi Honggang and Hong Kong police officer Guan Suchen continue their investigation of Wan Ziqiang, leading to a joint operation between the two police forces, setting the stage for a clash between good and evil. This film is fictional.",
    "original_title": "空枪",
    "kw": [
     9672
@@ -1628,6 +1657,7 @@
    "metacritic": null,
    "letterboxd": 3.5,
    "letterboxd_url": "https://letterboxd.com/film/drishyam-the-conclusion/",
+   "plot": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
    "original_title": "दृश्यम: आखिरी हिस्सा",
    "kw": [
     9663,
@@ -1675,6 +1705,7 @@
    "metacritic": 70.0,
    "letterboxd": 3.14,
    "letterboxd_url": "https://letterboxd.com/film/girls-like-girls/",
+   "plot": "After her mother's passing, 17-year-old Coley navigates new feelings of intimacy with Sonya in rural Oregon, where both girls must overcome their mutual uncertainties and self-doubt to embrace their connection.",
    "original_title": null,
    "kw": [
     818,
@@ -1730,6 +1761,7 @@
    "metacritic": 52.0,
    "letterboxd": 4.27,
    "letterboxd_url": "https://letterboxd.com/film/the-devils/",
+   "plot": "In 1634 France, charismatic Father Urbain Grandier becomes the target of sexually depraved Sister Jeanne's accusations of witchcraft, which corrupt officials of church and state are all too happy to exploit.​​​​​​​​​​​​​​​​",
    "original_title": null,
    "kw": [
     818,
@@ -1794,6 +1826,7 @@
    "metacritic": 60.0,
    "letterboxd": 2.61,
    "letterboxd_url": "https://letterboxd.com/film/nightborn/",
+   "plot": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their newborn, unbeknownst to Jon, causing a rift as she alone grapples with the disturbing truth.",
    "original_title": "Yön lapsi",
    "kw": [
     2807,
@@ -1842,6 +1875,7 @@
    "metacritic": 94.0,
    "letterboxd": 4.55,
    "letterboxd_url": "https://letterboxd.com/film/naza/",
+   "plot": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
    "original_title": null,
    "kw": [
     5907,
@@ -1902,6 +1936,7 @@
    "metacritic": 80.0,
    "letterboxd": 3.88,
    "letterboxd_url": "https://letterboxd.com/film/the-secret-world-of-arrietty/",
+   "plot": "14-year-old Arrietty and the rest of the Clock family live in peaceful anonymity as they make their own home from items \"borrowed\" from the house's human inhabitants. However, life changes for the Clocks when a human boy discovers Arrietty.",
    "original_title": "借りぐらしのアリエッティ",
    "kw": [
     818,
@@ -1954,6 +1989,7 @@
    "metacritic": 96.0,
    "letterboxd": 4.16,
    "letterboxd_url": "https://letterboxd.com/film/possible-love/",
+   "plot": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
    "original_title": "가능한 사랑",
    "kw": [
     730,
@@ -2019,6 +2055,7 @@
    "metacritic": 44.0,
    "letterboxd": 2.22,
    "letterboxd_url": "https://letterboxd.com/film/her-private-hell-2026/",
+   "plot": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
    "original_title": null,
    "kw": [
     1761,
@@ -2082,6 +2119,7 @@
    "metacritic": null,
    "letterboxd": 3.03,
    "letterboxd_url": "https://letterboxd.com/film/dhoomakethu-2026/",
+   "plot": "On the morning of his wedding, 36-year-old Kuttan wakes from a disturbing dream about his own death. As the day unfolds, familiar moments begin to repeat, and reality becomes increasingly difficult to distinguish from memory. Realising that something is terribly wrong, Kuttan races to uncover the truth before the day repeats itself.",
    "original_title": "ധൂമകേതു",
    "kw": [],
    "people": [
@@ -2126,6 +2164,7 @@
    "metacritic": null,
    "letterboxd": 3.38,
    "letterboxd_url": "https://letterboxd.com/film/its-my-time/",
+   "plot": "At the age of seventy, a fiercely non-conformist grandmother partners with a lethargic, underachieving young prodigy to navigate the highly competitive and eccentric subculture of speedcubing, defying familial skepticism and generational expectations.",
    "original_title": "魔方小姐",
    "kw": [
     271,
@@ -2179,6 +2218,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/nayyi-navelli/",
+   "plot": "A new bride's arrival turns a turbulent household in Meerut into a picture of domestic harmony, until her brother-in-law grows convinced that his seemingly perfect sister-in-law is secretly a witch.",
    "original_title": "नय्यी नवेल्ली",
    "kw": [],
    "people": [
@@ -2223,6 +2263,7 @@
    "metacritic": null,
    "letterboxd": 3.95,
    "letterboxd_url": "https://letterboxd.com/film/ghosts-the-possession-of-button-house/",
+   "plot": "It's a matter of life and death for Alison, Mike, Mia and the Ghosts.",
    "original_title": null,
    "kw": [
     162846,
@@ -2273,6 +2314,7 @@
    "metacritic": null,
    "letterboxd": 2.89,
    "letterboxd_url": "https://letterboxd.com/film/meesaya-murukku-2/",
+   "plot": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
    "original_title": "மீசைய முருக்கு 2",
    "kw": [],
    "people": [
@@ -2317,6 +2359,7 @@
    "metacritic": null,
    "letterboxd": 4.0,
    "letterboxd_url": "https://letterboxd.com/film/always-lalisa/",
+   "plot": "Documentary following global superstar LISA during a transformative year away from BLACKPINK, the K-pop phenomenon that made her one of the world's most recognizable performers. Documenting a year of risk, reinvention, and self-discovery as LISA begins to define her next chapter.",
    "original_title": null,
    "kw": [
     225273,
@@ -2361,6 +2404,7 @@
    "metacritic": null,
    "letterboxd": 3.16,
    "letterboxd_url": "https://letterboxd.com/film/premada-oorali/",
+   "plot": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
    "original_title": "ಪ್ರೇಮದ ಊರಲಿ",
    "kw": [],
    "people": [
@@ -2404,6 +2448,7 @@
    "metacritic": 81.0,
    "letterboxd": 4.35,
    "letterboxd_url": "https://letterboxd.com/film/raise-the-red-lantern/",
+   "plot": "In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained.",
    "original_title": "大红灯笼高高挂",
    "kw": [
     271,
@@ -2459,6 +2504,7 @@
    "metacritic": 70.0,
    "letterboxd": 3.35,
    "letterboxd_url": "https://letterboxd.com/film/gentle-monster/",
+   "plot": "After relocating with her family to the countryside, a renowned pianist uncovers a life-shattering truth that forces her to confront the complexities of love, trust, and deception.",
    "original_title": null,
    "kw": [
     548,
@@ -2511,6 +2557,7 @@
    "metacritic": 73.0,
    "letterboxd": 3.58,
    "letterboxd_url": "https://letterboxd.com/film/case-137-2025/",
+   "plot": "When Internal Affairs officer Stéphanie investigates a young man severely injured during a chaotic Paris demonstration and finds no police misconduct, the routine case hits close to home upon her discovering the victim is from her native town.",
    "original_title": "Dossier 137",
    "kw": [
     325772,
@@ -2559,6 +2606,7 @@
    "metacritic": null,
    "letterboxd": 2.97,
    "letterboxd_url": "https://letterboxd.com/film/always-yours-never-mine/",
+   "plot": "Across thirty years, several almosts, and timing that is never quite right, two people keep crossing paths – always on the verge of being together, but never quite making it.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -2604,6 +2652,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/peppa-pig-perfect-holiday/",
+   "plot": "When Peppa learned that her family wouldn't be going on vacation this year, she was very disappointed. However, a sudden storm transported her to faraway China! Peppa embarked on a wonderful adventure until she was reunited with her family, and Peppa had the perfect vacation ever.",
    "original_title": "小猪佩奇·完美假期",
    "kw": [],
    "people": [
@@ -2649,6 +2698,7 @@
    "metacritic": 71.0,
    "letterboxd": 3.79,
    "letterboxd_url": "https://letterboxd.com/film/i-love-boosters/",
+   "plot": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
    "original_title": null,
    "kw": [
     2081,
@@ -2709,6 +2759,7 @@
    "metacritic": 65.0,
    "letterboxd": 3.56,
    "letterboxd_url": "https://letterboxd.com/film/everest-the-other-side/",
+   "plot": "An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest—the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth—something only a handful have ever achieved, and no one has successfully skied down.",
    "original_title": null,
    "kw": [
     485,
@@ -2760,6 +2811,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/418/",
+   "plot": "Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the superstitions in science, and an anomaly that neither can explain.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -2804,6 +2856,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/prahaar-the-untold-story-of-ujjwal-nikam/",
+   "plot": "Public prosecutor Ujjwal Nikam takes on one of the most high-profile criminal cases in India’s history, leading the prosecution in the trial of Ajmal Kasab following the 26/11 Mumbai terror attacks. As he battles to uncover the truth and secure justice, Nikam must confront the immense personal and professional burden of a case that will define his legacy.",
    "original_title": "प्रहार: दी अनटोल्ड स्टोरी ऑफ़ उज्ज्वल निकम",
    "kw": [
     5565,
@@ -2852,6 +2905,7 @@
    "metacritic": null,
    "letterboxd": 3.43,
    "letterboxd_url": "https://letterboxd.com/film/the-disciple-a-wu-tang-fable/",
+   "plot": "This documentary recounts Cilvaringz's unlikely rise from fan to Wu-Tang Clan fame — and how the infamous \"Once Upon a Time in Shaolin\" album came to be.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -2894,6 +2948,7 @@
    "metacritic": null,
    "letterboxd": 4.23,
    "letterboxd_url": "https://letterboxd.com/film/linkin-park-unshatter/",
+   "plot": "After a seven-year hiatus following the devastating loss of their beloved bandmate Chester Bennington, LINKIN PARK'S remaining members struggled to find their way forward. Their shared history and enduring friendship, combined with the fresh perspective of two new band members Emily Armstrong and Colin Brittain spark a renewed creative energy that leads them on a transformative journey of artistic reinvention. Following the band from intimate 2022 studio sessions through their explosive FROM ZERO album release and concert in São Paulo, this documentary weaves together rare vault footage, electrifying performances from sold-out shows, and candid interviews with band members and fans—capturing the raw, honest story of what it means to start over.",
    "original_title": null,
    "kw": [
     4610,
@@ -2946,6 +3001,7 @@
    "metacritic": null,
    "letterboxd": 3.66,
    "letterboxd_url": "https://letterboxd.com/film/fallen-angels-by-noel-coward/",
+   "plot": "Two upper-class wives, their husbands away for the day, share a few toasts to their pre-marital dalliances—with the same man, who just may be en route from France to visit. Old rivalries and past scandals bubble to the surface in this intoxicating romp from one of theatre’s comedy masters.",
    "original_title": null,
    "kw": [
     156028,
@@ -2999,6 +3055,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/go-for-broke-2-2026/",
+   "plot": "After their children are brutalised, Sheila and her brother Su Cheng uncover a sinister conspiracy through perilous investigations. Battling for justice, they expose the corrupt network while finding redemption in their vengeful quest.",
    "original_title": "重生2",
    "kw": [],
    "people": [
@@ -3042,6 +3099,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/hybe-cheering-party/",
+   "plot": "The heat of cheering for HYBE artists unfolds in cinemas! Sing along with your favorite HYBE Artists in 3D! A one-of-a-kind game-like cheering screening is coming, where fans can chant fan cheers and wave their light sticks while watching the music videos of BTS, SEVENTEEN, TOMORROW X TOGETHER, ENHYPEN, LE SSERAFIM, &TEAM, BOYNEXTDOOR, TWS, ILLIT, KATSEYE, aoen, CORTIS, and SANTOS BRAVOS on the big screen. Join this unforgettable celebration filled with diverse music, passionate fan energy, and a dazzling wave of Light Sticks!",
    "original_title": "하이브 치어링 파티",
    "kw": [
     5699,
@@ -3092,6 +3150,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/aadarsha-kutumbam-house-no-47-ak47/",
+   "plot": "A seemingly flawless family at House No. 47 unravels after an incident reveals hidden tensions.",
    "original_title": "ఆదర్శ కుటుంబం హౌస్ నెం: 47 - AK47",
    "kw": [
     194780,
@@ -3139,6 +3198,7 @@
    "metacritic": null,
    "letterboxd": 3.63,
    "letterboxd_url": "https://letterboxd.com/film/animol/",
+   "plot": "Behind the walls of a young offender institution, Troy is thrust into a brutal world of gangs, loyalty and violence from the moment he arrives. When an unspoken bond develops with a fellow inmate, it becomes a dangerous vulnerability for them.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -3184,6 +3244,7 @@
    "metacritic": null,
    "letterboxd": 2.96,
    "letterboxd_url": "https://letterboxd.com/film/dont-trouble-the-trouble/",
+   "plot": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered.",
    "original_title": "డోంట్ ట్రబుల్ ద ట్రబుల్",
    "kw": [
     190536,
@@ -3233,6 +3294,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/village-idiot/",
+   "plot": "\"Village Idiot\" is a sharp, heartfelt comedy-drama about a stubborn English grandmother, Barbara, who chains herself to her cottage to resist eviction by High Speed train developers. She then discovers that the company’s liaison sent to remove her is her estranged grandson, Peter. What follows is a clash between generations, class, and values: Barbara’s fierce attachment to home and identity versus Peter’s desperate need to hold onto his corporate job. As their battle becomes public, turning into a small-town spectacle of protest, press, and community chaos, both are forced to confront what “home” really means, and how love, pride, and belonging can both bind and divide a family. Witty, warm, and deeply human, \"Village Idiot\" captures rural England on the brink of change with equal parts humour and heartbreak.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -3276,6 +3338,7 @@
    "metacritic": null,
    "letterboxd": 2.19,
    "letterboxd_url": "https://letterboxd.com/film/the-influencer-project/",
+   "plot": "Influencer Chiara King travels to Copenhagen with a documentary crew promising an unfiltered look behind the glamorous business of online fame. But as the cameras and her devoted fans follow her every move, someone else is watching too. When an obsessive stalker begins closing in, the documentary mutates into something far more terrifying, blurring the line between content and evidence, follower and predator, fact and fiction.",
    "original_title": null,
    "kw": [
     792,
@@ -3327,6 +3390,7 @@
    "metacritic": null,
    "letterboxd": 3.57,
    "letterboxd_url": "https://letterboxd.com/film/the-doll-2026/",
+   "plot": "Wealthy merchant Stanislaw Wokulski falls tragically in love with beautiful yet vain Izabela Lecka. His unfulfilled love leads to many foolish decisions sealing his fate.",
    "original_title": "Lalka",
    "kw": [
     818,
@@ -3378,6 +3442,7 @@
    "metacritic": null,
    "letterboxd": 3.0,
    "letterboxd_url": "https://letterboxd.com/film/thella-kaagitham/",
+   "plot": "Two teenagers discover first love amid the innocence, mischief, and uncertainties of adolescence. As they fall deeper for each other, the choices they make begin to carry consequences neither is prepared for.",
    "original_title": "తెల్లకాగితం",
    "kw": [],
    "people": [
@@ -3421,6 +3486,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/green-grass-2026/",
+   "plot": "It's no secret that Declan is the university class coaster, which is why his friends refuse to partner with him on their next assignment. Out of options, Declan is forced to pair up with Claire, the new Deaf student who is everything Declan isn't; academic, driven and fiercely proud of her identity. Set against the backdrop of coastal university life on the south coast of England, Green Grass dips into the murky waters of strained friendships, sustainability, and D/deaf identity in this coming-of-age drama.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -3467,6 +3533,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-irregular-at-magic-high-school-the-movie/",
+   "plot": "The invitation has arrived. It's time for the New Year's Reception at the Yotsuba family residence. This year, Miyuki and other candidates will gather there to decide who will be the next leader of their powerful clan. If chosen as successor, she would never again have to see her brother live as an outcast. At the same time, such a position would surely entail a political marriage, leaving her mind in complete turmoil. To complicate matters, the current head of the family sows doubt with a shocking statement. When the new year arrives, their relationship may change forever...",
    "original_title": "魔法科高校の劣等生 四葉継承編",
    "kw": [
     6270,
@@ -3520,6 +3587,7 @@
    "metacritic": null,
    "letterboxd": 3.59,
    "letterboxd_url": "https://letterboxd.com/film/the-yellow-tie/",
+   "plot": "The extraordinary life of Sergiu Celibidache, from his childhood in Romania to his exile in pursuit of a career in music, his struggle for survival in wartime Germany and his rise, fall and rise again, in an unimaginable life journey.",
    "original_title": "Cravata galbenă",
    "kw": [
     1956,
@@ -3573,6 +3641,7 @@
    "metacritic": null,
    "letterboxd": 2.66,
    "letterboxd_url": "https://letterboxd.com/film/sigma-2026/",
+   "plot": "A daring treasure hunter throws caution to the wind, outwitting deadly traps and treacherous allies with sheer nerve and cunning.",
    "original_title": "சிக்மா",
    "kw": [],
    "people": [
@@ -3616,6 +3685,7 @@
    "metacritic": null,
    "letterboxd": 3.44,
    "letterboxd_url": "https://letterboxd.com/film/comedie-francaise/",
+   "plot": "At the Comédie-Française, there is one golden rule: the play is never canceled. Unfortunately for Nina, everything else is—just three hours before the premiere of her first staging. An actor is stuck on a train, tensions explode, equipment breaks down, egos clash, and panic sets in. With no way out and time slipping away, Nina must hold the show together at all costs. Will she make it until the curtain rises?",
    "original_title": "De la Comédie-Française",
    "kw": [
     319397
@@ -3664,6 +3734,7 @@
    "metacritic": null,
    "letterboxd": 3.12,
    "letterboxd_url": "https://letterboxd.com/film/lenin-pandiyan/",
+   "plot": "Set alongside on the riverbanks of Maanamadurai in the Sivagangai district, the premise is about a very gullible, innocent old couple in their late 60s, 70s who inadvertently get intertwined in the political lobby of sand mining which is currently a major issue in the local district.",
    "original_title": "லெனின் பாண்டியன்",
    "kw": [],
    "people": [
@@ -3707,6 +3778,7 @@
    "metacritic": null,
    "letterboxd": 3.47,
    "letterboxd_url": "https://letterboxd.com/film/knife-the-attempted-murder-of-salman-rushdie/",
+   "plot": "In 2022, Salman Rushdie was preparing to deliver a lecture on the United States as a safe haven for writers when a man rushed the stage and, in 27 seconds, stabbed him 15 times. Airlifted to hospital, Rushdie survived, barely, and his wife Rachel Eliza Griffiths began filming immediately, capturing an unfiltered view of his recovery, return to life and how he regained his spirit and hope for the future.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -3748,6 +3820,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/seventeen-world-tour-new_/",
+   "plot": "Celebrating their 10th debut anniversary, SEVENTEEN embarks on a world tour fueled by their determination for a fresh start, just like the title 'NEW_'. With their unrivaled stage presence and explosive energy, SEVENTEEN once again proves their unlimited potential. Experience the blazing heat of the concert—bursting with each member’s unique charm—right on the big screen!",
    "original_title": "세븐틴 월드 투어 '뉴_'",
    "kw": [
     6029,
@@ -3800,6 +3873,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/wild-2026-2/",
+   "plot": "Wild is a survival dramedy set in the breath-taking yet unforgiving Scottish Highlands. Lou, Dev, and Alistair, three old friends clinging to their annual wild camping tradition, begin with banter, nostalgia, and amateur vlogging, but soon unravel into a battle of egos, secrets, and survival when they get lost, food runs short, and friendships fracture. At once funny, poignant, and unsettling, \"Wild\" explores the line between adventure and recklessness, and how toxic masculinity has become a huge part of the epidemic decline in men’s mental health.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -3844,6 +3918,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/titans-2026/",
+   "plot": "Small-time gangster Antony Yakuza teams up with young programmer Anwar to pull off a major heist, with mysterious driver Rejimon joining them. But Rejimon is not who he seems, and their simple crime soon turns into a strange, unpredictable journey where reality itself begins to blur.",
    "original_title": "ടൈറ്റൻസ്",
    "kw": [],
    "people": [
@@ -3888,6 +3963,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/charlie-shaws-revenge/",
+   "plot": "A group of workers preparing for the re-opening of a remote adventure park on the brink of bankruptcy, find themselves stalked by a silent killer. Cut off from any form of rescue, the survivors must band together to fight for their lives.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -3932,6 +4008,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/kiri-and-lou-go-raaa/",
+   "plot": "The movie follows Lou, a gentle purple creature with an embarrassingly stretchy trunk, as he rescues Kiri, an ungrateful little dinosaur, from a flood — sweeping the pair into the greatest adventure in prehistory. Along the way, they discover that you can find friendship in the wildest places.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -3976,6 +4053,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/hot-flash-2026/",
+   "plot": "Geri, a skint Yorkshire mum in peri-menopausal chaos, goes viral after a wine-fuelled rant about her menopause app idea. Betrayed by friends and terrified of public speaking, she must conquer her fears, pitch big, and finally back herself.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -4019,6 +4097,7 @@
    "metacritic": null,
    "letterboxd": 3.68,
    "letterboxd_url": "https://letterboxd.com/film/lesbian-lines/",
+   "plot": "In a silenced Ireland, a community of lesbians builds an underground network of helplines - offering connection, survival, and defiance through the simple act of answering the phone.",
    "original_title": null,
    "kw": [
     158718,
@@ -4068,6 +4147,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/suspect-the-road-rage-killer/",
+   "plot": "Examines the case of Tracie Andrews, who claimed her fiancé had been killed in a shocking road rage attack. After a disastrous press conference, she found herself accused of murdering him. Detectives revisited timelines, cross-checked statements, and tested forensic evidence and slowly, the woman who entered the station as a witness found herself at the centre of suspicion.",
    "original_title": null,
    "kw": [
     5565,
@@ -4114,6 +4194,7 @@
    "metacritic": null,
    "letterboxd": 2.82,
    "letterboxd_url": "https://letterboxd.com/film/bloodline-2026-3/",
+   "plot": "An ancient curse with roots in Egypt resurfaces in a mysterious Istanbul mansion. Summoned to the estate by his dying grandfather, Can and his friends are soon forced to confront the mansion's dark secrets and a supernatural threat.",
    "original_title": "Soy",
    "kw": [
     10541,
@@ -4163,6 +4244,7 @@
    "metacritic": null,
    "letterboxd": 3.59,
    "letterboxd_url": "https://letterboxd.com/film/florid-2026/",
+   "plot": "Jamal, a young man who hears voices, struggles to balance his medication with his musical ambitions and romantic desires.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -4207,6 +4289,7 @@
    "metacritic": null,
    "letterboxd": 3.93,
    "letterboxd_url": "https://letterboxd.com/film/the-lost-children-of-tuam/",
+   "plot": "When amateur historian Catherine Corless begins examining records from a former Mother and Baby Home in Tuam, Co. Galway, she stumbles upon evidence pointing towards a deeply troubling past. Refusing to let the questions go, she embarks on a painstaking investigation, putting her in conflict with the Church, State, and local town. As official resistance mounts, and unsettling discoveries emerge, her determination challenges powerful institutions, exposing a hidden chapter of Ireland's past that many would rather keep hidden.",
    "original_title": null,
    "kw": [
     9672,
@@ -4254,6 +4337,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/chha-maya-chhapakkai-2/",
+   "plot": "An aging political comrade leaves his career behind for marriage, only to find himself trapped in a chaotic, comical bind between two women and the bitter grudges of opposing political families.",
    "original_title": "६माया ६पक्कै २",
    "kw": [],
    "people": [
@@ -4298,6 +4382,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/bad-day-at-the-office-2026/",
+   "plot": "A man with amnesia wakes up in a wrecked hotel room next to a corpse, triggering a dangerous conspiracy. He and a maid try to recover his memories and evade the police to uncover the mystery and survive those pursuing them.",
    "original_title": null,
    "kw": [
     163053,
@@ -4350,6 +4435,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/gupi-and-the-king-who-doesnt-smile/",
+   "plot": "Gupi and her friends enter an abandoned apartment in their building to deliver a cake. By passing through a closet in one of the rooms, they find themselves in a dark, unhappy, and otherworldly dimension. This place is home to the palace of the King Who Does Not Smile, whose sorrow has spread across the entire realm. Realizing that the inhabitants of this dimension have lost their joy because the King never smiles, Gupi begins trying various methods to restore happiness to the kingdom.",
    "original_title": "Gupi ve Gülmeyen Kral",
    "kw": [
     10159,
@@ -4398,6 +4484,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/child-2026/",
+   "plot": "With their young son running out of time, Anne and Greg are willing to sacrifice everything for one last chance to save him. But after crossing an unforgivable moral line, they find themselves trapped in a nightmare where every choice demands an even greater price.",
    "original_title": "Le Refuge",
    "kw": [],
    "people": [
@@ -4442,6 +4529,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/old-knobbley/",
+   "plot": "In 17th century England, two women persecuted for witchcraft find sanctuary and safety at the site of a five-hundred year old oak tree.",
    "original_title": null,
    "kw": [
     616,
@@ -4492,6 +4580,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/tomorrow-x-together-world-tour-act-tomorrow/",
+   "plot": "Like shining stars, TOMORROW X TOGETHER’s fourth world tour 'ACT : TOMORROW' unfolds as a dazzling journey toward the tomorrow they promised together. From its beautiful storytelling to the stunning production and powerful live performances that captivated MOA around the world, experience the immersive energy of TOMORROW X TOGETHER’s spectacular world tour on the big screen!",
    "original_title": "투모로우바이투게더 월드 투어 ‘액트 : 투모로우'",
    "kw": [
     6029,
@@ -4542,6 +4631,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/learners-2026/",
+   "plot": "When a cantankerous widower reluctantly agrees to teach his son's unemployed girlfriend to drive, an unlikely friendship is sparked.",
    "original_title": null,
    "kw": [
     322268
@@ -4589,6 +4679,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/blue-hour-2026-2/",
+   "plot": "Joey, a student from Yorkshire, keeps his head down and works quietly, more comfortable with tools than with people. The workshop is familiar to him - noisy, practical, predictable. That changes when Skyla, an exchange student from Texas, joins the course. She's open, direct, and out of place in a way that immediately stands out.",
    "original_title": null,
    "kw": [
     9840,
@@ -4640,6 +4731,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/electricks/",
+   "plot": "An electrician takes a job to replace sockets, desperate for cash after months of unpaid invoices. In a young mother’s flat, he discovers an illegal electricity bypass left behind by her parents. For her, it means a debt of hundreds of thousands; for him, the impossibility of finishing his work. Should he walk away and look for money elsewhere, or help her through unofficial means? A drama about survival in a system that leaves both characters with no choice but to bend its rules.",
    "original_title": "ELEKTRIKY",
    "kw": [],
    "people": [
@@ -4684,6 +4776,7 @@
    "metacritic": null,
    "letterboxd": 3.28,
    "letterboxd_url": "https://letterboxd.com/film/winter-of-the-crow/",
+   "plot": "Warsaw, 1981. Martial law shuts down the country, turning it into a prison overnight. Taxis are replaced by tanks, citizens are treated like criminals, and visiting British Professor Joan Andrews finds herself trapped. After witnessing the murder of a young student by the secret police, Joan herself becomes the target.",
    "original_title": "Zima pod znakiem wrony",
    "kw": [
     190025,
@@ -4733,6 +4826,7 @@
    "metacritic": null,
    "letterboxd": 4.13,
    "letterboxd_url": "https://letterboxd.com/film/jet-lag-the-game-japanorama-finale/",
+   "plot": "Watch the conclusion of Jet Lag: The Game's biggest season ever with this screening of the final two, action-packed episodes as Tom & Adam race Sam & Ben to the top of Hokkaido.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -4777,6 +4871,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/hope-street-one-of-our-own/",
+   "plot": "A violent crime committed against a much-loved local and the police investigation brings bad news for DS Marlene Pettigrew. Love is also in the air and there’s a wedding to plan, but this is Port Devine, what could possibly go wrong?",
    "original_title": null,
    "kw": [
     7005,
@@ -4827,6 +4922,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/rooted-out-chapter-one/",
+   "plot": "Set against the backdrop of the Southport Riots of 2024, a dispute between neighbouring families over a tree spirals into a volatile confrontation, exposing buried prejudice, racial tension, and moral hypocrisy.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -4868,6 +4964,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-pen-that-will-not-bow/",
+   "plot": "The early life of Voltaire, before he became one of Europe's most influential writers and philosophers.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -4911,6 +5008,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/try-2026/",
+   "plot": "Four Irish Rugby teams who defy stereotypes tackle their way to the Mixed Ability Rugby World Cup, where full-contact sport meets joyful belonging.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -4950,6 +5048,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/a-rose-for-iris/",
+   "plot": "On the shores of England, a teenage girl witnesses her father's cruelty toward a migrant who has just arrived by small boat, forcing her to confront the complexities of both her father and the world around her.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -4994,6 +5093,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/acharya-2026/",
+   "plot": "An ex-Army man takes on a contract to rescue a young woman stranded in Mumbai and bring her safely back to Nepal. What begins as a straightforward rescue mission soon turns into a dangerous and unexpected journey.",
    "original_title": "आचार्य",
    "kw": [],
    "people": [
@@ -5039,6 +5139,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/aaram-2026/",
+   "plot": "An honest police officer finds himself ensnared in a web of guilt, fear, and moral conflict as institutional pressure and personal integrity collide.",
    "original_title": "ആരം",
    "kw": [
     323114
@@ -5084,6 +5185,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/alex-jones-one-day-in-aberfan/",
+   "plot": "Alex Jones marks the 60th anniversary of the mining disaster that claimed 144 lives, including 116 children",
    "original_title": "Alex Jones: Un Diwrnod Yn Aberfan",
    "kw": [],
    "people": [
@@ -5124,6 +5226,7 @@
    "metacritic": null,
    "letterboxd": 3.46,
    "letterboxd_url": "https://letterboxd.com/film/our-share-of-sand/",
+   "plot": "After years apart, 12 year-old Maya returns to India with her mother to reunite with her father - a sandmining business man. Immersed in a world where labour, legacy and extraction collide, she forms a fragile bond with Kiran, a young worker. After a tragic event, a police investigation turns Maya into a key witness, with her father relying on her to absolve him. Torn between loyalty and a growing unease she cannot name, Maya begins searching for the truth. As her mother quietly unravels, Maya uncovers a pattern of silence, exploitation and repeated harm forcing her to confront her father's deception and the family's complicity she must choose to break.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -5167,6 +5270,7 @@
    "metacritic": null,
    "letterboxd": 3.77,
    "letterboxd_url": "https://letterboxd.com/film/boorman-and-the-devil/",
+   "plot": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -5211,6 +5315,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/relatives-2026/",
+   "plot": "After many years of actively avoiding her family, Mariia finally decides to pay them a visit, seemingly to celebrate her grandmother's jubilee. However, her intentions might not be as wholesome as it seems, as the true nature of her visit lies in the fact that the birthday girl decided to grant Mariia the ownership over her home. Mariia's uncle Grygorii learns of this and decides to engage in a turf war with his niece, hoping that this will result in the latter changing her mind. However, the young entrepeneur is a tougher nut to crack than it initially looks.",
    "original_title": "Родичі",
    "kw": [],
    "people": [
@@ -5256,6 +5361,7 @@
    "metacritic": null,
    "letterboxd": 3.09,
    "letterboxd_url": "https://letterboxd.com/film/by-design-2025/",
+   "plot": "A woman swaps bodies with a chair, and everyone likes her better as a chair.",
    "original_title": null,
    "kw": [
     6674,
@@ -5304,6 +5410,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/these-violent-delights/",
+   "plot": "Juliet awakens from a fever dream. How did we get here? The lines between hallucination and memory blur as cinema and dance collide in a kaleidoscopic journey of queer belonging, defiance, and self-discovery. A vivid retelling of Shakespeare’s Romeo and Juliet brought to life by Scottish Ballet.",
    "original_title": null,
    "kw": [
     1691,
@@ -5352,6 +5459,7 @@
    "metacritic": null,
    "letterboxd": 3.68,
    "letterboxd_url": "https://letterboxd.com/film/all-rivers-spill-their-stories-to-the-sea/",
+   "plot": "On England’s North East coast, where rivers, heavy industry and the sea have shaped lives for generations, fisherman Stan Rennie is watching the world he knows disappear. His family have worked these waters for generations. Then, almost overnight, thousands of dead crabs and lobsters wash ashore, and a community already living with uncertainty is pushed into crisis. Teesside filmmaker Jeanie Finlay brings warmth, wit and deep local feeling to this David-and-Goliath story of environmental damage, official evasions and working-class resilience. At its centre is Stan: funny, stubborn, vulnerable and increasingly determined to be heard.",
    "original_title": null,
    "kw": [
     6305,
@@ -5402,6 +5510,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/close-2026-2/",
+   "plot": "Keane, nearing thirty, finds a box of his absent father’s negatives. He prints the images in a darkroom’s red glow. As he and his mother Diane look through distant exposures from the half-past, the prints expose a life that was always out of frame. Closure leads them back to the shoreline, where Keane reframes what remains.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -5441,6 +5550,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/landing-nowhere/",
+   "plot": "Two astronauts stranded on a deserted planet must decide between completing their mission - repopulating a new world artificially. Or preserve the planet's untouched beauty & let humanity fade away...",
    "original_title": null,
    "kw": [],
    "people": [
@@ -5482,6 +5592,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/red-ledger/",
+   "plot": "Captain Georgina Lee captures and interrogates Ellis's handler on why she was sent to disarm weapons. But a piece of Lee's history is brought up that she can't escape.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -5524,6 +5635,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/shadows-of-beirut/",
+   "plot": "A young woman decides to return to Beirut to see her estranged dying father after 25 years. Between the struggle to forgive him and building up the courage to face him, she discovers the heart of her homeland through the people she meets.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -5568,6 +5680,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/tutt-paini-english-ne/",
+   "plot": "Blending comedy with heartfelt family moments, this movie explores the clash between cultural pride and modern aspirations through characters every Punjabi household will recognise.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -5607,6 +5720,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/her-daughters-mother/",
+   "plot": "After getting married at the age of 16, Ejiro is thrown into a world she is unprepared for, seeking freedom and agency in hopeless places.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -5650,6 +5764,7 @@
    "metacritic": null,
    "letterboxd": 3.58,
    "letterboxd_url": "https://letterboxd.com/film/kikuyu-land/",
+   "plot": "As a Nairobi journalist probes a land battle entangling the local government and a powerful multinational corporation, covered wounds are revealed and family secrets are exposed.",
    "original_title": null,
    "kw": [
     736,
@@ -5699,6 +5814,7 @@
    "metacritic": null,
    "letterboxd": 3.3,
    "letterboxd_url": "https://letterboxd.com/film/children-of-the-wicker-man/",
+   "plot": "Fifty years after The Wicker Man, director Robin Hardy’s lost papers resurface, prompting his sons Justin and Dominic to explore the legacy of the cult classic, and their father. Together, they uncover the truth behind Robin’s role in the film and confront the complexities of independent filmmaking, family, and myth.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -5742,6 +5858,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/enter-the-television/",
+   "plot": "From Tom Seymour creator of the VHS Massacre Trilogy. Enter the Television is a feature-length documentary exploring the dark corners of television from obscure commercials to unconventional cable programming. It examines the evolution of media through an underground lens, revealing how independent voices survive within systems controlled by powerful media corporations.",
    "original_title": null,
    "kw": [
     282080
@@ -5787,6 +5904,7 @@
    "metacritic": null,
    "letterboxd": 3.33,
    "letterboxd_url": "https://letterboxd.com/film/babystar/",
+   "plot": "Luca is an influencer. For as long as she can remember, she has been the star of her parents' family social media business and their only pride and joy. When her parents decide to have another child, things change. Luca feels betrayed and is afraid of no longer being needed by her parents, whose attention remains tied to her performance for the family account.",
    "original_title": null,
    "kw": [
     12279,
@@ -5836,6 +5954,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/homecoming-shenanigans/",
+   "plot": "Ivan returns home after six years abroad in Barcelona, hoping for a joyful reunion with his vibrant family. However, what begins as a celebratory welcome quickly spirals into chaos as deep-seated secrets surface.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -5879,6 +5998,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/ice-cream-i-scream-capital/",
+   "plot": null,
    "original_title": "Dondurmam Gaymak: Gapital",
    "kw": [],
    "people": [
@@ -5923,6 +6043,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/outsiders-2026/",
+   "plot": "Davey's Chambers life is forever altered when an alien invasion forces him to survive with strangers inside of his compact flat.",
    "original_title": null,
    "kw": [
     273439,
@@ -5971,6 +6092,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-meadows/",
+   "plot": "When aspiring actor Viola lands the role of Juliet in a community theatre production, she’s drawn into the orbit of her volatile co-star, whose narcissism and unhinged intensity begin to unravel both the play and her sense of self.",
    "original_title": null,
    "kw": [
     2383,
@@ -6021,6 +6143,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/for-those-who-love-leave-and-love-again/",
+   "plot": "Haunted by the memory of an absent, violent father, Paul moves restlessly through Berlin’s night, drifting into fleeting encounters that only deepen his loneliness.",
    "original_title": null,
    "kw": [
     190742
@@ -6067,6 +6190,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/mitrata/",
+   "plot": "Mitrata follows three inseparable friends whose bond is hilariously and heart-warmingly tested by a chaotic twist of fate. Packed with laughter, loyalty, and life-changing choices, it is the ultimate celebration of the people who know us best.",
    "original_title": "મિત્રતા",
    "kw": [],
    "people": [
@@ -6112,6 +6236,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-fall-of-barsisa/",
+   "plot": "A modern re-imagining of the fable of the same name. Three brothers leave their ailing sister in the company of a devout and honourable figure as they are guided by an ambiguous stranger through treacherous terrain in search of a remedy.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -6153,6 +6278,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/one-last-night-2026/",
+   "plot": "On the eve of leaving for college, Braden takes his younger brother into the city to escape their mother's chaos, a final night of laughter, connection, and bittersweet memories amid a fractured family.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -6195,6 +6321,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/aberfan-the-village-that-fought-back/",
+   "plot": "Aberfan's grieving community takes on the government, demanding justice and removal of the remaining tips after the disaster that killed 144 people",
    "original_title": null,
    "kw": [],
    "people": [
@@ -6235,6 +6362,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/nightmares-2026/",
+   "plot": "The true story that became the basis one of the greatest horror movies of all time, following a journalist attempting to uncover the truth behind several unexplained deaths",
    "original_title": null,
    "kw": [],
    "people": [
@@ -6276,6 +6404,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/for-your-suffering/",
+   "plot": "A young boy lives in the shadow of his abusive stepfather - until tonight.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -6319,6 +6448,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/spicegirl/",
+   "plot": "A struggling singer returns home, tail between her legs. But a party invite from a childhood friend puts her outward persona to the test.",
    "original_title": null,
    "kw": [
     11494
@@ -6363,6 +6493,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/in-the-shadows-2026/",
+   "plot": "Tells the true story of Ramla Ali, who fled Somalia with her family as a young girl, seeking asylum in London from the civil war. As a teenager, she pursued her love of boxing, but did so secretly as she knew her family would disapprove. Ali became the first boxer, male or female, to represent Somalia at the 2020 Olympic Games and made history after winning the first ever professional female boxing match in Saudi Arabia.",
    "original_title": null,
    "kw": [
     6075,
@@ -6411,6 +6542,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/breezeblock/",
+   "plot": "In the heart of the forest, a man is building a concrete wall to protect himself from a fly that is swooping down towards him.",
    "original_title": "Parpaing",
    "kw": [
     4556,
@@ -6457,6 +6589,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/behind-the-reflection-2026/",
+   "plot": "A woman struggles with their identity, leading to a life of addiction, alcoholism and violence. A gritty drama based on the true life of Rozelle Gemma.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -6498,6 +6631,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-memory-remains/",
+   "plot": "Alex, a grieving scientist, uses an experimental machine to reconstruct his partner Laura’s mind from his own memories, but as she awakens, fragmented recollections begin to challenge his carefully constructed version of their life. As Laura pieces together her past, she discovers the disturbing truth behind Alex’s work and must confront the man whose obsession with progress has pushed their relationship- and her own identity- to the brink.",
    "original_title": null,
    "kw": [
     14544,
@@ -6545,6 +6679,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/blue-lagoon-2026/",
+   "plot": "Blue Lagoon explores the links between industrial extraction, ecological care, and somatic release through the lens of a post-industrial North East England coastline.",
    "original_title": null,
    "kw": [
     1382,
@@ -6594,6 +6729,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/out-of-breath-2026/",
+   "plot": "OUT OF BREATH shines the spotlight on the human cost paid by people living with sleep apnea and their loved ones. Yet, for all the darkness they face there is also light at the end of the tunnel as their hope, courage, and perseverance brings them closer to the promise of successful treatment.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -6619,6 +6755,49 @@
    ]
   },
   {
+   "tmdb_id": 1718221,
+   "title": "A Girl Called Alice",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/gFaXm5iez7zp70gbUAVww7m8iGg.jpg",
+   "runtime": null,
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "imdb_id": "tt37805796",
+   "popularity": 1.1435,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/a-girl-called-alice/",
+   "plot": "In the middle of London's mobile phone theft epidemic; a young woman with the reputation of one of the most gifted phone thieves is challenged by a notorious street gang leader to see just how good she really is, but is it a wise choice?",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    447550,
+    3791634,
+    1812465
+   ],
+   "recs": [
+    36521,
+    774301,
+    171337,
+    31863,
+    12888,
+    20637,
+    16056,
+    16958,
+    401743,
+    107380,
+    19092,
+    20362
+   ]
+  },
+  {
    "tmdb_id": 1508223,
    "title": "Say It",
    "release_date": "2026-03-27",
@@ -6637,6 +6816,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/say-it-2025/",
+   "plot": "When a headstrong student gets trapped in a school bathroom with his racist bully, he must force a confession before they're found, or his final chance at justice will be lost.",
    "original_title": null,
    "kw": [
     6271,
@@ -6666,46 +6846,100 @@
    ]
   },
   {
-   "tmdb_id": 1776971,
-   "title": "Lutt Mubarak",
-   "release_date": "2026-09-25",
+   "tmdb_id": 1654015,
+   "title": "Can you hear me Major Tom?",
+   "release_date": "2026-10-10",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/q9Nlv8mW8Nouf4BjKrLCZoiweIR.jpg",
-   "runtime": 130,
+   "poster": "https://image.tmdb.org/t/p/w342/gRTdIQAQ3ElQWo6jUxwx7xMnItC.jpg",
+   "runtime": 20,
    "genres": [
-    "Drama"
+    "Drama",
+    "Animation"
    ],
-   "imdb_id": "tt39007156",
-   "popularity": 1.014,
+   "imdb_id": null,
+   "popularity": 1.0908,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/lutt-mubarak/",
+   "letterboxd_url": "https://letterboxd.com/film/can-you-hear-me-major-tom/",
+   "plot": "We’re all just floating, waiting for someone to find us.",
    "original_title": null,
    "kw": [],
    "people": [
-    6497781,
-    1293322,
-    2097338,
-    1727270,
-    3212668
+    6549409,
+    5258813,
+    6549406,
+    6549408
    ],
    "recs": [
-    113294,
-    846956,
-    48129,
-    159389,
-    127373,
-    545237,
-    413452,
-    1659087,
-    846433,
-    171337,
-    1292415,
-    28932
+    723895,
+    12180,
+    805051,
+    1398283,
+    338103,
+    743439,
+    789708,
+    1731694,
+    704264,
+    36800,
+    13757,
+    686941
+   ]
+  },
+  {
+   "tmdb_id": 1796228,
+   "title": "The Dog Whistle",
+   "release_date": "2026-10-21",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/oQxXi3EbGcPEG48d2d8INFVoAd0.jpg",
+   "runtime": 13,
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "imdb_id": null,
+   "popularity": 1.0692,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-dog-whistle/",
+   "plot": "An obnoxious conservative politician is repeatedly pestered over the phone for an unknown reason",
+   "original_title": null,
+   "kw": [
+    3307,
+    156024,
+    160840,
+    206750,
+    315058,
+    329138
+   ],
+   "people": [
+    6545971,
+    6545980,
+    4130305,
+    6546015,
+    6262197,
+    6548164
+   ],
+   "recs": [
+    1339206,
+    396461,
+    1510745,
+    316727,
+    10657,
+    75889,
+    22423,
+    1667198,
+    157834,
+    913290,
+    1970,
+    32051
    ]
   },
   {
@@ -6730,6 +6964,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-catcher-2026/",
+   "plot": "Robin, a lonely young man, works for the government as a catcher of invisible birds. One day he defies his orders and makes one dangerous choice.",
    "original_title": null,
    "kw": [
     9957,
@@ -6763,6 +6998,58 @@
    ]
   },
   {
+   "tmdb_id": 1778334,
+   "title": "Burdens of Darkness: A Student Filmmaker's Apocalypse, The Untold Tragedy of The Making of 'Incident at Madeira Road - A Short Film'",
+   "release_date": "2026-09-24",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/iYl3Nlm8X9Bx9HtlzcWQyEQPWBv.jpg",
+   "runtime": 19,
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 1.0478,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/burdens-of-darkness-a-student-filmmakers/",
+   "plot": "A documentary pieced together from behind the scenes videos and interviews to tell the story of Will Lock as he undertakes the challenge of making the next great student short film.",
+   "original_title": null,
+   "kw": [
+    33490,
+    174109,
+    380513
+   ],
+   "people": [
+    5766374,
+    6500607,
+    6500612,
+    5766374,
+    6500607,
+    6500612,
+    6506353
+   ],
+   "recs": [
+    469019,
+    613999,
+    273641,
+    20211,
+    21585,
+    762511,
+    339927,
+    21921,
+    15258,
+    478054,
+    392891,
+    568693
+   ]
+  },
+  {
    "tmdb_id": 1719676,
    "title": "Take His Life",
    "release_date": "2026-10-03",
@@ -6781,6 +7068,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/take-his-life/",
+   "plot": "Beneath the glitter of London's finance world, a destitute man forces his way back from the streets into power. Over the course of a week, his hunger for success hardens into obsession, exposing a ruthless truth: in a system built on glass, survival demands taking another's life.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -6803,259 +7091,146 @@
    ]
   },
   {
-   "tmdb_id": 1573018,
-   "title": "In The Shadow of a High Rise Flat",
-   "release_date": "2026-09-26",
+   "tmdb_id": 1804039,
+   "title": "City of Masks",
+   "release_date": "2026-10-30",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/2srReYc5TQeVJpdDrQZbJIRDrMb.jpg",
-   "runtime": 16,
+   "poster": "https://image.tmdb.org/t/p/w342/vORv4gR1DTrNcZnehbHbaTcVEOe.jpg",
+   "runtime": 93,
    "genres": [
-    "Drama"
+    "Romance",
+    "Thriller"
    ],
-   "imdb_id": "tt39398294",
-   "popularity": 1.2002,
+   "imdb_id": "tt38046366",
+   "popularity": 1.0193,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/in-the-shadow-of-a-high-rise-flat/",
+   "letterboxd_url": "https://letterboxd.com/film/city-of-masks/",
+   "plot": "Ambition, obsession, and lost love collide in a haunted West End theatre where a disfigured composer, a rising star, and a jealous rival fight for control of a mysterious musical-and the masked legacy that threatens to destroy them all.",
    "original_title": null,
-   "kw": [],
+   "kw": [
+    128,
+    187056,
+    232208,
+    281237,
+    284103,
+    289296
+   ],
    "people": [
-    5789859,
-    5789848,
-    5634306,
-    4818982,
-    6494685
+    4217537,
+    4079360,
+    4182591,
+    1840374,
+    4097903
    ],
    "recs": [
-    552532,
-    34025,
-    184341,
-    283698,
-    537617,
-    82631,
-    159389,
-    35030,
-    1027497,
-    217919,
-    565341,
-    413337
-   ]
-  },
-  {
-   "tmdb_id": 1674771,
-   "title": "Limbus",
-   "release_date": "2026-09-20",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/47Zp5MHeW8C00nPkgzUd1xvZVA6.jpg",
-   "runtime": null,
-   "genres": [
-    "Mystery",
-    "Horror"
-   ],
-   "imdb_id": null,
-   "popularity": 1.153,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/limbus-2026/",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6148584,
-    4592037,
-    4948910,
-    6314412
-   ],
-   "recs": [
-    782936,
-    71373,
-    8284,
-    13252,
+    65869,
+    205588,
+    375846,
     916605,
-    590123,
-    4959,
-    1530875,
-    404733,
-    772973,
-    37342,
-    974453
+    84336,
+    1093995,
+    809314,
+    617502,
+    73454,
+    1172009,
+    11498,
+    1305717
    ]
   },
   {
-   "tmdb_id": 1718221,
-   "title": "A Girl Called Alice",
-   "release_date": "2026-10-09",
+   "tmdb_id": 1776971,
+   "title": "Lutt Mubarak",
+   "release_date": "2026-09-25",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/gFaXm5iez7zp70gbUAVww7m8iGg.jpg",
-   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/q9Nlv8mW8Nouf4BjKrLCZoiweIR.jpg",
+   "runtime": 130,
    "genres": [
-    "Crime",
     "Drama"
    ],
-   "imdb_id": "tt37805796",
-   "popularity": 1.1435,
+   "imdb_id": "tt39007156",
+   "popularity": 1.014,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/a-girl-called-alice/",
+   "letterboxd_url": "https://letterboxd.com/film/lutt-mubarak/",
+   "plot": "After his mother is falsely accused and shamed by a corrupt jeweler, Shubh, a honest young man, fights to reclaim his family's dignity. With detective Nyamat's help, he steps into a dangerous world of greed and crime to expose the truth.",
    "original_title": null,
    "kw": [],
    "people": [
-    447550,
-    3791634,
-    1812465
+    6497781,
+    1293322,
+    2097338,
+    1727270,
+    3212668
    ],
    "recs": [
-    36521,
-    774301,
+    113294,
+    846956,
+    48129,
+    159389,
+    127373,
+    545237,
+    413452,
+    1659087,
+    846433,
     171337,
-    31863,
-    12888,
-    20637,
-    16056,
-    16958,
-    401743,
-    107380,
-    19092,
-    20362
+    1292415,
+    28932
    ]
   },
   {
-   "tmdb_id": 1654015,
-   "title": "Can you hear me Major Tom?",
-   "release_date": "2026-10-10",
+   "tmdb_id": 1792337,
+   "title": "Of Times There Were Before",
+   "release_date": "2026-11-03",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/gRTdIQAQ3ElQWo6jUxwx7xMnItC.jpg",
-   "runtime": 20,
+   "poster": "https://image.tmdb.org/t/p/w342/2lrYHR0eNOT254kWvzSPvnSiiiv.jpg",
+   "runtime": 83,
    "genres": [
-    "Drama",
-    "Animation"
+    "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 1.0908,
+   "popularity": 1.0114,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/can-you-hear-me-major-tom/",
+   "letterboxd_url": "https://letterboxd.com/film/of-times-there-were-before/",
+   "plot": "Of Times There Were Before is a portrait of Romila Thapar, one of the world’s most influential historians and public intellectuals. At ninety-four, having lived through much of the making of modern India, she stands at an unusual distance from the past she has spent a lifetime studying. The film began with a simple question: who is the person behind the historian’s name? Shot at her home in New Delhi, it is an attempt to encounter Thapar beyond the authority of her work and the public image built around it. What emerges is a portrait of a life still in conversation with its own time.",
    "original_title": null,
-   "kw": [],
+   "kw": [
+    282080,
+    283901,
+    292592,
+    385680,
+    385681,
+    385682
+   ],
    "people": [
-    6549409,
-    5258813,
-    6549406,
-    6549408
+    6536644
    ],
    "recs": [
-    723895,
-    12180,
-    805051,
-    1398283,
-    338103,
-    743439,
-    789708,
-    1731694,
-    704264,
-    36800,
-    13757,
-    686941
-   ]
-  },
-  {
-   "tmdb_id": 1792520,
-   "title": "Crocodile Tears",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/7ZMshMCl9gwt3IQ5LMaNuaJk0Ns.jpg",
-   "runtime": 15,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt41796019",
-   "popularity": 1.1608,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/crocodile-tears-2026-1/",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6537049,
-    4754908
-   ],
-   "recs": [
-    1212271,
-    41240,
-    159389,
-    364223,
-    34025,
-    157351,
-    339145,
-    259958,
-    413452,
-    371462,
-    669666,
-    20857
-   ]
-  },
-  {
-   "tmdb_id": 1792115,
-   "title": "Agbara Nla: The Return",
-   "release_date": "2026-10-23",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/ea2IOcZnkRJfwZUmTJBqbvgQAgF.jpg",
-   "runtime": 155,
-   "genres": [
-    "Action",
-    "Fantasy"
-   ],
-   "imdb_id": "tt47091674",
-   "popularity": 0.8976,
-   "tmdb": null,
-   "imdb": 6.8,
-   "imdb_votes": 10,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/agbara-nla-the-return/",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    4326664,
-    4326668,
-    6560061,
-    6560062,
-    6560063,
-    4326664
-   ],
-   "recs": [
-    666750,
-    51532,
-    1058537,
-    81005,
-    25132,
-    45611,
-    131634,
-    290595,
-    9543,
-    445651,
-    266647,
-    575094
+    961722,
+    21710,
+    508003,
+    1853,
+    757388,
+    94623,
+    412924,
+    1723460,
+    130824,
+    29047,
+    240629,
+    20565
    ]
   },
   {
@@ -7077,6 +7252,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/black-hollow/",
+   "plot": "Set in the rural Midwest during the 1970s, Black Hollow follows Jessica, an innocent young girl sheltered by small-town faith and her worldly friend Helen, whose rebellious streak leads them both into danger. When the two sneak out one foggy night, they wander to a forgotten churchyard, an isolated place where sacred ground conceals something unholy. As darkness descends, Jessica's search for belonging turns to horror, forcing her to confront the evil that thrives beneath the surface of the American heartland.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -7121,6 +7297,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/baa-ek-yoddha/",
+   "plot": "The silent struggles, scarifies, and unconditional love of a father.",
    "original_title": "बा: एक योद्धा",
    "kw": [
     282133,
@@ -7149,221 +7326,6 @@
    ]
   },
   {
-   "tmdb_id": 1784633,
-   "title": "Remember That Time",
-   "release_date": "2026-09-30",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/f6V4vySxdQPUyXzn72nfilgor0l.jpg",
-   "runtime": 20,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.8532,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/remember-that-time/",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    4042151
-   ],
-   "recs": [
-    322506,
-    20561,
-    1723460,
-    645488,
-    557646,
-    94623,
-    1400780,
-    1477565,
-    240629,
-    508003,
-    20562,
-    1059673
-   ]
-  },
-  {
-   "tmdb_id": 1773928,
-   "title": "Mask Murder",
-   "release_date": "2026-10-13",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/itCuMjnYBcol2fX0WYDRZtRFjtF.jpg",
-   "runtime": 2,
-   "genres": [
-    "Horror"
-   ],
-   "imdb_id": null,
-   "popularity": 0.8001,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/mask-murder/",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6080461,
-    6546861,
-    6092290
-   ],
-   "recs": [
-    1356236,
-    814889,
-    711705,
-    1338972,
-    1020696,
-    741613,
-    14397,
-    675531,
-    1241674,
-    406563,
-    3072,
-    630586
-   ]
-  },
-  {
-   "tmdb_id": 1523450,
-   "title": "A Hair's Breadth",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/voYN8qFZSVN6tJOciikUX0GkMzz.jpg",
-   "runtime": 14,
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "imdb_id": "tt37646850",
-   "popularity": 0.9094,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/a-hairs-breadth/",
-   "original_title": null,
-   "kw": [
-    4613,
-    15058,
-    181657,
-    244984
-   ],
-   "people": [
-    3354893,
-    2351611,
-    2376543,
-    5599566
-   ],
-   "recs": [
-    506025,
-    20857,
-    70006,
-    28059,
-    391710,
-    48129,
-    1292415,
-    1387382,
-    436932,
-    121379,
-    14012,
-    59408
-   ]
-  },
-  {
-   "tmdb_id": 1792337,
-   "title": "Of Times There Were Before",
-   "release_date": "2026-11-03",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/2lrYHR0eNOT254kWvzSPvnSiiiv.jpg",
-   "runtime": 83,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 1.0114,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/of-times-there-were-before/",
-   "original_title": null,
-   "kw": [
-    282080,
-    283901,
-    292592,
-    385680,
-    385681,
-    385682
-   ],
-   "people": [
-    6536644
-   ],
-   "recs": [
-    961722,
-    21710,
-    508003,
-    1853,
-    757388,
-    94623,
-    412924,
-    1723460,
-    130824,
-    29047,
-    240629,
-    20565
-   ]
-  },
-  {
-   "tmdb_id": 1792741,
-   "title": "ADHD",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/pImNQdmeynzRJvVvUPe2IfBkb4G.jpg",
-   "runtime": 6,
-   "genres": [
-    "Drama",
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 0.8059,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/adhd/",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6379023,
-    6537352
-   ],
-   "recs": [
-    27834,
-    419459,
-    28059,
-    673159,
-    433503,
-    1220515,
-    172631,
-    542714,
-    43609,
-    829774,
-    41479,
-    436459
-   ]
-  },
-  {
    "tmdb_id": 1669763,
    "title": "The Dance of the Kokorrdit",
    "release_date": "2026-10-05",
@@ -7382,6 +7344,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-dance-of-the-kokorrdit/",
+   "plot": "A Wounaan teenager and a leader of their community venture into the Darién in search of a sacred bird. Along the way, they will face the dangers that threaten their territory and their culture.",
    "original_title": "El Viaje del Kokorrdit",
    "kw": [
     1284,
@@ -7415,146 +7378,6 @@
    ]
   },
   {
-   "tmdb_id": 1796228,
-   "title": "The Dog Whistle",
-   "release_date": "2026-10-21",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/oQxXi3EbGcPEG48d2d8INFVoAd0.jpg",
-   "runtime": 13,
-   "genres": [
-    "Drama",
-    "Horror"
-   ],
-   "imdb_id": null,
-   "popularity": 1.0692,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-dog-whistle/",
-   "original_title": null,
-   "kw": [
-    3307,
-    156024,
-    160840,
-    206750,
-    315058,
-    329138
-   ],
-   "people": [
-    6545971,
-    6545980,
-    4130305,
-    6546015,
-    6262197,
-    6548164
-   ],
-   "recs": [
-    1339206,
-    396461,
-    1510745,
-    316727,
-    10657,
-    75889,
-    22423,
-    1667198,
-    157834,
-    913290,
-    1970,
-    32051
-   ]
-  },
-  {
-   "tmdb_id": 1804039,
-   "title": "City of Masks",
-   "release_date": "2026-10-30",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/vORv4gR1DTrNcZnehbHbaTcVEOe.jpg",
-   "runtime": 93,
-   "genres": [
-    "Romance",
-    "Thriller"
-   ],
-   "imdb_id": "tt38046366",
-   "popularity": 1.0193,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/city-of-masks/",
-   "original_title": null,
-   "kw": [
-    128,
-    187056,
-    232208,
-    281237,
-    284103,
-    289296
-   ],
-   "people": [
-    4217537,
-    4079360,
-    4182591,
-    1840374,
-    4097903
-   ],
-   "recs": [
-    65869,
-    205588,
-    375846,
-    916605,
-    84336,
-    1093995,
-    809314,
-    617502,
-    73454,
-    1172009,
-    11498,
-    1305717
-   ]
-  },
-  {
-   "tmdb_id": 1792099,
-   "title": "Ukraine Ghost Ship",
-   "release_date": "2026-10-12",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/A0I7vmUon7bHCXxlvbihFt3bgGz.jpg",
-   "runtime": 72,
-   "genres": [],
-   "imdb_id": null,
-   "popularity": 0.7259,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/ukraine-ghost-ship/",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    3890631
-   ],
-   "recs": [
-    401200,
-    1715492,
-    1400789,
-    390253,
-    12311,
-    8665,
-    166426,
-    42737,
-    374720,
-    516486,
-    23928,
-    3536
-   ]
-  },
-  {
    "tmdb_id": 1792548,
    "title": "Procedure",
    "release_date": "2026-10-09",
@@ -7573,6 +7396,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/procedure-2026/",
+   "plot": "In 1976, Elaine Carter, a closeted police officer, is assigned to escort Thomas Avery, a whistleblower whose actions saved the life of the woman she loves. Confined together mid-flight, Elaine is forced to confront the strict procedure that has defined her career, and the personal cost of finally breaking it.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -7595,42 +7419,98 @@
    ]
   },
   {
-   "tmdb_id": 1769897,
-   "title": "Transformation",
-   "release_date": "2026-10-12",
+   "tmdb_id": 1523450,
+   "title": "A Hair's Breadth",
+   "release_date": "2026-10-09",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/2YZrePkKPyWFQC7KP969riTVZAl.jpg",
-   "runtime": null,
+   "poster": "https://image.tmdb.org/t/p/w342/voYN8qFZSVN6tJOciikUX0GkMzz.jpg",
+   "runtime": 14,
    "genres": [
-    "Documentary"
+    "Comedy",
+    "Drama"
    ],
-   "imdb_id": null,
-   "popularity": 0.6627,
+   "imdb_id": "tt37646850",
+   "popularity": 0.9094,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/transformation-2026/",
+   "letterboxd_url": "https://letterboxd.com/film/a-hairs-breadth/",
+   "plot": "Beck’s new moustache makes waves when it slows him down in the pool shortly before a big race. As his coach grows more aggressive in his attempts to make him shave, Beck must choose between his moustache and freedom, or his coach and treading water.",
+   "original_title": null,
+   "kw": [
+    4613,
+    15058,
+    181657,
+    244984
+   ],
+   "people": [
+    3354893,
+    2351611,
+    2376543,
+    5599566
+   ],
+   "recs": [
+    506025,
+    20857,
+    70006,
+    28059,
+    391710,
+    48129,
+    1292415,
+    1387382,
+    436932,
+    121379,
+    14012,
+    59408
+   ]
+  },
+  {
+   "tmdb_id": 1792115,
+   "title": "Agbara Nla: The Return",
+   "release_date": "2026-10-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/ea2IOcZnkRJfwZUmTJBqbvgQAgF.jpg",
+   "runtime": 155,
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "imdb_id": "tt47091674",
+   "popularity": 0.8976,
+   "tmdb": null,
+   "imdb": 6.8,
+   "imdb_votes": 10,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/agbara-nla-the-return/",
+   "plot": "When a feared village doctor rises with dark spiritual power to terrorize the land, a young courageous couple, Olatomi and Olaboye, must embrace their divine calling to confront evil, ignite revival, and prove that no power is greater than the name of Jesus.",
    "original_title": null,
    "kw": [],
    "people": [
-    2590760
+    4326664,
+    4326668,
+    6560061,
+    6560062,
+    6560063,
+    4326664
    ],
    "recs": [
-    1114590,
-    1400789,
-    446173,
-    20562,
-    322506,
-    94623,
-    1400780,
-    72680,
-    450945,
-    20561,
-    130824,
-    14201
+    666750,
+    51532,
+    1058537,
+    81005,
+    25132,
+    45611,
+    131634,
+    290595,
+    9543,
+    445651,
+    266647,
+    575094
    ]
   },
   {
@@ -7652,6 +7532,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/hazard-perception/",
+   "plot": "An expectant father and a woman haunted by her fear of driving spark an unexpected connection while waiting to be called in for their driving test.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -7675,6 +7556,84 @@
    ]
   },
   {
+   "tmdb_id": 1792099,
+   "title": "Ukraine Ghost Ship",
+   "release_date": "2026-10-12",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/A0I7vmUon7bHCXxlvbihFt3bgGz.jpg",
+   "runtime": 72,
+   "genres": [],
+   "imdb_id": null,
+   "popularity": 0.7259,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/ukraine-ghost-ship/",
+   "plot": "When Russian forces bombed a giant hydroelectric dam on Ukraine’s mighty Dnipro River in June 2023, farmland flooded, homes were destroyed and over 50 people lost their lives. Upriver, as waters drained, ancient ships’ timbers were uncovered on the newly exposed beach. Now, a Ukrainian archaeologist Dmitro Kobaliaa has assembled an international team to recover these remains, to reveal the story of a vast Russian military flotilla sent to conquer land around the Black Sea coast. It’s a battle still raging today. As fighter jets shoot overhead, Dmitro’s discoveries reveal a history of Ukraine before Russian rule, a history the Russians are trying to destroy, but one Dmitro is desperate to preserve.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    3890631
+   ],
+   "recs": [
+    401200,
+    1715492,
+    1400789,
+    390253,
+    12311,
+    8665,
+    166426,
+    42737,
+    374720,
+    516486,
+    23928,
+    3536
+   ]
+  },
+  {
+   "tmdb_id": 1769897,
+   "title": "Transformation",
+   "release_date": "2026-10-12",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/2YZrePkKPyWFQC7KP969riTVZAl.jpg",
+   "runtime": null,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.6627,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/transformation-2026/",
+   "plot": "A feature-length documentary exploring the profound inner metamorphosis of Ukrainian civilians from the creative sector who chose to enlist as soldiers to defend their country. The film maps the deep psychological and lifestyle shifts experienced by musicians, artists, and filmmakers as they stepped away from civilian art to enter the realities of war.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    2590760
+   ],
+   "recs": [
+    1114590,
+    1400789,
+    446173,
+    20562,
+    322506,
+    94623,
+    1400780,
+    72680,
+    450945,
+    20561,
+    130824,
+    14201
+   ]
+  },
+  {
    "tmdb_id": 1502997,
    "title": "Wendehorn",
    "release_date": "2026-10-31",
@@ -7693,6 +7652,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/wendehorn/",
+   "plot": "Tara is lead to a sacred forest after reading the Necronomicon. It it there that she is stalked by a creature that roams the woods and protects it's land and property.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -7736,6 +7696,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/its-pronounced-dave/",
+   "plot": "A far-right South Asian MP candidate questions his campaign when he begins thinking in his native language.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -7777,6 +7738,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/unseen-the-aberfan-portraits/",
+   "plot": "Following the Aberfan disaster in 1966, an artist from Llandudno embarked on an extraordinary mission to paint portraits of most of the 116 children who lost their lives, using photographs and locks of hair provided by their grieving families.  For the first time, relatives share what these remarkable paintings have meant to them over the past six decades. Presented by the BBC’s Huw Thomas, he discovers how the portraits became enduring symbols of remembrance in a village touched by tragedy.",
    "original_title": null,
    "kw": [],
    "people": [],
@@ -7816,6 +7778,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/forget-me-not-2026/",
+   "plot": "Dean Carter's mind unravels while deciphering the mystery behind the disappearance of his fiancé.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -7857,6 +7820,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-first-silence/",
+   "plot": "A gaslit woman battles with her memory of events.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -7896,6 +7860,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/early-winters-sorrow/",
+   "plot": "An elderly writer arrives at an abandoned village, where only derelict houses remain. He goes to the farm where he spent his childhood. After a new bridge was built, the village was plagued by robberies and threats, and his family moved to a small remote farming community. Their peaceful working environment was threatened by Russian soldiers monitoring the village by air and making harassing visits. The personal stories of the small community that we witness are adapted from the novels of Revaz Inanishvili.",
    "original_title": "ზამთრისპირის სევდა",
    "kw": [],
    "people": [
@@ -7936,6 +7901,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/bridport-torchlight-procession/",
+   "plot": "Bridport Torchlight Procession in Dorset has been shrouded in tradition, with locals believing it has little history. Step into a journey through time, uncovering its origins as a celebration event, marking elections and how it has evolved over the decades and become a cornerstone of local culture.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -7976,6 +7942,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/secrets-of-the-southwest-science-behind-the/",
+   "plot": "Meet the inspiring individuals and communities who work to protect our most beloved UK wildlife.",
    "original_title": null,
    "kw": [],
    "people": [],
@@ -8017,6 +7984,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/deq/",
+   "plot": "\"DEQ\" is a legacy in Kurdish Culture. A bridge between Human and Nature and a way to find meaning of life.",
    "original_title": null,
    "kw": [
     180220,
@@ -8062,6 +8030,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-world-came-flooding-in/",
+   "plot": "The World Came Flooding In is an immersive VR documentary reconstructing memories of the eastern Australia floods in 2022, which is representative of similar events that happened recently in various parts of the world.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8106,6 +8075,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/thick-skin-2026/",
+   "plot": "A group of wannabe influencers discovers that one of their \"friends\" has an unusual talent",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8151,6 +8121,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/lost-city-2026/",
+   "plot": "A boxer's life improves when he begins dating a woman, but her violent ex-boyfriend, a Limerick gangster, tracks her to Belfast and pulls the boxer into a perilous criminal world.",
    "original_title": null,
    "kw": [],
    "people": [],
@@ -8188,6 +8159,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/mucker/",
+   "plot": "Mucker provides a fascinating insight into the professional and personal life of the pioneering and award winning British documentary film maker Brian Moser.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8227,6 +8199,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/egg-2026-2/",
+   "plot": "Struggling after his father's death, Josh goes to visit his father's oldest friend Ray, who lives off-grid in remote Wales. Surrounded by wild birds, Josh finds an abandoned egg and is compelled to find its nest to return it and takes Ray along with him. While talking, the two men find a way of sharing their grief and looking forward.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8268,6 +8241,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/dreamscape-2026-2/",
+   "plot": "Dreamscape is a quest on the weight of times we never imagined would become our reality. In the quiet hours of sleep, when our defenses soften, buried emotions rise to the surface, often more vivid than waking life. For those shaped by migration and marked by generational trauma, dreams become both a refuge and a mirror. This film explores how the unconscious mind reflects collective and personal struggle. It journeys through the inner worlds we create to survive, to heal, and to simply endure whether that's building coping mechanisms through faith, art, somatics or activism.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8305,6 +8279,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/i-am-fine-thank-you/",
+   "plot": null,
    "original_title": null,
    "kw": [],
    "people": [
@@ -8332,6 +8307,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/bermuda-riots-are-different/",
+   "plot": "An examination of a decade of race riots between 1968 and 1977, alongside a triangle of colonial influences: Bermuda, Great Britain, and the USA.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8371,6 +8347,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/duckweed-2026/",
+   "plot": "Obscure, aging, and living on the outskirts of London, writer of supernatural fiction Quentin Crisp asks himself a fundamental existential question: ‘Who am I?' This feature-length film-essay is structured around readings of Crisp’s own zuihitsu of the same name, which, in essence, is the story of his life. As we follow Crisp on a walk deeper into the ‘‘little wood’’ of his private landscape, the binaries of success and failure begin to fade away.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8409,6 +8386,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-country-gentlewoman/",
+   "plot": "A Georgian era inspired short film that brings you the best of festive entertaining. Join Arabella and Margaret as they navigate the complexities of tricky ex-partners, the art of hosting, and perfect wine pairings.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8448,6 +8426,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/s-k-8/",
+   "plot": "Four Skaters Skate",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8491,6 +8470,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-ones-who-stay-2025/",
+   "plot": "Four young Cuban artists choose to stay in Cuba amid the country’s largest migration crisis. LA RETAGUARDIA offers an intimate portrait of those who stay behind, watch their loved ones leave, and continue shaping the identity of a generation they fear is fading away.",
    "original_title": "La Retaguardia",
    "kw": [
     228747,
@@ -8540,6 +8520,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/close-2026-1/",
+   "plot": "Keane finds a box of his absent father’s negatives. He prints the images in a darkroom’s red glow. As he and his mother Diane look through distant exposures from the half-past, the prints expose a life that was always out of frame. Closure leads them back to the shoreline, where Keane reframes what remains.",
    "original_title": null,
    "kw": [],
    "people": [],
@@ -8577,6 +8558,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/the-sound-we-make-together/",
+   "plot": "Striving for fame, is that the right reason to be head over heels in the competitive music industry? It's no secret that the music industry is one of the toughest out there…creative slumps, isolation, the fear of 'not making it' and failure. So, we introduce The Hills Brothers, a brotherly duo of musicians, local to Portsmouth, who spend their nights hosting several Open Mic nights all over Portsmouth and Hampshire. Take a deeper look into why they find these Open Mic nights more than just a fun night to express yourself and your music. Understand why these nights create a community for musicians and why venues like Casemates are essential for the artists support.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8616,6 +8598,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/gaffer/",
+   "plot": "As the manager of an unruly Sunday League team, the Gaffer lives for the 90 minutes every week where he’s in total control. But when his best player goes missing just minutes before the most important game of the season, the Gaffer’s fragile authority begins to crumble.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8655,6 +8638,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/perfect-imperfection-2026/",
+   "plot": "A conversation between a uni-bound student and his mentor. Exploring themes of voice and vulnerability.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8694,6 +8678,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/secrets-of-the-southwest-2026/",
+   "plot": "Discover the hidden stories Britain's southwest has to offer. From Foxes fighting on the streets of Bristol to Puffins looking for love on Skomer Island.",
    "original_title": null,
    "kw": [],
    "people": [],
@@ -8710,57 +8695,6 @@
     57586,
     627133,
     631344
-   ]
-  },
-  {
-   "tmdb_id": 1778334,
-   "title": "Burdens of Darkness: A Student Filmmaker's Apocalypse, The Untold Tragedy of The Making of 'Incident at Madeira Road - A Short Film'",
-   "release_date": "2026-09-24",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/iYl3Nlm8X9Bx9HtlzcWQyEQPWBv.jpg",
-   "runtime": 19,
-   "genres": [
-    "Comedy",
-    "Drama",
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 1.0478,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/burdens-of-darkness-a-student-filmmakers/",
-   "original_title": null,
-   "kw": [
-    33490,
-    174109,
-    380513
-   ],
-   "people": [
-    5766374,
-    6500607,
-    6500612,
-    5766374,
-    6500607,
-    6500612,
-    6506353
-   ],
-   "recs": [
-    469019,
-    613999,
-    273641,
-    20211,
-    21585,
-    762511,
-    339927,
-    21921,
-    15258,
-    478054,
-    392891,
-    568693
    ]
   },
   {
@@ -8782,6 +8716,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/test-1-2026/",
+   "plot": "Experimental film by Musa.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8821,6 +8756,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/run-2026-5/",
+   "plot": "London has fallen. Food is scarce, hope is fading, and the undead roam the streets. When two survivors embark on a dangerous supply run, an encounter with the infected forces them apart. Alone in a city overrun by the dead, each must fight to survive and find their way back to the other.",
    "original_title": null,
    "kw": [
     186565,
@@ -8866,6 +8802,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/hand-me-down-2026/",
+   "plot": "Eve is donating her childhood dollhouse away to an antique store ran by a lonely old woman Lynne. As Eve explores the stores treasures, filled with memories of their past owners, she warms to Lynnes helpfulness. Picking out a recipe book, she takes it home to discover Lynnes name written in it. As an act of kindness, she brings a birthday cake baked from the recipe book back to Lynne at the store, with a new mindset and hope to retrieve her dollhouse back. Lynne is delighted by Eves recreation of her childhood cake, taking her back down memory lane, but as Eve bargains to take her dollhouse back, a little girl in the store begs her mother to purchase it. Eve watches as her item finds its new owners, reassured she is passing down a treasure for the girl to cherish as she did.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8903,6 +8840,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/legs-2026/",
+   "plot": "Two pairs of legs, Lennon and Lindsey, embrace the challenging journey to explore if their continuous encounters really are just coincidences.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8943,6 +8881,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/duthchas-our-underwater-forests/",
+   "plot": "An animated documentary exploring the parallel loss of marine biodiversity and Gaelic culture and language in Scotland. Six interviews with researchers and practitioners,explore marine ecosystems, capitalism, and rewilding alongside a fully animated visual story. The hand-painted animation is based on underwater sketches, giving it a dreamlike yet accurate look.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -8983,6 +8922,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/acerola/",
+   "plot": null,
    "original_title": null,
    "kw": [
     255632,
@@ -9034,6 +8974,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/synthetica/",
+   "plot": "Ada, a retired hacker living quietly as an art curator, discovers an illegal neural implant in their head after experiencing dangerous memory glitches. When an underground surgeon can't safely remove it, Ada is forced to accept one last job: infiltrate the corporation that created the device. As the mission unfolds, Ada must confront the truth about their forgotten past and the real purpose of the technology buried in their mind.",
    "original_title": null,
    "kw": [
     207268,
@@ -9076,6 +9017,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/language-of-the-wind/",
+   "plot": "The story follows 16-year-old Shatu, who has spent her life tending cattle but secretly longs for city life. The day after her wedding to her traditional cousin Ardo (17), she finds a potential path to escape. As they lead their cattle to graze, the silence and tension between them build into a heavy confrontation of unspoken truths and life-altering decisions on the plains.",
    "original_title": null,
    "kw": [],
    "people": [
@@ -9115,6 +9057,7 @@
    "metacritic": null,
    "letterboxd": null,
    "letterboxd_url": "https://letterboxd.com/film/creatures-2026/",
+   "plot": "In Amsterdam, a queer Polish tattoo artist creates creatures that become part of other people's bodies. Through fandoms, online communities, and kindred spirits, we explore the world surrounding the artist, Pazur Mazur.",
    "original_title": null,
    "kw": [],
    "people": [
