@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 update.py --selftest
+      - run: python3 update.py --selftest && node taste.test.js
       - run: python3 update.py
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
