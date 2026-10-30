@@ -1,132 +1,12 @@
 {
- "updated": "2026-10-29T19:25+00:00",
+ "updated": "2026-10-30T12:37+00:00",
  "films": [
-  {
-   "tmdb_id": 1058424,
-   "title": "Hope",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-   "runtime": 157,
-   "genres": [
-    "Science Fiction",
-    "Mystery",
-    "Action"
-   ],
-   "imdb_id": "tt27369017",
-   "popularity": 509.9983,
-   "tmdb": 6.78,
-   "imdb": 6.9,
-   "imdb_votes": 4367,
-   "rt": 78.0,
-   "metacritic": 66.0,
-   "letterboxd": 3.17,
-   "letterboxd_url": "https://letterboxd.com/film/hope-2026/",
-   "plot": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-   "original_title": "호프",
-   "kw": [
-    6152,
-    2673,
-    10950,
-    15090,
-    181644,
-    193309,
-    220235,
-    273439,
-    285398,
-    315058,
-    328072,
-    343743,
-    363056,
-    381574
-   ],
-   "people": [
-    75915,
-    68903,
-    127564,
-    3194501,
-    227454
-   ],
-   "recs": [
-    16068,
-    766507,
-    1051896,
-    324670,
-    169,
-    76341,
-    932420,
-    736485,
-    19384,
-    1353117,
-    27150,
-    1323244
-   ]
-  },
-  {
-   "tmdb_id": 1400940,
-   "title": "Clayface",
-   "release_date": "2026-10-19",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-   "runtime": 109,
-   "genres": [
-    "Horror",
-    "Thriller",
-    "Science Fiction"
-   ],
-   "imdb_id": "tt34890576",
-   "popularity": 231.682,
-   "tmdb": 7.483,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.74,
-   "letterboxd_url": "https://letterboxd.com/film/clayface/",
-   "plot": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-   "original_title": null,
-   "kw": [
-    1299,
-    1370,
-    9717,
-    9748,
-    10614,
-    228384,
-    240435,
-    283085,
-    312528,
-    314730,
-    367031,
-    386908
-   ],
-   "people": [
-    63306,
-    1327945,
-    1537686,
-    1665,
-    2978
-   ],
-   "recs": [
-    9383,
-    13220,
-    13059,
-    9599,
-    9426,
-    819876,
-    1340110,
-    338676,
-    9556,
-    1141182,
-    528985,
-    608654
-   ]
-  },
   {
    "tmdb_id": 791523,
    "title": "Wildwood",
    "release_date": "2026-10-23",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
    "runtime": 132,
    "genres": [
     "Animation",
@@ -134,8 +14,8 @@
     "Fantasy"
    ],
    "imdb_id": "tt2056785",
-   "popularity": 152.4449,
-   "tmdb": 8.6,
+   "popularity": 1196.6757,
+   "tmdb": 8.628,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
@@ -178,8 +58,128 @@
     10837,
     12222,
     133931,
-    297270,
-    597316
+    597316,
+    297270
+   ]
+  },
+  {
+   "tmdb_id": 1058424,
+   "title": "Hope",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+   "runtime": 157,
+   "genres": [
+    "Science Fiction",
+    "Mystery",
+    "Action"
+   ],
+   "imdb_id": "tt27369017",
+   "popularity": 490.1318,
+   "tmdb": 6.788,
+   "imdb": 6.9,
+   "imdb_votes": 4367,
+   "rt": 78.0,
+   "metacritic": 66.0,
+   "letterboxd": 3.17,
+   "letterboxd_url": "https://letterboxd.com/film/hope-2026/",
+   "plot": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+   "original_title": "호프",
+   "kw": [
+    6152,
+    2673,
+    10950,
+    15090,
+    181644,
+    193309,
+    220235,
+    273439,
+    285398,
+    315058,
+    328072,
+    343743,
+    363056,
+    381574
+   ],
+   "people": [
+    75915,
+    68903,
+    127564,
+    3194501,
+    227454
+   ],
+   "recs": [
+    16068,
+    766507,
+    1051896,
+    324670,
+    169,
+    76341,
+    932420,
+    19384,
+    1353117,
+    27150,
+    736485,
+    1323244
+   ]
+  },
+  {
+   "tmdb_id": 1400940,
+   "title": "Clayface",
+   "release_date": "2026-10-19",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+   "runtime": 109,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "imdb_id": "tt34890576",
+   "popularity": 218.7851,
+   "tmdb": 7.468,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.73,
+   "letterboxd_url": "https://letterboxd.com/film/clayface/",
+   "plot": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+   "original_title": null,
+   "kw": [
+    1299,
+    1370,
+    9717,
+    9748,
+    10614,
+    228384,
+    240435,
+    283085,
+    312528,
+    314730,
+    367031,
+    386908
+   ],
+   "people": [
+    63306,
+    1327945,
+    1537686,
+    1665,
+    2978
+   ],
+   "recs": [
+    9383,
+    13220,
+    9599,
+    13059,
+    9426,
+    819876,
+    338676,
+    9556,
+    1340110,
+    528985,
+    608654,
+    1141182
    ]
   },
   {
@@ -194,8 +194,8 @@
     "Thriller"
    ],
    "imdb_id": "tt32261958",
-   "popularity": 179.6426,
-   "tmdb": 6.3,
+   "popularity": 197.3336,
+   "tmdb": 6.463,
    "imdb": null,
    "imdb_votes": null,
    "rt": 31.0,
@@ -221,74 +221,17 @@
    ],
    "recs": [
     916605,
-    13252,
-    210577,
-    862552,
-    1043565,
-    40821,
     294795,
+    13252,
+    1043565,
+    1215918,
     3594,
+    1059345,
+    570670,
+    375846,
     419835,
-    33195,
-    619979,
-    346685
-   ]
-  },
-  {
-   "tmdb_id": 1153576,
-   "title": "Street Fighter",
-   "release_date": "2026-10-16",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-   "runtime": 120,
-   "genres": [
-    "Action",
-    "Fantasy"
-   ],
-   "imdb_id": "tt27419420",
-   "popularity": 116.5205,
-   "tmdb": 6.3,
-   "imdb": 6.2,
-   "imdb_votes": 1231,
-   "rt": null,
-   "metacritic": 46.0,
-   "letterboxd": 2.78,
-   "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
-   "plot": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-   "original_title": null,
-   "kw": [
-    779,
-    41645,
-    156159,
-    179431,
-    184656,
-    188955,
-    210608,
-    285633,
-    288793,
-    295504,
-    325761
-   ],
-   "people": [
-    922344,
-    1658375,
-    1253353,
-    3775598,
-    83854
-   ],
-   "recs": [
-    566525,
-    1729,
-    1499984,
-    263341,
-    9476,
-    141052,
-    731738,
-    19267,
-    453395,
-    68735,
-    487186,
-    13253
+    800815,
+    862552
    ]
   },
   {
@@ -306,8 +249,8 @@
     "Family"
    ],
    "imdb_id": "tt36583977",
-   "popularity": 115.6275,
-   "tmdb": 7.504,
+   "popularity": 119.5326,
+   "tmdb": 7.676,
    "imdb": 7.7,
    "imdb_votes": 1331,
    "rt": 95.0,
@@ -351,14 +294,185 @@
     354857,
     682254,
     313297,
-    1280282,
     16418,
+    1280282,
     523366,
     25475,
     832502,
     568124,
     442056,
     585
+   ]
+  },
+  {
+   "tmdb_id": 1153576,
+   "title": "Street Fighter",
+   "release_date": "2026-10-16",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+   "runtime": 120,
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "imdb_id": "tt27419420",
+   "popularity": 110.6582,
+   "tmdb": 6.349,
+   "imdb": 6.2,
+   "imdb_votes": 1231,
+   "rt": null,
+   "metacritic": 46.0,
+   "letterboxd": 2.78,
+   "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
+   "plot": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+   "original_title": null,
+   "kw": [
+    779,
+    41645,
+    156159,
+    179431,
+    184656,
+    188955,
+    210608,
+    285633,
+    288793,
+    295504
+   ],
+   "people": [
+    922344,
+    1658375,
+    1253353,
+    3775598,
+    83854
+   ],
+   "recs": [
+    1729,
+    1499984,
+    263341,
+    141052,
+    11649,
+    453395,
+    13253,
+    19267,
+    731738,
+    9476,
+    695721,
+    297802
+   ]
+  },
+  {
+   "tmdb_id": 1727734,
+   "title": "Ali G: Who Iz I?",
+   "release_date": "2026-10-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+   "runtime": 89,
+   "genres": [
+    "Comedy"
+   ],
+   "imdb_id": "tt43655467",
+   "popularity": 106.0394,
+   "tmdb": 6.198,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 2.8,
+   "letterboxd_url": "https://letterboxd.com/film/ali-g-who-iz-i/",
+   "plot": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+   "original_title": null,
+   "kw": [
+    3979,
+    9663,
+    269769,
+    379256
+   ],
+   "people": [
+    6730,
+    6730,
+    1370805,
+    4549356,
+    19901
+   ],
+   "recs": [
+    582570,
+    15313,
+    879444,
+    999582,
+    1084577,
+    280180,
+    661747,
+    133790,
+    1398050,
+    484718,
+    1048241,
+    109439
+   ]
+  },
+  {
+   "tmdb_id": 1503762,
+   "title": "Sense and Sensibility",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+   "runtime": 132,
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "imdb_id": "tt13609648",
+   "popularity": 93.898,
+   "tmdb": 7.4,
+   "imdb": 7.2,
+   "imdb_votes": 1752,
+   "rt": 79.0,
+   "metacritic": 72.0,
+   "letterboxd": 3.99,
+   "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
+   "plot": "A charming, witty, and deeply relatable story of love and sisterhood.",
+   "original_title": null,
+   "kw": [
+    4034,
+    818,
+    392,
+    2383,
+    2803,
+    9673,
+    11479,
+    34221,
+    160279,
+    164663,
+    210281,
+    210589,
+    234187,
+    241738,
+    248169,
+    259376,
+    281585,
+    286194,
+    309426,
+    342334
+   ],
+   "people": [
+    1674275,
+    2230991,
+    79510,
+    147056,
+    4088089
+   ],
+   "recs": [
+    8293,
+    331482,
+    4584,
+    3084,
+    12184,
+    47333,
+    50512,
+    2977,
+    98491,
+    354743,
+    17474,
+    417678
    ]
   },
   {
@@ -372,8 +486,8 @@
     "Horror"
    ],
    "imdb_id": "tt36586020",
-   "popularity": 93.7702,
-   "tmdb": 5.842,
+   "popularity": 91.9465,
+   "tmdb": 5.852,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
@@ -409,79 +523,13 @@
     609,
     1291595,
     24740,
-    1151031,
     157547,
+    1151031,
     493922,
     532408,
     91586,
     1089123,
     138843
-   ]
-  },
-  {
-   "tmdb_id": 1503762,
-   "title": "Sense and Sensibility",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-   "runtime": 132,
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "imdb_id": "tt13609648",
-   "popularity": 92.5104,
-   "tmdb": 7.4,
-   "imdb": 7.2,
-   "imdb_votes": 1752,
-   "rt": 79.0,
-   "metacritic": 72.0,
-   "letterboxd": 3.98,
-   "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
-   "plot": "A charming, witty, and deeply relatable story of love and sisterhood.",
-   "original_title": null,
-   "kw": [
-    4034,
-    818,
-    392,
-    2383,
-    2803,
-    9673,
-    11479,
-    34221,
-    160279,
-    164663,
-    210281,
-    210589,
-    234187,
-    241738,
-    248169,
-    259376,
-    281585,
-    286194,
-    309426,
-    324429
-   ],
-   "people": [
-    1674275,
-    2230991,
-    79510,
-    147056,
-    4088089
-   ],
-   "recs": [
-    8293,
-    331482,
-    4584,
-    3084,
-    12184,
-    47333,
-    50512,
-    2977,
-    354743,
-    98491,
-    239571,
-    417678
    ]
   },
   {
@@ -496,8 +544,8 @@
     "Thriller"
    ],
    "imdb_id": "tt7526136",
-   "popularity": 79.4377,
-   "tmdb": 7.331,
+   "popularity": 81.1322,
+   "tmdb": 7.323,
    "imdb": 7.5,
    "imdb_votes": 542,
    "rt": 85.0,
@@ -531,76 +579,13 @@
     7305,
     42759,
     272878,
+    27985,
     747548,
     836009,
-    11678,
     547090,
-    46845,
     78698,
+    46845,
     1235746
-   ]
-  },
-  {
-   "tmdb_id": 1248832,
-   "title": "Digger",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-   "runtime": 129,
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "imdb_id": "tt31450459",
-   "popularity": 75.6082,
-   "tmdb": 7.489,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": 52.0,
-   "metacritic": null,
-   "letterboxd": 3.91,
-   "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
-   "plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-   "original_title": null,
-   "kw": [
-    592,
-    5332,
-    2210,
-    10123,
-    11436,
-    8201,
-    12547,
-    41500,
-    41609,
-    162130,
-    169086,
-    202371,
-    215299,
-    264792,
-    288793,
-    325773,
-    325815
-   ],
-   "people": [
-    223,
-    500,
-    53240,
-    1230,
-    7152
-   ],
-   "recs": [
-    701387,
-    497828,
-    41479,
-    507244,
-    1190012,
-    1161617,
-    27834,
-    76493,
-    646380,
-    272548,
-    798286,
-    14771
    ]
   },
   {
@@ -616,7 +601,7 @@
     "Action"
    ],
    "imdb_id": "tt4154796",
-   "popularity": 75.8559,
+   "popularity": 74.8726,
    "tmdb": 8.247,
    "imdb": 8.4,
    "imdb_votes": 1497908,
@@ -665,6 +650,69 @@
    ]
   },
   {
+   "tmdb_id": 1248832,
+   "title": "Digger",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+   "runtime": 129,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "imdb_id": "tt31450459",
+   "popularity": 75.0875,
+   "tmdb": 7.49,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": 52.0,
+   "metacritic": null,
+   "letterboxd": 3.91,
+   "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
+   "plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+   "original_title": null,
+   "kw": [
+    592,
+    5332,
+    2210,
+    10123,
+    11436,
+    8201,
+    12547,
+    41500,
+    41609,
+    162130,
+    169086,
+    202371,
+    215299,
+    264792,
+    288793,
+    325773,
+    325815
+   ],
+   "people": [
+    223,
+    500,
+    53240,
+    1230,
+    7152
+   ],
+   "recs": [
+    701387,
+    717693,
+    497828,
+    41479,
+    507244,
+    1190012,
+    1161617,
+    27834,
+    76493,
+    646380,
+    272548,
+    798286
+   ]
+  },
+  {
    "tmdb_id": 1255833,
    "title": "Whalefall",
    "release_date": "2026-10-16",
@@ -675,7 +723,7 @@
     "Thriller"
    ],
    "imdb_id": "tt28535715",
-   "popularity": 75.2818,
+   "popularity": 73.4918,
    "tmdb": 6.6,
    "imdb": null,
    "imdb_votes": null,
@@ -707,122 +755,17 @@
    ],
    "recs": [
     74,
-    31948,
     12707,
+    1127384,
+    31948,
     972533,
     4858,
     985939,
-    13811,
     390253,
+    13811,
     616651,
     205775,
-    1263337,
-    9341
-   ]
-  },
-  {
-   "tmdb_id": 1376400,
-   "title": "Crawlers",
-   "release_date": "2026-10-30",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
-   "runtime": 80,
-   "genres": [
-    "Horror",
-    "Thriller"
-   ],
-   "imdb_id": "tt32329539",
-   "popularity": 101.3514,
-   "tmdb": 6.1,
-   "imdb": 4.8,
-   "imdb_votes": 72,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 2.24,
-   "letterboxd_url": "https://letterboxd.com/film/crawlers-2026/",
-   "plot": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
-   "original_title": null,
-   "kw": [
-    554,
-    3986,
-    9744,
-    10349,
-    162810,
-    163395,
-    201456,
-    222021,
-    286239,
-    333357
-   ],
-   "people": [
-    1720199,
-    1464589,
-    2014129,
-    1635848,
-    5209690
-   ],
-   "recs": [
-    1087388,
-    44698,
-    930600,
-    28355,
-    913290,
-    14397,
-    616820,
-    5876,
-    754934,
-    297608,
-    1426297,
-    285923
-   ]
-  },
-  {
-   "tmdb_id": 1727734,
-   "title": "Ali G: Who Iz I?",
-   "release_date": "2026-10-23",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-   "runtime": 89,
-   "genres": [
-    "Comedy"
-   ],
-   "imdb_id": "tt43655467",
-   "popularity": 71.8228,
-   "tmdb": 5.6,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 2.91,
-   "letterboxd_url": "https://letterboxd.com/film/ali-g-who-iz-i/",
-   "plot": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
-   "original_title": null,
-   "kw": [
-    3979,
-    9663,
-    269769,
-    379256
-   ],
-   "people": [
-    6730,
-    6730,
-    1370805,
-    4549356,
-    19901
-   ],
-   "recs": [
-    582570,
-    15313,
-    879444,
-    999582,
-    1084577,
-    133790,
-    280180,
-    661747,
-    1398050,
-    484718,
-    79697,
-    1048241
+    1263337
    ]
   },
   {
@@ -838,13 +781,13 @@
     "Comedy"
    ],
    "imdb_id": "tt29611136",
-   "popularity": 71.3542,
+   "popularity": 72.6426,
    "tmdb": null,
    "imdb": 7.4,
    "imdb_votes": 376,
    "rt": 92.0,
    "metacritic": 70.0,
-   "letterboxd": 3.7,
+   "letterboxd": 3.69,
    "letterboxd_url": "https://letterboxd.com/film/wicker/",
    "plot": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
    "original_title": null,
@@ -871,18 +814,253 @@
     1133349
    ],
    "recs": [
+    26255,
+    10210,
     209406,
-    1151344,
     1143319,
-    1032863,
     259694,
+    1032863,
     843617,
+    1151344,
     53765,
     846250,
     1181678,
-    10030,
-    1433367,
-    54663
+    1433367
+   ]
+  },
+  {
+   "tmdb_id": 1375441,
+   "title": "Primetime",
+   "release_date": "2026-10-28",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+   "runtime": 110,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdb_id": "tt34206385",
+   "popularity": 62.0283,
+   "tmdb": 6.837,
+   "imdb": 8.7,
+   "imdb_votes": 120,
+   "rt": 86.0,
+   "metacritic": 75.0,
+   "letterboxd": 3.66,
+   "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
+   "plot": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+   "original_title": null,
+   "kw": [
+    2337,
+    1326,
+    1196,
+    242,
+    387,
+    1157,
+    9672,
+    6981,
+    12565,
+    167428,
+    173971,
+    203286,
+    222793,
+    232090,
+    252104,
+    275693
+   ],
+   "people": [
+    1405665,
+    11288,
+    28044,
+    61263,
+    1232599
+   ],
+   "recs": [
+    13250,
+    317744,
+    48946,
+    44945,
+    855263,
+    619979,
+    549514,
+    9357,
+    1598,
+    64639,
+    501624,
+    235271
+   ]
+  },
+  {
+   "tmdb_id": 858035,
+   "title": "Klara and the Sun",
+   "release_date": "2026-10-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
+   "runtime": 116,
+   "genres": [
+    "Science Fiction",
+    "Drama"
+   ],
+   "imdb_id": "tt14371256",
+   "popularity": 61.3428,
+   "tmdb": 5.8,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 3.12,
+   "letterboxd_url": "https://letterboxd.com/film/klara-and-the-sun/",
+   "plot": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
+   "original_title": null,
+   "kw": [
+    6054,
+    310,
+    818,
+    4565,
+    1670,
+    10235,
+    18035,
+    240315,
+    365954
+   ],
+   "people": [
+    55934,
+    974169,
+    4140137,
+    9273,
+    10871
+   ],
+   "recs": [
+    644,
+    1090,
+    157336,
+    17431,
+    670292,
+    586707,
+    262543,
+    505948,
+    227156,
+    636,
+    777443,
+    412656
+   ]
+  },
+  {
+   "tmdb_id": 1281331,
+   "title": "The Social Reckoning",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+   "runtime": 113,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdb_id": "tt37510326",
+   "popularity": 52.6833,
+   "tmdb": 6.992,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": 54.0,
+   "metacritic": null,
+   "letterboxd": 3.01,
+   "letterboxd_url": "https://letterboxd.com/film/the-social-reckoning/",
+   "plot": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+   "original_title": null,
+   "kw": [
+    417,
+    3012,
+    9672,
+    9663,
+    15061,
+    162130,
+    176834,
+    209799,
+    220831,
+    222517,
+    235579,
+    239275,
+    260521
+   ],
+   "people": [
+    13520,
+    1640439,
+    206905,
+    239271,
+    92572
+   ],
+   "recs": [
+    37799,
+    891,
+    4566,
+    162903,
+    522212,
+    13018,
+    46948,
+    11975,
+    9944,
+    87496,
+    20362,
+    640
+   ]
+  },
+  {
+   "tmdb_id": 977942,
+   "title": "The Uprising",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+   "runtime": 128,
+   "genres": [
+    "Action",
+    "Drama",
+    "History"
+   ],
+   "imdb_id": "tt36983905",
+   "popularity": 40.167,
+   "tmdb": 7.9,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": 55.0,
+   "metacritic": 53.0,
+   "letterboxd": 2.82,
+   "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/",
+   "plot": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+   "original_title": null,
+   "kw": [
+    11196,
+    4402,
+    9672,
+    154846,
+    161257,
+    162845,
+    188959,
+    235489,
+    237612,
+    263959,
+    266753,
+    325744
+   ],
+   "people": [
+    25598,
+    37625,
+    478,
+    8435,
+    1945369
+   ],
+   "recs": [
+    551271,
+    197,
+    96399,
+    454227,
+    504949,
+    489245,
+    1195631,
+    943822,
+    316152,
+    848439,
+    277713,
+    11372
    ]
   },
   {
@@ -897,8 +1075,8 @@
     "Thriller"
    ],
    "imdb_id": "tt10794054",
-   "popularity": 48.7749,
-   "tmdb": 6.697,
+   "popularity": 41.0194,
+   "tmdb": 6.8,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
@@ -941,184 +1119,6 @@
    ]
   },
   {
-   "tmdb_id": 858035,
-   "title": "Klara and the Sun",
-   "release_date": "2026-10-23",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
-   "runtime": 116,
-   "genres": [
-    "Science Fiction",
-    "Drama"
-   ],
-   "imdb_id": "tt14371256",
-   "popularity": 59.1211,
-   "tmdb": 5.8,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 3.13,
-   "letterboxd_url": "https://letterboxd.com/film/klara-and-the-sun/",
-   "plot": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
-   "original_title": null,
-   "kw": [
-    6054,
-    310,
-    818,
-    4565,
-    1670,
-    10235,
-    18035,
-    240315,
-    365954
-   ],
-   "people": [
-    55934,
-    974169,
-    4140137,
-    9273,
-    10871
-   ],
-   "recs": [
-    644,
-    1090,
-    157336,
-    17431,
-    670292,
-    586707,
-    262543,
-    505948,
-    227156,
-    636,
-    777443,
-    412656
-   ]
-  },
-  {
-   "tmdb_id": 1375441,
-   "title": "Primetime",
-   "release_date": "2026-10-28",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-   "runtime": 110,
-   "genres": [
-    "Drama",
-    "Thriller"
-   ],
-   "imdb_id": "tt34206385",
-   "popularity": 60.5715,
-   "tmdb": 6.8,
-   "imdb": 8.7,
-   "imdb_votes": 120,
-   "rt": 86.0,
-   "metacritic": 75.0,
-   "letterboxd": 3.66,
-   "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
-   "plot": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-   "original_title": null,
-   "kw": [
-    2337,
-    1326,
-    1196,
-    242,
-    1157,
-    1556,
-    9672,
-    12565,
-    15295,
-    167428,
-    173971,
-    203286,
-    222793,
-    232090,
-    239275,
-    244530,
-    252104,
-    275693
-   ],
-   "people": [
-    1405665,
-    11288,
-    28044,
-    61263,
-    1232599
-   ],
-   "recs": [
-    13250,
-    317744,
-    235271,
-    48946,
-    44945,
-    855263,
-    9357,
-    64639,
-    376004,
-    549514,
-    619979,
-    1957
-   ]
-  },
-  {
-   "tmdb_id": 1281331,
-   "title": "The Social Reckoning",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-   "runtime": 113,
-   "genres": [
-    "Drama",
-    "Thriller"
-   ],
-   "imdb_id": "tt37510326",
-   "popularity": 52.2632,
-   "tmdb": 7.0,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": 54.0,
-   "metacritic": null,
-   "letterboxd": 3.02,
-   "letterboxd_url": "https://letterboxd.com/film/the-social-reckoning/",
-   "plot": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-   "original_title": null,
-   "kw": [
-    417,
-    3012,
-    9672,
-    9663,
-    15061,
-    162130,
-    176834,
-    209799,
-    220831,
-    222517,
-    235579,
-    239275,
-    260521
-   ],
-   "people": [
-    13520,
-    1640439,
-    206905,
-    239271,
-    92572
-   ],
-   "recs": [
-    37799,
-    891,
-    4566,
-    162903,
-    522212,
-    13018,
-    46948,
-    11975,
-    9944,
-    87496,
-    20362,
-    640
-   ]
-  },
-  {
    "tmdb_id": 1234139,
    "title": "Jailer 2",
    "release_date": "2026-10-14",
@@ -1130,7 +1130,7 @@
     "Comedy"
    ],
    "imdb_id": "tt33318732",
-   "popularity": 39.8289,
+   "popularity": 35.0396,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1160,14 +1160,60 @@
     706972,
     974453,
     763025,
-    1153399,
     1515729,
+    1153399,
     45408,
     1383731,
     1130818,
     932420,
-    14172,
-    180894
+    180894,
+    4959
+   ]
+  },
+  {
+   "tmdb_id": 1515692,
+   "title": "Baththa",
+   "release_date": "2026-10-01",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/cWY636zXGECkRHbrqhQdFyP9n69.jpg",
+   "runtime": 159,
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Action"
+   ],
+   "imdb_id": "tt44090278",
+   "popularity": 38.5183,
+   "tmdb": null,
+   "imdb": 9.2,
+   "imdb_votes": 5566,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": 4.23,
+   "letterboxd_url": "https://letterboxd.com/film/baththa/",
+   "plot": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
+   "original_title": "பத்தா",
+   "kw": [],
+   "people": [
+    1124413,
+    1123766,
+    1620961,
+    6523177,
+    4294729
+   ],
+   "recs": [
+    1319895,
+    27590,
+    28059,
+    13534,
+    13064,
+    253343,
+    43609,
+    24528,
+    61041,
+    41496,
+    547090,
+    900409
    ]
   },
   {
@@ -1183,13 +1229,13 @@
     "Family"
    ],
    "imdb_id": "tt38807889",
-   "popularity": 37.8512,
+   "popularity": 39.2958,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": 3.18,
+   "letterboxd": 3.17,
    "letterboxd_url": "https://letterboxd.com/film/monster-mia/",
    "plot": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
    "original_title": null,
@@ -1217,12 +1263,12 @@
     324963,
     1139829,
     170687,
-    823609,
     624963,
+    823609,
     454699,
-    442062,
-    927254,
     28118,
+    927254,
+    442062,
     14836,
     25475,
     269509
@@ -1240,8 +1286,8 @@
     "History"
    ],
    "imdb_id": "tt37304295",
-   "popularity": 29.1043,
-   "tmdb": 7.308,
+   "popularity": 32.7079,
+   "tmdb": 7.3,
    "imdb": 7.3,
    "imdb_votes": 1773,
    "rt": 96.0,
@@ -1282,10 +1328,10 @@
     753336,
     763144,
     760336,
-    1083612,
-    975,
     1079244,
-    203833
+    203833,
+    1083612,
+    22509
    ]
   },
   {
@@ -1301,8 +1347,8 @@
     "Fantasy"
    ],
    "imdb_id": "tt36103784",
-   "popularity": 28.5934,
-   "tmdb": 5.855,
+   "popularity": 26.2404,
+   "tmdb": 5.796,
    "imdb": 5.7,
    "imdb_votes": 953,
    "rt": null,
@@ -1327,14 +1373,14 @@
     621870,
     668461,
     560044,
-    37030,
-    299738,
     25132,
-    18867,
+    37030,
     682254,
     1001884,
-    13534,
-    1144107
+    1144107,
+    410113,
+    44801,
+    299738
    ]
   },
   {
@@ -1349,13 +1395,13 @@
     "Drama"
    ],
    "imdb_id": "tt31969655",
-   "popularity": 25.1561,
+   "popularity": 22.5726,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": 0.0,
    "metacritic": null,
-   "letterboxd": 1.68,
+   "letterboxd": 1.67,
    "letterboxd_url": "https://letterboxd.com/film/the-paradise-2026/",
    "plot": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
    "original_title": "ది ప్యారడైజ్",
@@ -1382,10 +1428,10 @@
     436932,
     14937,
     484889,
-    14172,
     45408,
+    14172,
     9516,
-    256474
+    379
    ]
   },
   {
@@ -1401,7 +1447,7 @@
     "Action"
    ],
    "imdb_id": "tt34384661",
-   "popularity": 20.6745,
+   "popularity": 21.8969,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1426,18 +1472,18 @@
     121716
    ],
    "recs": [
-    39468,
     823464,
     18289,
     536115,
     449574,
     10643,
     3107,
-    39464,
+    19336,
     940721,
-    60159,
     340382,
-    3146
+    60159,
+    3146,
+    399566
    ]
   },
   {
@@ -1453,13 +1499,13 @@
     "Thriller"
    ],
    "imdb_id": "tt15799564",
-   "popularity": 19.8202,
+   "popularity": 18.5915,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": 93.0,
    "metacritic": null,
-   "letterboxd": 4.12,
+   "letterboxd": 4.11,
    "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
    "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
    "original_title": null,
@@ -1476,6 +1522,7 @@
     2064168
    ],
    "recs": [
+    14550,
     4959,
     1138749,
     976734,
@@ -1484,10 +1531,9 @@
     254904,
     14576,
     1242501,
-    1024627,
-    1217379,
+    13483,
     1530875,
-    13483
+    1217379
    ]
   },
   {
@@ -1503,7 +1549,7 @@
     "Drama"
    ],
    "imdb_id": "tt32324552",
-   "popularity": 18.7791,
+   "popularity": 17.9648,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1528,64 +1574,18 @@
     1275608
    ],
    "recs": [
-    423899,
-    496495,
-    589612,
-    399440,
-    66775,
-    25624,
-    11362,
-    1243381,
-    16072,
-    9664,
-    22638,
-    42703
-   ]
-  },
-  {
-   "tmdb_id": 1515692,
-   "title": "Baththa",
-   "release_date": "2026-10-01",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/n8Df1H1TmcmZfjGgWh5uQyRFzHy.jpg",
-   "runtime": 159,
-   "genres": [
-    "Drama",
-    "Comedy",
-    "Action"
-   ],
-   "imdb_id": "tt44090278",
-   "popularity": 17.5257,
-   "tmdb": null,
-   "imdb": 9.2,
-   "imdb_votes": 5566,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": 4.21,
-   "letterboxd_url": "https://letterboxd.com/film/baththa/",
-   "plot": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
-   "original_title": "பத்தா",
-   "kw": [],
-   "people": [
-    1124413,
-    1123766,
-    1620961,
-    6523177,
-    4294729
-   ],
-   "recs": [
-    27590,
-    1319895,
-    13534,
-    13064,
-    673159,
-    43609,
-    24528,
-    1114926,
-    300686,
-    731738,
-    547090,
-    1245859
+    579974,
+    96399,
+    454227,
+    848439,
+    70925,
+    551271,
+    943822,
+    2024,
+    256476,
+    489245,
+    316152,
+    977942
    ]
   },
   {
@@ -1600,7 +1600,7 @@
     "Crime"
    ],
    "imdb_id": "tt38775487",
-   "popularity": 14.5283,
+   "popularity": 13.1219,
    "tmdb": null,
    "imdb": 7.3,
    "imdb_votes": 81,
@@ -1621,18 +1621,18 @@
     1005911
    ],
    "recs": [
+    401743,
+    1046090,
     45408,
+    19092,
+    171337,
+    48129,
+    12888,
+    835112,
+    22073,
+    190955,
     575428,
-    25006,
-    256474,
-    245527,
-    64363,
-    14786,
-    43051,
-    79026,
-    336845,
-    758935,
-    14575
+    658009
    ]
   },
   {
@@ -1649,7 +1649,7 @@
     "Crime"
    ],
    "imdb_id": "tt27050858",
-   "popularity": 14.1293,
+   "popularity": 13.2934,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -1673,16 +1673,16 @@
    "recs": [
     46041,
     404733,
+    1128547,
     32080,
     1227128,
     1195430,
     6107,
     25208,
-    14979,
     4281,
-    92272,
-    590123,
-    4193
+    14979,
+    4193,
+    16759
    ]
   },
   {
@@ -1697,7 +1697,7 @@
     "Drama"
    ],
    "imdb_id": "tt32432654",
-   "popularity": 12.9863,
+   "popularity": 13.7449,
    "tmdb": 7.429,
    "imdb": 6.3,
    "imdb_votes": 3488,
@@ -1733,11 +1733,11 @@
     426203,
     239571,
     226857,
-    24584,
     6003,
+    24584,
     11036,
     296096,
-    762975
+    361018
    ]
   },
   {
@@ -1753,8 +1753,8 @@
     "Horror"
    ],
    "imdb_id": "tt0066993",
-   "popularity": 11.8885,
-   "tmdb": 7.5,
+   "popularity": 12.1878,
+   "tmdb": 7.46,
    "imdb": 7.7,
    "imdb_votes": 21984,
    "rt": 55.0,
@@ -1793,18 +1793,18 @@
     77312
    ],
    "recs": [
-    5051,
     1339206,
+    5051,
     591273,
     451964,
     18256,
     17609,
     10692,
-    18405,
     179111,
-    15356,
-    132137,
-    443072
+    18405,
+    371560,
+    9529,
+    15356
    ]
   },
   {
@@ -1818,8 +1818,8 @@
     "Horror"
    ],
    "imdb_id": "tt34383465",
-   "popularity": 11.5416,
-   "tmdb": 6.006,
+   "popularity": 11.8962,
+   "tmdb": 5.949,
    "imdb": 5.6,
    "imdb_votes": 3127,
    "rt": 74.0,
@@ -1852,7 +1852,7 @@
     433808,
     1363387,
     1041613,
-    785759
+    84944
    ]
   },
   {
@@ -1867,8 +1867,8 @@
     "War"
    ],
    "imdb_id": "tt44766123",
-   "popularity": 11.4176,
-   "tmdb": 8.1,
+   "popularity": 11.3021,
+   "tmdb": 8.066,
    "imdb": 7.9,
    "imdb_votes": 3173,
    "rt": 100.0,
@@ -1902,17 +1902,17 @@
    ],
    "recs": [
     24458,
-    695476,
     1058616,
+    428501,
+    695476,
     543580,
     576017,
     473415,
     263614,
-    267872,
+    520789,
     1516391,
     39312,
-    428501,
-    8847
+    267872
    ]
   },
   {
@@ -1928,8 +1928,8 @@
     "Family"
    ],
    "imdb_id": "tt1568921",
-   "popularity": 10.2661,
-   "tmdb": 7.686,
+   "popularity": 12.0064,
+   "tmdb": 7.687,
    "imdb": 7.6,
    "imdb_votes": 119441,
    "rt": 94.0,
@@ -1958,8 +1958,8 @@
    "recs": [
     430447,
     805051,
-    1358305,
     16859,
+    1358305,
     116711,
     896536,
     1030588,
@@ -1981,7 +1981,7 @@
     "Drama"
    ],
    "imdb_id": "tt37803364",
-   "popularity": 9.9471,
+   "popularity": 9.8243,
    "tmdb": null,
    "imdb": 7.7,
    "imdb_votes": 23,
@@ -2024,14 +2024,14 @@
     4553,
     627463,
     522369,
-    364223,
     1127628,
+    364223,
     553,
     41240,
+    23620,
     550958,
     10774,
     547017,
-    369894,
     763165
    ]
   },
@@ -2047,7 +2047,7 @@
     "Horror"
    ],
    "imdb_id": "tt36629665",
-   "popularity": 9.6687,
+   "popularity": 10.4595,
    "tmdb": 5.434,
    "imdb": 4.5,
    "imdb_votes": 4884,
@@ -2089,14 +2089,14 @@
     375846,
     11033,
     1340110,
-    1130276,
     1029281,
+    1130276,
+    1321008,
     1089123,
     760161,
     814800,
     930600,
-    287084,
-    574060
+    522655
    ]
   },
   {
@@ -2104,14 +2104,14 @@
    "title": "Dhoomakethu",
    "release_date": "2026-09-25",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/ma7nFrXqSiA8FxAxqhyk4zoP58x.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/bxUSscHMoCkPFRrF40Vtncmcpdw.jpg",
    "runtime": 122,
    "genres": [
     "Comedy",
     "Fantasy"
    ],
    "imdb_id": "tt38990864",
-   "popularity": 9.4003,
+   "popularity": 10.0726,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2138,10 +2138,10 @@
     582570,
     28339,
     1398050,
-    321068,
-    462108,
+    11338,
     455236,
-    11338
+    462108,
+    1312150
    ]
   },
   {
@@ -2156,7 +2156,7 @@
     "Drama"
    ],
    "imdb_id": "tt36130077",
-   "popularity": 8.3591,
+   "popularity": 7.4669,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2186,14 +2186,14 @@
     1462229,
     773,
     1671548,
+    588730,
     776098,
+    565310,
     43609,
     21845,
     55156,
-    1356587,
-    14204,
-    7459,
-    707886
+    28059,
+    1356587
    ]
   },
   {
@@ -2210,13 +2210,13 @@
     "Drama"
    ],
    "imdb_id": "tt40855841",
-   "popularity": 8.2955,
+   "popularity": 8.0169,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": null,
+   "letterboxd": 2.78,
    "letterboxd_url": "https://letterboxd.com/film/nayyi-navelli/",
    "plot": "A new bride's arrival turns a turbulent household in Meerut into a picture of domestic harmony, until her brother-in-law grows convinced that his seemingly perfect sister-in-law is secretly a witch.",
    "original_title": "नय्यी नवेल्ली",
@@ -2229,18 +2229,18 @@
     85734
    ],
    "recs": [
-    14041,
     976720,
-    321068,
+    14041,
     1130818,
-    352504,
     960876,
-    56427,
     34482,
+    56427,
     77221,
     172631,
     419459,
-    375588
+    62676,
+    340442,
+    13856
    ]
   },
   {
@@ -2255,7 +2255,7 @@
     "Comedy"
    ],
    "imdb_id": "tt40311603",
-   "popularity": 8.2785,
+   "popularity": 7.884,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2306,7 +2306,7 @@
     "Drama"
    ],
    "imdb_id": "tt38097205",
-   "popularity": 7.638,
+   "popularity": 7.1679,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2325,18 +2325,18 @@
     4446230
    ],
    "recs": [
-    38031,
     611114,
-    22215,
-    9541,
     61675,
-    17956,
-    450489,
+    768520,
     745391,
     826769,
+    1408162,
     882096,
     746419,
-    768520
+    1254786,
+    426203,
+    364733,
+    31016
    ]
   },
   {
@@ -2351,7 +2351,7 @@
     "Music"
    ],
    "imdb_id": "tt37108970",
-   "popularity": 7.5692,
+   "popularity": 6.7988,
    "tmdb": null,
    "imdb": 7.6,
    "imdb_votes": 229,
@@ -2371,17 +2371,17 @@
    ],
    "recs": [
     653567,
+    412924,
     1642859,
     1171861,
-    1400784,
     1226841,
+    1400784,
     1031774,
-    79201,
-    957457,
-    193524,
+    78192,
     1400381,
-    668800,
-    13222
+    957457,
+    79201,
+    554152
    ]
   },
   {
@@ -2396,7 +2396,7 @@
     "Drama"
    ],
    "imdb_id": "tt33381528",
-   "popularity": 7.1866,
+   "popularity": 8.1581,
    "tmdb": null,
    "imdb": 8.9,
    "imdb_votes": 1084,
@@ -2421,12 +2421,12 @@
     30071,
     26514,
     159389,
+    470205,
     252674,
     397520,
     26531,
     12837,
-    67809,
-    81033
+    67809
    ]
   },
   {
@@ -2440,8 +2440,8 @@
     "Drama"
    ],
    "imdb_id": "tt0101640",
-   "popularity": 7.1554,
-   "tmdb": 7.984,
+   "popularity": 7.9292,
+   "tmdb": 7.987,
    "imdb": 8.1,
    "imdb_votes": 38549,
    "rt": 97.0,
@@ -2496,7 +2496,7 @@
     "Drama"
    ],
    "imdb_id": "tt37020296",
-   "popularity": 7.089,
+   "popularity": 7.2621,
    "tmdb": null,
    "imdb": 5.5,
    "imdb_votes": 85,
@@ -2526,15 +2526,15 @@
     35030,
     33194,
     501624,
-    62000,
     166666,
-    129734,
-    6947,
+    62000,
     13250,
+    6947,
     2990,
+    129734,
     28211,
-    2652,
-    1254624
+    64639,
+    2652
    ]
   },
   {
@@ -2549,8 +2549,8 @@
     "Drama"
    ],
    "imdb_id": "tt34794183",
-   "popularity": 6.8277,
-   "tmdb": 6.9,
+   "popularity": 7.2434,
+   "tmdb": 6.873,
    "imdb": 7.2,
    "imdb_votes": 4301,
    "rt": 95.0,
@@ -2573,17 +2573,17 @@
    ],
    "recs": [
     44164,
+    978035,
+    16056,
     72116,
-    92272,
     1212271,
-    33799,
     2207,
-    21594,
     61296,
-    925943,
     408024,
-    1601243,
-    848685
+    57194,
+    617986,
+    33799,
+    1601243
    ]
   },
   {
@@ -2598,7 +2598,7 @@
     "Drama"
    ],
    "imdb_id": null,
-   "popularity": 6.619,
+   "popularity": 7.066,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2644,7 +2644,7 @@
     "Adventure"
    ],
    "imdb_id": "tt47973863",
-   "popularity": 5.9752,
+   "popularity": 5.9184,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2664,17 +2664,17 @@
    ],
    "recs": [
     416153,
-    638134,
     805051,
+    638134,
     1029119,
-    31112,
     774825,
-    33037,
+    31112,
     12242,
     438788,
+    33037,
     15139,
-    534789,
-    823609
+    823609,
+    664236
    ]
   },
   {
@@ -2690,7 +2690,7 @@
     "Crime"
    ],
    "imdb_id": "tt30827810",
-   "popularity": 5.7346,
+   "popularity": 6.2724,
    "tmdb": 6.322,
    "imdb": 6.6,
    "imdb_votes": 8530,
@@ -2732,12 +2732,12 @@
     378,
     1245993,
     424781,
-    13950,
     628914,
-    680,
     342521,
-    27004,
-    507244
+    13950,
+    680,
+    507244,
+    59917
    ]
   },
   {
@@ -2751,13 +2751,13 @@
     "Documentary"
    ],
    "imdb_id": "tt38691481",
-   "popularity": 5.3128,
+   "popularity": 5.3939,
    "tmdb": null,
    "imdb": 7.9,
    "imdb_votes": 11,
    "rt": 85.0,
    "metacritic": 65.0,
-   "letterboxd": 3.56,
+   "letterboxd": 3.62,
    "letterboxd_url": "https://letterboxd.com/film/everest-the-other-side/",
    "plot": "An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest—the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth—something only a handful have ever achieved, and no one has successfully skied down.",
    "original_title": null,
@@ -2778,17 +2778,17 @@
    ],
    "recs": [
     890825,
-    21736,
-    515042,
-    462145,
-    39333,
+    704854,
     489471,
-    665135,
-    322506,
-    376530,
-    1451867,
-    927070,
-    240629
+    1461714,
+    68450,
+    1059673,
+    1015606,
+    1599090,
+    240629,
+    961722,
+    193645,
+    352197
    ]
   },
   {
@@ -2803,7 +2803,7 @@
     "Thriller"
    ],
    "imdb_id": "tt38984184",
-   "popularity": 4.907,
+   "popularity": 4.8453,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -2822,18 +2822,18 @@
     2262422
    ],
    "recs": [
+    993867,
     1020696,
     14397,
     1117321,
+    70199,
     225285,
     1142414,
-    70199,
+    1241674,
     1251717,
     930600,
-    1130276,
     514847,
-    1241674,
-    1058710
+    1130276
    ]
   },
   {
@@ -2848,13 +2848,13 @@
     "Drama"
    ],
    "imdb_id": "tt28773062",
-   "popularity": 4.9002,
+   "popularity": 4.3151,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": null,
+   "letterboxd": 3.35,
    "letterboxd_url": "https://letterboxd.com/film/prahaar-the-untold-story-of-ujjwal-nikam/",
    "plot": "Public prosecutor Ujjwal Nikam takes on one of the most high-profile criminal cases in India’s history, leading the prosecution in the trial of Ajmal Kasab following the 26/11 Mumbai terror attacks. As he battles to uncover the truth and secure justice, Nikam must confront the immense personal and professional burden of a case that will define his legacy.",
    "original_title": "प्रहार: दी अनटोल्ड स्टोरी ऑफ़ उज्ज्वल निकम",
@@ -2871,18 +2871,18 @@
     229123
    ],
    "recs": [
+    97361,
     14524,
-    16056,
     20637,
     774301,
+    240916,
     31863,
     664332,
-    240916,
-    401743,
-    97361,
     12888,
+    401743,
     489932,
-    19092
+    19092,
+    48129
    ]
   },
   {
@@ -2897,13 +2897,13 @@
     "Music"
    ],
    "imdb_id": "tt39150035",
-   "popularity": 4.8993,
+   "popularity": 5.0438,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": 18,
    "rt": null,
    "metacritic": null,
-   "letterboxd": 3.43,
+   "letterboxd": 3.42,
    "letterboxd_url": "https://letterboxd.com/film/the-disciple-a-wu-tang-fable/",
    "plot": "This documentary recounts Cilvaringz's unlikely rise from fan to Wu-Tang Clan fame — and how the infamous \"Once Upon a Time in Shaolin\" album came to be.",
    "original_title": null,
@@ -2918,14 +2918,14 @@
     1265066,
     574638,
     625561,
-    412924,
     797309,
     1482168,
-    962192,
-    752939,
     654754,
+    752939,
+    962192,
+    1244999,
     1098164,
-    1244999
+    21710
    ]
   },
   {
@@ -2940,7 +2940,7 @@
     "Documentary"
    ],
    "imdb_id": "tt43442522",
-   "popularity": 4.7852,
+   "popularity": 5.0957,
    "tmdb": null,
    "imdb": 8.6,
    "imdb_votes": 875,
@@ -2971,15 +2971,15 @@
     1642859,
     617773,
     1447853,
-    19105,
     13576,
     857800,
-    40534,
     1226841,
+    412924,
+    19105,
     730009,
-    67675,
     853088,
-    1515899
+    1515899,
+    40534
    ]
   },
   {
@@ -2993,7 +2993,7 @@
     "Comedy"
    ],
    "imdb_id": "tt42921285",
-   "popularity": 4.7755,
+   "popularity": 4.7081,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3021,17 +3021,17 @@
    ],
    "recs": [
     26670,
-    460822,
     18458,
+    460822,
     22975,
     26814,
-    487156,
     20720,
+    487156,
     986054,
+    15251,
     11382,
-    404022,
     91739,
-    256273
+    208134
    ]
   },
   {
@@ -3047,7 +3047,7 @@
     "Crime"
    ],
    "imdb_id": "tt41558341",
-   "popularity": 4.6252,
+   "popularity": 4.8545,
    "tmdb": null,
    "imdb": 7.0,
    "imdb_votes": 14,
@@ -3066,67 +3066,18 @@
     2534411
    ],
    "recs": [
-    25006,
-    14575,
-    79026,
+    721452,
     245527,
     575428,
     256474,
     20762,
+    36884,
     14016,
     40081,
-    64363,
     45408,
+    64363,
+    957992,
     6723
-   ]
-  },
-  {
-   "tmdb_id": 1797226,
-   "title": "HYBE CHEERING PARTY",
-   "release_date": "2026-10-24",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/8udWFUoL5NxqKR1xtYinhcxY3gn.jpg",
-   "runtime": 60,
-   "genres": [
-    "Music"
-   ],
-   "imdb_id": "tt46659669",
-   "popularity": 4.4347,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/hybe-cheering-party/",
-   "plot": "The heat of cheering for HYBE artists unfolds in cinemas! Sing along with your favorite HYBE Artists in 3D! A one-of-a-kind game-like cheering screening is coming, where fans can chant fan cheers and wave their light sticks while watching the music videos of BTS, SEVENTEEN, TOMORROW X TOGETHER, ENHYPEN, LE SSERAFIM, &TEAM, BOYNEXTDOOR, TWS, ILLIT, KATSEYE, aoen, CORTIS, and SANTOS BRAVOS on the big screen. Join this unforgettable celebration filled with diverse music, passionate fan energy, and a dazzling wave of Light Sticks!",
-   "original_title": "하이브 치어링 파티",
-   "kw": [
-    5699,
-    161153,
-    225273
-   ],
-   "people": [
-    5361732,
-    6548585,
-    1544084,
-    1544088,
-    1544086,
-    1544090
-   ],
-   "recs": [
-    611291,
-    568300,
-    1063453,
-    553512,
-    1022102,
-    1600421,
-    843388,
-    730647,
-    568332,
-    1628123,
-    740996,
-    803796
    ]
   },
   {
@@ -3142,13 +3093,13 @@
     "Action"
    ],
    "imdb_id": "tt30768979",
-   "popularity": 4.2978,
+   "popularity": 4.3675,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": null,
+   "letterboxd": 3.09,
    "letterboxd_url": "https://letterboxd.com/film/aadarsha-kutumbam-house-no-47-ak47/",
    "plot": "A seemingly flawless family at House No. 47 unravels after an incident reveals hidden tensions.",
    "original_title": "ఆదర్శ కుటుంబం హౌస్ నెం: 47 - AK47",
@@ -3167,16 +3118,16 @@
    "recs": [
     592834,
     119738,
+    333876,
     54540,
     761548,
-    554241,
     410113,
-    691683,
     12139,
+    691683,
     21845,
-    333876,
+    31504,
     481084,
-    31504
+    823609
    ]
   },
   {
@@ -3190,7 +3141,7 @@
     "Drama"
    ],
    "imdb_id": "tt33995791",
-   "popularity": 4.1425,
+   "popularity": 3.4064,
    "tmdb": null,
    "imdb": 7.9,
    "imdb_votes": 41,
@@ -3209,18 +3160,18 @@
     195666
    ],
    "recs": [
+    565348,
     28297,
     669666,
-    1212271,
     43920,
-    28023,
+    1212271,
     10056,
     127373,
-    339145,
-    72116,
+    28023,
     1155828,
-    58251,
-    159389
+    339145,
+    159389,
+    72116
    ]
   },
   {
@@ -3236,13 +3187,13 @@
     "Action"
    ],
    "imdb_id": "tt31841170",
-   "popularity": 4.1351,
+   "popularity": 5.4067,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": 2.96,
+   "letterboxd": 2.95,
    "letterboxd_url": "https://letterboxd.com/film/dont-trouble-the-trouble/",
    "plot": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered.",
    "original_title": "డోంట్ ట్రబుల్ ద ట్రబుల్",
@@ -3259,18 +3210,18 @@
     1611383
    ],
    "recs": [
+    321068,
+    266647,
     454294,
-    638186,
     666750,
+    48358,
     29911,
-    9610,
     290595,
     123553,
-    21290,
     81005,
     453395,
     587,
-    58595
+    32790
    ]
   },
   {
@@ -3286,7 +3237,7 @@
     "Comedy"
    ],
    "imdb_id": null,
-   "popularity": 4.1023,
+   "popularity": 4.2875,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3305,18 +3256,18 @@
     1215741
    ],
    "recs": [
-    433503,
-    25445,
     28059,
-    133790,
-    77921,
+    25445,
+    433503,
     121379,
-    436288,
-    1082938,
-    889598,
+    77921,
     72753,
+    133790,
+    889598,
+    717693,
+    1082938,
     419459,
-    43609
+    71864
    ]
   },
   {
@@ -3330,7 +3281,7 @@
     "Horror"
    ],
    "imdb_id": "tt42643242",
-   "popularity": 4.0997,
+   "popularity": 4.1595,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3359,12 +3310,12 @@
     396493,
     1476740,
     244610,
-    1020910,
     807356,
     913290,
+    1020910,
     312791,
-    570670,
     606625,
+    570670,
     502416,
     11033,
     11596
@@ -3382,13 +3333,13 @@
     "Drama"
    ],
    "imdb_id": "tt37082105",
-   "popularity": 4.0543,
+   "popularity": 4.6998,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": 3.57,
+   "letterboxd": 3.56,
    "letterboxd_url": "https://letterboxd.com/film/the-doll-2026/",
    "plot": "Wealthy merchant Stanislaw Wokulski falls tragically in love with beautiful yet vain Izabela Lecka. His unfulfilled love leads to many foolish decisions sealing his fate.",
    "original_title": "Lalka",
@@ -3411,16 +3362,16 @@
    "recs": [
     354743,
     66027,
-    4348,
+    550231,
+    17015,
     17127,
     239571,
+    4584,
+    98491,
+    10436,
     250734,
-    296096,
-    353577,
-    50512,
-    426203,
-    688,
-    9062
+    167073,
+    296096
    ]
   },
   {
@@ -3434,7 +3385,7 @@
     "Drama"
    ],
    "imdb_id": "tt43407940",
-   "popularity": 3.9559,
+   "popularity": 6.3924,
    "tmdb": null,
    "imdb": 8.1,
    "imdb_votes": 67,
@@ -3453,18 +3404,67 @@
     6409355
    ],
    "recs": [
-    113294,
     591629,
+    113294,
     92620,
     940139,
     206284,
-    253257,
-    19819,
-    24747,
+    997669,
+    75752,
     36521,
-    422619,
     38602,
-    785522
+    19819,
+    785522,
+    253257
+   ]
+  },
+  {
+   "tmdb_id": 1797226,
+   "title": "HYBE CHEERING PARTY",
+   "release_date": "2026-10-24",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/8udWFUoL5NxqKR1xtYinhcxY3gn.jpg",
+   "runtime": 60,
+   "genres": [
+    "Music"
+   ],
+   "imdb_id": "tt46659669",
+   "popularity": 3.9516,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/hybe-cheering-party/",
+   "plot": "The heat of cheering for HYBE artists unfolds in cinemas! Sing along with your favorite HYBE Artists in 3D! A one-of-a-kind game-like cheering screening is coming, where fans can chant fan cheers and wave their light sticks while watching the music videos of BTS, SEVENTEEN, TOMORROW X TOGETHER, ENHYPEN, LE SSERAFIM, &TEAM, BOYNEXTDOOR, TWS, ILLIT, KATSEYE, aoen, CORTIS, and SANTOS BRAVOS on the big screen. Join this unforgettable celebration filled with diverse music, passionate fan energy, and a dazzling wave of Light Sticks!",
+   "original_title": "하이브 치어링 파티",
+   "kw": [
+    5699,
+    161153,
+    225273
+   ],
+   "people": [
+    5361732,
+    6548585,
+    1544084,
+    1544088,
+    1544086,
+    1544090
+   ],
+   "recs": [
+    611291,
+    568300,
+    553512,
+    1022102,
+    1600421,
+    843388,
+    730647,
+    568332,
+    1628123,
+    803796,
+    1693346,
+    440918
    ]
   },
   {
@@ -3478,7 +3478,7 @@
     "Drama"
    ],
    "imdb_id": null,
-   "popularity": 3.9401,
+   "popularity": 3.48,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3500,15 +3500,15 @@
     113294,
     15568,
     92620,
-    339145,
-    586032,
+    33570,
     41240,
     34025,
+    339145,
     127373,
-    33570,
-    157351,
+    35030,
+    586032,
     545237,
-    565341
+    157351
    ]
   },
   {
@@ -3525,7 +3525,7 @@
     "Romance"
    ],
    "imdb_id": "tt38652027",
-   "popularity": 3.5101,
+   "popularity": 3.4614,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3553,16 +3553,16 @@
    "recs": [
     618851,
     829920,
-    843241,
     212162,
+    843241,
     810693,
-    297189,
     998731,
+    297189,
     430447,
-    573683,
     571265,
-    17566,
-    152042
+    573683,
+    152042,
+    20235
    ]
   },
   {
@@ -3579,7 +3579,7 @@
     "History"
    ],
    "imdb_id": "tt5335774",
-   "popularity": 3.3307,
+   "popularity": 3.2969,
    "tmdb": 8.386,
    "imdb": 8.3,
    "imdb_votes": 5355,
@@ -3607,17 +3607,17 @@
    ],
    "recs": [
     49009,
-    36464,
     978,
+    36464,
     297806,
     547090,
-    9664,
-    314095,
-    836009,
     998846,
-    746,
+    836009,
+    5925,
     589612,
-    5925
+    10110,
+    40718,
+    614934
    ]
   },
   {
@@ -3633,7 +3633,7 @@
     "Drama"
    ],
    "imdb_id": "tt39239754",
-   "popularity": 3.2899,
+   "popularity": 4.7075,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3653,17 +3653,17 @@
    ],
    "recs": [
     846433,
-    951470,
     73499,
-    34421,
     945937,
+    34421,
     628847,
-    1387382,
-    79026,
+    951470,
     848123,
-    480823,
+    1387382,
     1217379,
-    14041
+    14041,
+    1146344,
+    480823
    ]
   },
   {
@@ -3677,7 +3677,7 @@
     "Comedy"
    ],
    "imdb_id": "tt37846373",
-   "popularity": 3.2868,
+   "popularity": 3.1167,
    "tmdb": 6.841,
    "imdb": null,
    "imdb_votes": null,
@@ -3699,18 +3699,18 @@
     32511
    ],
    "recs": [
-    185574,
     679989,
-    1262852,
     462108,
-    30587,
+    185574,
+    1262852,
     173185,
-    580846,
     1244705,
+    1662958,
+    580846,
+    30587,
+    21145,
     487156,
-    96924,
-    904263,
-    21145
+    63663
    ]
   },
   {
@@ -3726,7 +3726,7 @@
     "Romance"
    ],
    "imdb_id": "tt38916037",
-   "popularity": 3.1486,
+   "popularity": 3.7468,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3747,16 +3747,16 @@
    "recs": [
     26243,
     513296,
-    459008,
-    550231,
     383256,
+    550231,
+    459008,
     47808,
-    28696,
     47525,
-    21463,
-    686142,
-    44190,
-    57412
+    28696,
+    136718,
+    17186,
+    57412,
+    44190
    ]
   },
   {
@@ -3770,7 +3770,7 @@
     "Documentary"
    ],
    "imdb_id": "tt32534849",
-   "popularity": 3.1032,
+   "popularity": 3.1852,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3788,16 +3788,61 @@
    "recs": [
     1723460,
     1400780,
-    1114590,
-    508003,
-    1477565,
     72680,
-    1461714,
-    1141228,
-    21710,
+    508003,
+    1114590,
+    1477565,
     1765072,
-    69480,
-    38868
+    38868,
+    1141228,
+    1426518,
+    34015,
+    21710
+   ]
+  },
+  {
+   "tmdb_id": 1601527,
+   "title": "Wild",
+   "release_date": "2026-09-25",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/iEwFjDjqTTExVXfAcPAW1eeXiAS.jpg",
+   "runtime": 60,
+   "genres": [
+    "Drama",
+    "TV Movie",
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 2.5945,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/wild-2026-2/",
+   "plot": "Wild is a survival dramedy set in the breath-taking yet unforgiving Scottish Highlands. Lou, Dev, and Alistair, three old friends clinging to their annual wild camping tradition, begin with banter, nostalgia, and amateur vlogging, but soon unravel into a battle of egos, secrets, and survival when they get lost, food runs short, and friendships fracture. At once funny, poignant, and unsettling, \"Wild\" explores the line between adventure and recklessness, and how toxic masculinity has become a huge part of the epidemic decline in men’s mental health.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    4377347,
+    1670,
+    54811,
+    150072
+   ],
+   "recs": [
+    28059,
+    556867,
+    25445,
+    1027497,
+    67809,
+    98431,
+    172631,
+    51996,
+    419459,
+    80219,
+    889598,
+    457840
    ]
   },
   {
@@ -3812,7 +3857,7 @@
     "Documentary"
    ],
    "imdb_id": "tt46658626",
-   "popularity": 3.0464,
+   "popularity": 2.9474,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3838,63 +3883,18 @@
     1897264
    ],
    "recs": [
-    1063453,
     1600421,
     843388,
-    1022102,
     568300,
     730647,
+    1022102,
     611291,
     553512,
+    290382,
     1515899,
-    24128,
     67675,
-    83589
-   ]
-  },
-  {
-   "tmdb_id": 1601527,
-   "title": "Wild",
-   "release_date": "2026-09-25",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/iEwFjDjqTTExVXfAcPAW1eeXiAS.jpg",
-   "runtime": 60,
-   "genres": [
-    "Drama",
-    "TV Movie",
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 2.9491,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/wild-2026-2/",
-   "plot": "Wild is a survival dramedy set in the breath-taking yet unforgiving Scottish Highlands. Lou, Dev, and Alistair, three old friends clinging to their annual wild camping tradition, begin with banter, nostalgia, and amateur vlogging, but soon unravel into a battle of egos, secrets, and survival when they get lost, food runs short, and friendships fracture. At once funny, poignant, and unsettling, \"Wild\" explores the line between adventure and recklessness, and how toxic masculinity has become a huge part of the epidemic decline in men’s mental health.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    4377347,
-    1670,
-    54811,
-    150072
-   ],
-   "recs": [
-    556867,
-    28059,
-    25445,
-    80219,
-    1027497,
-    67809,
-    98431,
-    172631,
-    51996,
-    27678,
-    419459,
-    90098
+    853088,
+    137366
    ]
   },
   {
@@ -3910,7 +3910,7 @@
     "Thriller"
    ],
    "imdb_id": "tt37547793",
-   "popularity": 2.7801,
+   "popularity": 2.4038,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -3930,16 +3930,16 @@
    ],
    "recs": [
     522526,
-    28339,
     227300,
+    28339,
     1036561,
+    14550,
     122930,
-    27004,
     791469,
+    27004,
     455236,
     23629,
     9495,
-    6978,
     14198
    ]
   },
@@ -3955,7 +3955,7 @@
     "Thriller"
    ],
    "imdb_id": "tt38712491",
-   "popularity": 2.7396,
+   "popularity": 2.6992,
    "tmdb": null,
    "imdb": 7.6,
    "imdb_votes": 73,
@@ -3976,16 +3976,16 @@
    "recs": [
     1058710,
     14397,
+    993867,
     1020696,
-    979806,
     1241674,
+    979806,
     1162858,
     1130276,
     514847,
     1117321,
     849369,
-    543917,
-    1010756
+    543917
    ]
   },
   {
@@ -4000,7 +4000,7 @@
     "Family"
    ],
    "imdb_id": "tt43201279",
-   "popularity": 2.649,
+   "popularity": 2.6354,
    "tmdb": null,
    "imdb": 7.6,
    "imdb_votes": 13,
@@ -4025,12 +4025,12 @@
     23903,
     1698575,
     381693,
-    991833,
     25556,
-    1093349,
+    991833,
     136793,
     594328,
-    19004,
+    31933,
+    1093349,
     19165
    ]
   },
@@ -4045,7 +4045,7 @@
     "Comedy"
    ],
    "imdb_id": "tt39901506",
-   "popularity": 2.6396,
+   "popularity": 2.7999,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4069,13 +4069,13 @@
     1341138,
     1398050,
     598133,
+    1662958,
+    123587,
     1312150,
-    521844,
-    698783,
-    21037,
-    404022,
     862551,
-    24109
+    21037,
+    698783,
+    521844
    ]
   },
   {
@@ -4089,7 +4089,7 @@
     "Documentary"
    ],
    "imdb_id": "tt41973739",
-   "popularity": 2.6382,
+   "popularity": 2.1723,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4115,14 +4115,14 @@
     1171861,
     1059673,
     42314,
-    13259,
     617773,
+    787923,
     322506,
     597965,
-    787923,
     1515899,
     101267,
     229296,
+    1214667,
     259910
    ]
   },
@@ -4139,7 +4139,7 @@
     "Thriller"
    ],
    "imdb_id": null,
-   "popularity": 2.6066,
+   "popularity": 2.3968,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4162,17 +4162,17 @@
    ],
    "recs": [
     1659087,
+    758935,
     1155324,
     31692,
-    758935,
     13389,
+    60938,
     1020662,
     1530875,
     51512,
     11074,
-    60938,
-    395458,
-    1075519
+    492613,
+    395458
    ]
   },
   {
@@ -4186,13 +4186,13 @@
     "Horror"
    ],
    "imdb_id": "tt42886802",
-   "popularity": 2.5607,
+   "popularity": 2.6753,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
-   "letterboxd": 2.82,
+   "letterboxd": 2.81,
    "letterboxd_url": "https://letterboxd.com/film/bloodline-2026-3/",
    "plot": "An ancient curse with roots in Egypt resurfaces in a mysterious Istanbul mansion. Summoned to the estate by his dying grandfather, Can and his friends are soon forced to confront the mansion's dark secrets and a supernatural threat.",
    "original_title": "Soy",
@@ -4211,11 +4211,11 @@
     1584433
    ],
    "recs": [
+    860867,
     785759,
     24740,
-    2662,
-    860867,
     675531,
+    2662,
     1970,
     493922,
     1242937,
@@ -4236,7 +4236,7 @@
     "Drama"
    ],
    "imdb_id": "tt8260802",
-   "popularity": 2.5421,
+   "popularity": 2.5219,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4258,15 +4258,15 @@
     35030,
     565341,
     113294,
-    1212271,
-    184341,
     127373,
+    184341,
+    1212271,
     413452,
     34025,
     217919,
     19092,
-    159389,
-    339145
+    82040,
+    159389
    ]
   },
   {
@@ -4281,7 +4281,7 @@
     "History"
    ],
    "imdb_id": "tt37677758",
-   "popularity": 2.4386,
+   "popularity": 2.4953,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4303,18 +4303,18 @@
     5231296
    ],
    "recs": [
+    13537,
     461115,
     589612,
     760336,
     753336,
     763144,
-    44691,
     777270,
+    44691,
     227859,
     418879,
     520318,
-    1243381,
-    1083612
+    1243381
    ]
   },
   {
@@ -4329,7 +4329,7 @@
     "Comedy"
    ],
    "imdb_id": null,
-   "popularity": 2.354,
+   "popularity": 2.344,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4351,15 +4351,15 @@
     1220515,
     121379,
     27834,
-    436288,
     436459,
     419459,
+    436288,
     28059,
     157099,
     172631,
     433503,
-    1082938,
-    542714
+    542714,
+    1082938
    ]
   },
   {
@@ -4374,7 +4374,7 @@
     "Thriller"
    ],
    "imdb_id": "tt30458232",
-   "popularity": 2.3442,
+   "popularity": 2.278,
    "tmdb": null,
    "imdb": 6.2,
    "imdb_votes": 16,
@@ -4407,11 +4407,11 @@
     30694,
     6723,
     325348,
+    1005776,
     14362,
-    8224,
-    27342,
     216580,
-    1005776
+    8224,
+    13054
    ]
   },
   {
@@ -4427,7 +4427,7 @@
     "Comedy"
    ],
    "imdb_id": null,
-   "popularity": 2.3417,
+   "popularity": 2.8381,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4455,13 +4455,13 @@
     1104845,
     897192,
     774741,
-    400160,
-    218836,
     326215,
+    218836,
+    400160,
     877269,
     778855,
     151960,
-    1059264
+    991494
    ]
   },
   {
@@ -4476,7 +4476,7 @@
     "Drama"
    ],
    "imdb_id": "tt27672841",
-   "popularity": 2.336,
+   "popularity": 3.8776,
    "tmdb": null,
    "imdb": 9.2,
    "imdb_votes": 12,
@@ -4496,17 +4496,17 @@
    ],
    "recs": [
     848685,
-    238781,
     852427,
     405050,
+    238781,
     489243,
     1145725,
-    19052,
     423087,
+    322125,
     977349,
+    19052,
     827887,
-    595743,
-    974292
+    595743
    ]
   },
   {
@@ -4521,7 +4521,7 @@
     "History"
    ],
    "imdb_id": null,
-   "popularity": 2.3329,
+   "popularity": 2.2245,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4561,6 +4561,105 @@
    ]
   },
   {
+   "tmdb_id": 1342462,
+   "title": "Learners",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/lc48jGfzWfluCmqeY5dFpymR1iP.jpg",
+   "runtime": 15,
+   "genres": [
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 2.5895,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/learners-2026/",
+   "plot": "When a cantankerous widower reluctantly agrees to teach his son's unemployed girlfriend to drive, an unlikely friendship is sparked.",
+   "original_title": null,
+   "kw": [
+    322268
+   ],
+   "people": [
+    4919035,
+    11279,
+    3482677,
+    489467
+   ],
+   "recs": [
+    1398050,
+    862551,
+    17159,
+    462108,
+    13589,
+    1417677,
+    24109,
+    1360212,
+    580846,
+    96924,
+    624932,
+    582570
+   ]
+  },
+  {
+   "tmdb_id": 1756656,
+   "title": "Blue Hour",
+   "release_date": "2026-06-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/3LE3QcTG1MMxrxnJ2uIm5Q61A7H.jpg",
+   "runtime": 13,
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama",
+    "Mystery"
+   ],
+   "imdb_id": "tt39182863",
+   "popularity": 3.0897,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/blue-hour-2026-2/",
+   "plot": "Joey, a student from Yorkshire, keeps his head down and works quietly, more comfortable with tools than with people. The workshop is familiar to him - noisy, practical, predictable. That changes when Skyla, an exchange student from Texas, joins the course. She's open, direct, and out of place in a way that immediately stands out.",
+   "original_title": null,
+   "kw": [
+    9840,
+    190621,
+    200129,
+    301707,
+    353306,
+    355655
+   ],
+   "people": [
+    6437593,
+    6437591,
+    6437592,
+    1569544,
+    6437595
+   ],
+   "recs": [
+    894686,
+    881209,
+    22215,
+    116014,
+    1108566,
+    61675,
+    745391,
+    546377,
+    975043,
+    768520,
+    611114,
+    38031
+   ]
+  },
+  {
    "tmdb_id": 1688795,
    "title": "TOMORROW X TOGETHER WORLD TOUR 'ACT : TOMORROW'",
    "release_date": "2026-10-24",
@@ -4572,7 +4671,7 @@
     "Documentary"
    ],
    "imdb_id": "tt46658752",
-   "popularity": 2.3241,
+   "popularity": 2.2645,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4600,115 +4699,16 @@
    "recs": [
     843388,
     1600421,
-    1022102,
     568300,
+    1022102,
     730647,
-    290382,
     611291,
     1515899,
+    290382,
     553512,
-    24128,
-    853088,
-    1041513
-   ]
-  },
-  {
-   "tmdb_id": 1342462,
-   "title": "Learners",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/lc48jGfzWfluCmqeY5dFpymR1iP.jpg",
-   "runtime": 15,
-   "genres": [
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 2.3202,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/learners-2026/",
-   "plot": "When a cantankerous widower reluctantly agrees to teach his son's unemployed girlfriend to drive, an unlikely friendship is sparked.",
-   "original_title": null,
-   "kw": [
-    322268
-   ],
-   "people": [
-    4919035,
-    11279,
-    3482677,
-    489467
-   ],
-   "recs": [
-    1398050,
-    862551,
-    96924,
-    13589,
-    17159,
-    462108,
-    580846,
-    1360212,
-    1417677,
-    87233,
-    24109,
-    404022
-   ]
-  },
-  {
-   "tmdb_id": 1756656,
-   "title": "Blue Hour",
-   "release_date": "2026-06-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/3LE3QcTG1MMxrxnJ2uIm5Q61A7H.jpg",
-   "runtime": 13,
-   "genres": [
-    "Romance",
-    "Comedy",
-    "Drama",
-    "Mystery"
-   ],
-   "imdb_id": "tt39182863",
-   "popularity": 2.3168,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/blue-hour-2026-2/",
-   "plot": "Joey, a student from Yorkshire, keeps his head down and works quietly, more comfortable with tools than with people. The workshop is familiar to him - noisy, practical, predictable. That changes when Skyla, an exchange student from Texas, joins the course. She's open, direct, and out of place in a way that immediately stands out.",
-   "original_title": null,
-   "kw": [
-    9840,
-    190621,
-    200129,
-    301707,
-    353306,
-    355655
-   ],
-   "people": [
-    6437593,
-    6437591,
-    6437592,
-    1569544,
-    6437595
-   ],
-   "recs": [
-    894686,
-    22215,
-    116014,
-    881209,
-    1108566,
-    61675,
-    546377,
-    745391,
-    975043,
-    611114,
-    38031,
-    45261
+    752340,
+    137366,
+    853088
    ]
   },
   {
@@ -4723,7 +4723,7 @@
     "Thriller"
    ],
    "imdb_id": null,
-   "popularity": 2.2514,
+   "popularity": 2.4037,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4745,10 +4745,10 @@
     489243,
     48946,
     75889,
-    19052,
-    157351,
     1027497,
+    157351,
     1145725,
+    19052,
     893086,
     20064,
     574207,
@@ -4768,7 +4768,7 @@
     "Thriller"
    ],
    "imdb_id": "tt30235784",
-   "popularity": 2.2462,
+   "popularity": 2.1513,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4792,17 +4792,17 @@
    ],
    "recs": [
     788931,
-    19052,
     81217,
+    809970,
     493775,
+    19052,
     466081,
     190955,
     893086,
-    809970,
     916605,
-    1093995,
     13483,
-    87499
+    87499,
+    268060
    ]
   },
   {
@@ -4818,7 +4818,7 @@
     "Documentary"
    ],
    "imdb_id": "tt48395812",
-   "popularity": 2.2212,
+   "popularity": 2.0471,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4837,18 +4837,18 @@
     1685041
    ],
    "recs": [
-    21585,
     1612018,
+    110112,
     24665,
-    828853,
+    21585,
     65851,
+    828853,
+    273641,
     62425,
     339927,
     613999,
-    273641,
-    20211,
-    296193,
-    110112
+    296206,
+    656663
    ]
   },
   {
@@ -4863,7 +4863,7 @@
     "Thriller"
    ],
    "imdb_id": null,
-   "popularity": 2.2015,
+   "popularity": 2.2224,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4889,18 +4889,18 @@
     5342006
    ],
    "recs": [
-    4879,
-    784410,
+    160139,
     1100795,
+    4879,
+    112949,
     741755,
     657018,
-    160139,
-    112949,
     1077670,
-    457470,
+    784410,
     6028,
-    793425,
-    85765
+    910765,
+    85765,
+    457470
    ]
   },
   {
@@ -4914,7 +4914,7 @@
     "Drama"
    ],
    "imdb_id": "tt43619416",
-   "popularity": 2.19,
+   "popularity": 1.8463,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4934,15 +4934,15 @@
     127373,
     545237,
     29989,
-    586032,
+    15568,
     113294,
     20857,
-    15568,
-    339145,
-    467433,
     41240,
     82040,
-    295886
+    295886,
+    586032,
+    92620,
+    467433
    ]
   },
   {
@@ -4956,7 +4956,7 @@
     "Drama"
    ],
    "imdb_id": "tt44631036",
-   "popularity": 2.158,
+   "popularity": 1.7426,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -4978,15 +4978,15 @@
     295886,
     1212271,
     113294,
+    24747,
     82040,
     20857,
-    24747,
-    545237,
     35030,
+    545237,
     653708,
     506558,
     565341,
-    530956
+    552532
    ]
   },
   {
@@ -5000,7 +5000,7 @@
     "Documentary"
    ],
    "imdb_id": "tt39688189",
-   "popularity": 2.0659,
+   "popularity": 1.9927,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5017,16 +5017,16 @@
    "recs": [
     322506,
     1059673,
-    240629,
     39333,
     961722,
+    787923,
+    240629,
     450945,
     42314,
     193645,
-    446173,
-    787923,
+    617773,
     979163,
-    101267
+    1171861
    ]
   },
   {
@@ -5040,7 +5040,7 @@
     "Drama"
    ],
    "imdb_id": "",
-   "popularity": 2.0554,
+   "popularity": 2.3922,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5064,13 +5064,13 @@
     545237,
     92620,
     29989,
-    544415,
     35030,
-    72116,
     41240,
-    339145,
+    72116,
+    544415,
     669666,
-    692989
+    692989,
+    339145
    ]
   },
   {
@@ -5085,7 +5085,7 @@
     "Drama"
    ],
    "imdb_id": "tt45609487",
-   "popularity": 1.8689,
+   "popularity": 1.8133,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5106,16 +5106,16 @@
    "recs": [
     408266,
     1601243,
-    51997,
     854467,
+    1093995,
+    321068,
     17529,
+    51997,
     464052,
-    882670,
     785522,
-    54392,
-    704264,
-    46041,
-    50075
+    882670,
+    495193,
+    20942
    ]
   },
   {
@@ -5131,7 +5131,7 @@
     "Drama"
    ],
    "imdb_id": "tt39460608",
-   "popularity": 1.8467,
+   "popularity": 1.792,
    "tmdb": null,
    "imdb": 6.6,
    "imdb_votes": 27,
@@ -5156,14 +5156,14 @@
     46041,
     492613,
     854467,
+    1128547,
     1601243,
     1077670,
     92272,
     28297,
     49334,
     25208,
-    320,
-    20362
+    320
    ]
   },
   {
@@ -5177,7 +5177,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 1.7821,
+   "popularity": 1.6948,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5194,17 +5194,17 @@
    ],
    "recs": [
     961722,
-    1114590,
     1400780,
+    1114590,
     508003,
-    1462146,
     94623,
     1723460,
-    193645,
-    869250,
-    483898,
     20565,
-    352197
+    1462146,
+    869250,
+    193645,
+    20562,
+    483898
    ]
   },
   {
@@ -5218,7 +5218,7 @@
     "Drama"
    ],
    "imdb_id": "tt40823211",
-   "popularity": 1.7747,
+   "popularity": 1.7064,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5237,18 +5237,18 @@
     5614312
    ],
    "recs": [
-    364223,
     41240,
+    364223,
     127373,
-    339145,
     29989,
     545237,
     413452,
+    339145,
     35030,
     184341,
-    537617,
-    1315986,
-    550958
+    1292415,
+    846956,
+    1315986
    ]
   },
   {
@@ -5262,7 +5262,7 @@
     "Documentary"
    ],
    "imdb_id": "tt37654454",
-   "popularity": 1.7525,
+   "popularity": 1.7773,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5281,18 +5281,18 @@
     551463
    ],
    "recs": [
-    94623,
     1059673,
+    94623,
     1400780,
-    1114590,
-    1132324,
-    869250,
-    193645,
     20553,
+    869250,
     508003,
-    21710,
     20562,
-    240629
+    557646,
+    193645,
+    1114590,
+    1723460,
+    21710
    ]
   },
   {
@@ -5307,7 +5307,7 @@
     "Drama"
    ],
    "imdb_id": "tt40924565",
-   "popularity": 1.7304,
+   "popularity": 1.9451,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5326,16 +5326,16 @@
     1752024
    ],
    "recs": [
+    28059,
     31459,
-    673159,
-    43609,
-    14544,
-    24109,
-    1245859,
     41496,
+    43609,
+    1114926,
+    14544,
     985602,
+    24109,
+    567145,
     72113,
-    75889,
     492613,
     57157
    ]
@@ -5353,7 +5353,7 @@
     "Romance"
    ],
    "imdb_id": "tt33365660",
-   "popularity": 1.7097,
+   "popularity": 1.6024,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5383,12 +5383,12 @@
     843543,
     1181678,
     2687,
+    800301,
     521007,
     37725,
     366017,
-    800301,
     843617,
-    26255
+    465136
    ]
   },
   {
@@ -5402,7 +5402,7 @@
     "Drama"
    ],
    "imdb_id": "tt43637896",
-   "popularity": 1.6763,
+   "popularity": 1.4038,
    "tmdb": null,
    "imdb": 8.4,
    "imdb_votes": 11,
@@ -5428,16 +5428,16 @@
    "recs": [
     714675,
     1816,
-    429765,
     12763,
+    429765,
     217919,
+    714195,
     667969,
     402543,
-    714195,
     10056,
     295886,
-    14114,
-    477887
+    477887,
+    14114
    ]
   },
   {
@@ -5451,7 +5451,7 @@
     "Documentary"
    ],
    "imdb_id": "tt40548469",
-   "popularity": 1.6745,
+   "popularity": 1.8519,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5479,16 +5479,16 @@
    "recs": [
     801058,
     23128,
-    21710,
     1723460,
     1015356,
+    21710,
     508003,
     158999,
+    431339,
     398738,
-    14201,
     1400780,
     40663,
-    322506
+    1059673
    ]
   },
   {
@@ -5502,7 +5502,7 @@
     "Drama"
    ],
    "imdb_id": null,
-   "popularity": 1.655,
+   "popularity": 1.8787,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5522,15 +5522,15 @@
     35030,
     41240,
     364223,
-    339145,
     82040,
     545237,
     29989,
     127373,
+    339145,
     1435092,
     552532,
     550958,
-    13793
+    692989
    ]
   },
   {
@@ -5542,7 +5542,7 @@
    "runtime": 24,
    "genres": [],
    "imdb_id": "tt38582670",
-   "popularity": 1.6421,
+   "popularity": 1.6232,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5561,8 +5561,8 @@
    "recs": [
     1410,
     274855,
-    588207,
     830,
+    588207,
     19898,
     1272,
     605722,
@@ -5584,7 +5584,7 @@
     "Thriller"
    ],
    "imdb_id": null,
-   "popularity": 1.6232,
+   "popularity": 1.6984,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5606,14 +5606,14 @@
     1093995,
     446827,
     19345,
-    1018247,
     32627,
+    1018247,
     938150,
     831946,
     56669,
     846956,
-    290729,
-    14397
+    916605,
+    290729
    ]
   },
   {
@@ -5627,7 +5627,7 @@
     "Drama"
    ],
    "imdb_id": "tt5796056",
-   "popularity": 1.617,
+   "popularity": 1.4829,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5646,17 +5646,17 @@
     154903
    ],
    "recs": [
-    544415,
     364223,
-    339145,
     669666,
+    544415,
+    339145,
     550958,
     157351,
     253279,
-    1315986,
     35030,
-    692989,
+    1315986,
     32075,
+    41240,
     574207
    ]
   },
@@ -5672,7 +5672,7 @@
     "Comedy"
    ],
    "imdb_id": "tt44862836",
-   "popularity": 1.6061,
+   "popularity": 1.8704,
    "tmdb": null,
    "imdb": 9.7,
    "imdb_votes": 1031,
@@ -5694,13 +5694,13 @@
     172631,
     419459,
     28059,
-    1220515,
-    829774,
     121379,
-    43609,
+    829774,
+    1220515,
     436459,
-    673159,
-    607259
+    43609,
+    717693,
+    673159
    ]
   },
   {
@@ -5712,7 +5712,7 @@
    "runtime": 110,
    "genres": [],
    "imdb_id": null,
-   "popularity": 1.5763,
+   "popularity": 1.4321,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5733,16 +5733,16 @@
    "recs": [
     291351,
     244264,
+    800301,
     1181678,
     12242,
-    800301,
     668461,
     131634,
     843543,
-    26422,
+    586458,
     1291335,
-    36515,
-    839033
+    15139,
+    35030
    ]
   },
   {
@@ -5756,7 +5756,7 @@
     "Documentary"
    ],
    "imdb_id": "tt38390390",
-   "popularity": 1.5759,
+   "popularity": 1.8706,
    "tmdb": null,
    "imdb": 8.3,
    "imdb_votes": 14,
@@ -5806,7 +5806,7 @@
     "Horror"
    ],
    "imdb_id": "tt32582337",
-   "popularity": 1.5512,
+   "popularity": 1.4517,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5825,18 +5825,18 @@
     1942179
    ],
    "recs": [
-    250577,
     574109,
+    250577,
     512356,
-    926762,
-    44038,
     618375,
     279661,
+    926762,
     1461714,
     455479,
-    1662317,
+    44038,
+    869434,
     1699155,
-    869434
+    20565
    ]
   },
   {
@@ -5850,7 +5850,7 @@
     "Documentary"
    ],
    "imdb_id": "tt39117304",
-   "popularity": 1.5412,
+   "popularity": 1.397,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5873,16 +5873,16 @@
    "recs": [
     1400780,
     1059673,
-    94623,
     1723460,
-    557646,
+    94623,
     20565,
+    557646,
     936643,
     322506,
+    72680,
     130824,
-    41480,
     1461714,
-    21710
+    787923
    ]
   },
   {
@@ -5896,7 +5896,7 @@
     "Drama"
    ],
    "imdb_id": "tt34998116",
-   "popularity": 1.5075,
+   "popularity": 1.1899,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5921,18 +5921,18 @@
     4228508
    ],
    "recs": [
-    447655,
-    632617,
     127373,
     159389,
-    467433,
     67809,
-    339145,
+    535308,
     768362,
-    462,
-    985617,
     29989,
-    92620
+    339145,
+    1281331,
+    44246,
+    46169,
+    480530,
+    69557
    ]
   },
   {
@@ -5946,7 +5946,7 @@
     "Drama"
    ],
    "imdb_id": "tt35693677",
-   "popularity": 1.4526,
+   "popularity": 1.4886,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -5968,107 +5968,63 @@
     34025,
     295886,
     35030,
-    692989,
     545237,
     669666,
     127373,
+    692989,
     1212271,
-    1027497,
     82040,
-    537617,
-    552532
+    1027497,
+    552532,
+    520390
    ]
   },
   {
-   "tmdb_id": 1712448,
-   "title": "Ice Cream, I Scream: Capital",
-   "release_date": "2026-10-29",
+   "tmdb_id": 1790261,
+   "title": "The Memory Remains",
+   "release_date": "2026-09-24",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/tBg974QrdjpuKvXx3ppX1eXOFWQ.jpg",
-   "runtime": 105,
-   "genres": [
-    "Comedy"
-   ],
-   "imdb_id": "tt41379174",
-   "popularity": 1.4385,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/ice-cream-i-scream-capital/",
-   "plot": null,
-   "original_title": "Dondurmam Gaymak: Gapital",
-   "kw": [],
-   "people": [
-    935222,
-    59752,
-    1255935,
-    2226571,
-    3146664
-   ],
-   "recs": [
-    698783,
-    462108,
-    30587,
-    185574,
-    336736,
-    326665,
-    13589,
-    96924,
-    538523,
-    580846,
-    1417677,
-    1360212
-   ]
-  },
-  {
-   "tmdb_id": 1710666,
-   "title": "Outsiders",
-   "release_date": "2026-10-10",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/cSIx8hpU1qEiPLfFzUpGovbtPR5.jpg",
-   "runtime": 17,
+   "poster": "https://image.tmdb.org/t/p/w342/39yUkfZQeJC4z2dTGSH1lzpxFIz.jpg",
+   "runtime": 23,
    "genres": [
     "Science Fiction",
-    "Horror"
+    "Thriller"
    ],
-   "imdb_id": "tt40415634",
-   "popularity": 1.2489,
+   "imdb_id": "tt42526456",
+   "popularity": 1.4206,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/outsiders-2026/",
-   "plot": "Davey's Chambers life is forever altered when an alien invasion forces him to survive with strangers inside of his compact flat.",
+   "letterboxd_url": "https://letterboxd.com/film/the-memory-remains/",
+   "plot": "Alex, a grieving scientist, uses an experimental machine to reconstruct his partner Laura’s mind from his own memories, but as she awakens, fragmented recollections begin to challenge his carefully constructed version of their life. As Laura pieces together her past, she discovers the disturbing truth behind Alex’s work and must confront the man whose obsession with progress has pushed their relationship- and her own identity- to the brink.",
    "original_title": null,
    "kw": [
-    273439,
-    315058
+    14544,
+    191881
    ],
    "people": [
-    5670030,
-    5670020,
-    5670033,
-    6271650,
-    6271656
+    5775157,
+    1704268,
+    2421170,
+    6022920,
+    6564170
    ],
    "recs": [
-    945961,
-    715123,
-    1189205,
-    820609,
-    736485,
+    1001835,
+    458005,
+    733317,
+    174675,
+    262543,
+    1084199,
+    411143,
     846778,
-    347548,
-    70981,
-    1241470,
-    338676,
-    13059,
-    60935
+    1307118,
+    43549,
+    453405,
+    1018247
    ]
   },
   {
@@ -6084,7 +6040,7 @@
     "Music"
    ],
    "imdb_id": null,
-   "popularity": 1.4122,
+   "popularity": 1.7609,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -6111,17 +6067,158 @@
    ],
    "recs": [
     253406,
-    14882,
     583689,
+    14882,
     707886,
-    1450257,
     209361,
+    1450257,
     206284,
-    5722,
     528761,
-    55134,
+    5722,
+    271467,
     61041,
-    26814
+    75752
+   ]
+  },
+  {
+   "tmdb_id": 1789889,
+   "title": "Back in Business",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/j92BIzjtl7CFSV1mR6KxKeDmmdo.jpg",
+   "runtime": null,
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+   ],
+   "imdb_id": "tt10091576",
+   "popularity": 1.7413,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/back-in-business-2026/",
+   "plot": "A scheming wife gets more than she bargains for when she persuades two happily retired assassins to help her escape the confines of a loveless marriage.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    558299,
+    1220148,
+    2634111,
+    20244,
+    62223
+   ],
+   "recs": [
+    122930,
+    14550,
+    1319895,
+    27004,
+    1530875,
+    14576,
+    808023,
+    1146344,
+    4959,
+    1001783,
+    32080,
+    1130818
+   ]
+  },
+  {
+   "tmdb_id": 1721871,
+   "title": "Breezeblock",
+   "release_date": "2026-10-10",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/mhWA6q4ReiSoxuZgqTebnRuBrWJ.jpg",
+   "runtime": 4,
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "imdb_id": "tt36257630",
+   "popularity": 1.3104,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/breezeblock/",
+   "plot": "In the heart of the forest, a man is building a concrete wall to protect himself from a fly that is swooping down towards him.",
+   "original_title": "Parpaing",
+   "kw": [
+    4556,
+    18330,
+    367056,
+    384859
+   ],
+   "people": [
+    6311464,
+    6311466,
+    1158804
+   ],
+   "recs": [
+    846956,
+    714195,
+    1387382,
+    1082938,
+    1220515,
+    436459,
+    339849,
+    27834,
+    28059,
+    48129,
+    34025,
+    419459
+   ]
+  },
+  {
+   "tmdb_id": 1800703,
+   "title": "Fails of Suspense",
+   "release_date": "2026-10-26",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/bEUh1QaRvYeUE3dirWPLha04Wzv.jpg",
+   "runtime": 7,
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 1.368,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/fails-of-suspense/",
+   "plot": "When comic artist Jane McSween gets locked out of her flat, her day goes from bad to worse when her attempts to break back in result in the accidental death of her neighbour, and draws the attention of a local crimelord.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    5268985,
+    5472680,
+    4548406,
+    5469964,
+    5382643,
+    5472680
+   ],
+   "recs": [
+    122930,
+    27004,
+    1530875,
+    14550,
+    808023,
+    938150,
+    1319895,
+    1001783,
+    32080,
+    970347,
+    1128377,
+    14576
    ]
   },
   {
@@ -6135,7 +6232,7 @@
     "Drama"
    ],
    "imdb_id": "tt42667042",
-   "popularity": 1.3051,
+   "popularity": 1.514,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -6158,16 +6255,334 @@
    "recs": [
     413452,
     364223,
-    692989,
     34025,
+    692989,
     669666,
-    1212271,
     41240,
+    1212271,
     406302,
-    552532,
     35030,
+    552532,
+    82040,
+    217919
+   ]
+  },
+  {
+   "tmdb_id": 1710666,
+   "title": "Outsiders",
+   "release_date": "2026-10-10",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/cSIx8hpU1qEiPLfFzUpGovbtPR5.jpg",
+   "runtime": 17,
+   "genres": [
+    "Science Fiction",
+    "Horror"
+   ],
+   "imdb_id": "tt40415634",
+   "popularity": 1.1403,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/outsiders-2026/",
+   "plot": "Davey's Chambers life is forever altered when an alien invasion forces him to survive with strangers inside of his compact flat.",
+   "original_title": null,
+   "kw": [
+    273439,
+    315058
+   ],
+   "people": [
+    5670030,
+    5670020,
+    5670033,
+    6271650,
+    6271656
+   ],
+   "recs": [
+    945961,
+    715123,
+    820609,
+    1189205,
+    70981,
+    846778,
+    347548,
+    1241470,
+    736485,
+    338676,
+    60935,
+    145135
+   ]
+  },
+  {
+   "tmdb_id": 1125403,
+   "title": "In the Shadows",
+   "release_date": "2026-10-30",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/1cuSXENMYq5ltA8HP9GZXG8fhwO.jpg",
+   "runtime": 116,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt10997764",
+   "popularity": 1.3216,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/in-the-shadows-2026/",
+   "plot": "Tells the true story of Ramla Ali, who fled Somalia with her family as a young girl, seeking asylum in London from the civil war. As a teenager, she pursued her love of boxing, but did so secretly as she knew her family would disapprove. Ali became the first boxer, male or female, to represent Somalia at the 2020 Olympic Games and made history after winning the first ever professional female boxing match in Saudi Arabia.",
+   "original_title": null,
+   "kw": [
+    6075,
+    195739,
+    209476
+   ],
+   "people": [
+    1186425,
+    1577903,
+    1508313,
+    1192778,
+    6565395
+   ],
+   "recs": [
+    13074,
+    13823,
+    159389,
+    480530,
+    29989,
+    610219,
+    18684,
+    1078581,
+    878361,
+    1374,
     339145,
-    374461
+    565348
+   ]
+  },
+  {
+   "tmdb_id": 1725773,
+   "title": "For Your Suffering",
+   "release_date": "2020-10-01",
+   "year": "2020",
+   "poster": "https://image.tmdb.org/t/p/w342/3xQqcX14uNp23XpCgotbM9DSKbR.jpg",
+   "runtime": 7,
+   "genres": [
+    "Mystery"
+   ],
+   "imdb_id": "tt13218898",
+   "popularity": 1.2095,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/for-your-suffering/",
+   "plot": "A young boy lives in the shadow of his abusive stepfather - until tonight.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    2140343,
+    1229222,
+    1742654,
+    6325955,
+    6325954
+   ],
+   "recs": [
+    395458,
+    916605,
+    30943,
+    37342,
+    772973,
+    1082063,
+    1160003,
+    153104,
+    974453,
+    13252,
+    1172009,
+    43566
+   ]
+  },
+  {
+   "tmdb_id": 1756742,
+   "title": "Out of Breath",
+   "release_date": "2026-09-29",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/cKnu9KN0HZ0JxzCU8RBp4d9xutU.jpg",
+   "runtime": 83,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 1.1511,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/out-of-breath-2026/",
+   "plot": "OUT OF BREATH shines the spotlight on the human cost paid by people living with sleep apnea and their loved ones. Yet, for all the darkness they face there is also light at the end of the tunnel as their hope, courage, and perseverance brings them closer to the promise of successful treatment.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    1077257,
+    6437962,
+    6437963,
+    6437964,
+    6437966
+   ],
+   "recs": [
+    1461714,
+    176238,
+    450945,
+    869250,
+    1058647,
+    603106,
+    352197,
+    42314,
+    322506,
+    26763,
+    1457515,
+    293262
+   ]
+  },
+  {
+   "tmdb_id": 1528830,
+   "title": "Extra Geography",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
+   "runtime": 94,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt34798706",
+   "popularity": 1.5355,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": 100.0,
+   "metacritic": null,
+   "letterboxd": 3.6,
+   "letterboxd_url": "https://letterboxd.com/film/extra-geography/",
+   "plot": "In an English girls boarding school, two teenage best friends grapple with the challenges of girlhood — friendship, boys, studies, and growing up — and embark on their school project, falling in love.",
+   "original_title": null,
+   "kw": [
+    41172,
+    156866,
+    281237
+   ],
+   "people": [
+    1744624,
+    5871794,
+    5871776,
+    587823,
+    5938234
+   ],
+   "recs": [
+    29989,
+    127373,
+    339145,
+    440918,
+    535308,
+    383709,
+    829503,
+    1325678,
+    397837,
+    88875,
+    537681,
+    860852
+   ]
+  },
+  {
+   "tmdb_id": 1781334,
+   "title": "SpiceGirl",
+   "release_date": "2026-09-27",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/rpcntY7zwbXb5RKR8VKhMIebyIk.jpg",
+   "runtime": 13,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt47259278",
+   "popularity": 1.3721,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/spicegirl/",
+   "plot": "A struggling singer returns home, tail between her legs. But a party invite from a childhood friend puts her outward persona to the test.",
+   "original_title": null,
+   "kw": [
+    11494
+   ],
+   "people": [
+    6506898,
+    6506910,
+    6506911,
+    6506912
+   ],
+   "recs": [
+    113294,
+    364223,
+    339145,
+    653708,
+    1212271,
+    15568,
+    24747,
+    692989,
+    184341,
+    152795,
+    202960,
+    565341
+   ]
+  },
+  {
+   "tmdb_id": 1783165,
+   "title": "One Last Night",
+   "release_date": "2026-09-23",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/q0dBF3IDkN78f74qOBXK9ZAl0Y7.jpg",
+   "runtime": 19,
+   "genres": [],
+   "imdb_id": null,
+   "popularity": 1.1591,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/one-last-night-2026/",
+   "plot": "On the eve of leaving for college, Braden takes his younger brother into the city to escape their mother's chaos, a final night of laughter, connection, and bittersweet memories amid a fractured family.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    2767543,
+    2735073,
+    3963866,
+    2387419
+   ],
+   "recs": [
+    23169,
+    158908,
+    244536,
+    8976,
+    334,
+    861072,
+    1327688,
+    1158915,
+    915523,
+    119738,
+    2176,
+    744275
    ]
   },
   {
@@ -6182,7 +6597,7 @@
     "Drama"
    ],
    "imdb_id": "tt43641694",
-   "popularity": 1.2069,
+   "popularity": 1.5136,
    "tmdb": null,
    "imdb": 8.6,
    "imdb_votes": 51,
@@ -6201,18 +6616,144 @@
     4914777
    ],
    "recs": [
-    28059,
     27834,
     172631,
     829774,
+    717693,
+    673159,
     419459,
-    259956,
     926008,
+    259956,
     436288,
     261036,
-    1082938,
-    391710,
+    1417677,
     24363
+   ]
+  },
+  {
+   "tmdb_id": 1573018,
+   "title": "In The Shadow of a High Rise Flat",
+   "release_date": "2026-09-26",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/2srReYc5TQeVJpdDrQZbJIRDrMb.jpg",
+   "runtime": 16,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt39398294",
+   "popularity": 1.1927,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/in-the-shadow-of-a-high-rise-flat/",
+   "plot": "Deirdre and Jim meet in secret, again. They wander the evening streets of Glasgow pondering life, love and their future but there is a secret being kept that will change their relationship forever.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    5789859,
+    5789848,
+    5634306,
+    4818982,
+    6494685
+   ],
+   "recs": [
+    552532,
+    34025,
+    184341,
+    283698,
+    82631,
+    35030,
+    159389,
+    1027497,
+    217919,
+    413337,
+    565341,
+    41240
+   ]
+  },
+  {
+   "tmdb_id": 1792612,
+   "title": "Behind the Reflection",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/rJwb4EJMWswcMyroiRO5Yw90Oqj.jpg",
+   "runtime": 24,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt37432817",
+   "popularity": 1.1323,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/behind-the-reflection-2026/",
+   "plot": "A woman struggles with their identity, leading to a life of addiction, alcoholism and violence. A gritty drama based on the true life of Rozelle Gemma.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    1687447,
+    4015860
+   ],
+   "recs": [
+    339145,
+    364223,
+    41240,
+    29989,
+    552532,
+    253279,
+    157351,
+    14882,
+    20857,
+    506558,
+    692989,
+    295886
+   ]
+  },
+  {
+   "tmdb_id": 1792520,
+   "title": "Crocodile Tears",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/7ZMshMCl9gwt3IQ5LMaNuaJk0Ns.jpg",
+   "runtime": 15,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": "tt41796019",
+   "popularity": 1.1197,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/crocodile-tears-2026-1/",
+   "plot": "Hired to pose as a dead boy's girlfriend, a professional mourner finds her hardest act is keeping herself from falling apart.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    6537049,
+    4754908
+   ],
+   "recs": [
+    1212271,
+    41240,
+    159389,
+    364223,
+    34025,
+    157351,
+    339145,
+    259958,
+    413452,
+    371462,
+    669666,
+    20857
    ]
   },
   {
@@ -6228,7 +6769,7 @@
     "Horror"
    ],
    "imdb_id": null,
-   "popularity": 1.1573,
+   "popularity": 1.131,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -6262,84 +6803,90 @@
    ]
   },
   {
-   "tmdb_id": 1783165,
-   "title": "One Last Night",
-   "release_date": "2026-09-23",
+   "tmdb_id": 1674771,
+   "title": "Limbus",
+   "release_date": "2026-09-20",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/q0dBF3IDkN78f74qOBXK9ZAl0Y7.jpg",
-   "runtime": 19,
-   "genres": [],
+   "poster": "https://image.tmdb.org/t/p/w342/47Zp5MHeW8C00nPkgzUd1xvZVA6.jpg",
+   "runtime": null,
+   "genres": [
+    "Mystery",
+    "Horror"
+   ],
    "imdb_id": null,
-   "popularity": 1.2133,
+   "popularity": 1.0423,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/one-last-night-2026/",
-   "plot": "On the eve of leaving for college, Braden takes his younger brother into the city to escape their mother's chaos, a final night of laughter, connection, and bittersweet memories amid a fractured family.",
+   "letterboxd_url": "https://letterboxd.com/film/limbus-2026/",
+   "plot": null,
    "original_title": null,
    "kw": [],
    "people": [
-    2767543,
-    2735073,
-    3963866,
-    2387419
+    6148584,
+    4592037,
+    4948910,
+    6314412
    ],
    "recs": [
-    23169,
-    244536,
-    158908,
-    8976,
-    334,
-    861072,
-    1327688,
-    119738,
-    1077661,
-    915523,
-    2176,
-    1158915
+    782936,
+    8284,
+    71373,
+    13252,
+    916605,
+    4959,
+    404733,
+    772973,
+    1530875,
+    144156,
+    974453,
+    37342
    ]
   },
   {
-   "tmdb_id": 1796471,
-   "title": "Aberfan: The Village That Fought Back",
-   "release_date": "2026-10-19",
+   "tmdb_id": 1718221,
+   "title": "A Girl Called Alice",
+   "release_date": "2026-10-09",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/hyKyKDsnxYGx5zlMyy4qw0a0yZ1.jpg",
-   "runtime": 60,
+   "poster": "https://image.tmdb.org/t/p/w342/gFaXm5iez7zp70gbUAVww7m8iGg.jpg",
+   "runtime": null,
    "genres": [
-    "Documentary"
+    "Crime",
+    "Drama"
    ],
-   "imdb_id": "tt49656931",
-   "popularity": 1.0109,
+   "imdb_id": "tt37805796",
+   "popularity": 1.0468,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/aberfan-the-village-that-fought-back/",
-   "plot": "Aberfan's grieving community takes on the government, demanding justice and removal of the remaining tips after the disaster that killed 144 people",
+   "letterboxd_url": "https://letterboxd.com/film/a-girl-called-alice/",
+   "plot": "In the middle of London's mobile phone theft epidemic; a young woman with the reputation of one of the most gifted phone thieves is challenged by a notorious street gang leader to see just how good she really is, but is it a wise choice?",
    "original_title": null,
    "kw": [],
    "people": [
-    3500483
+    447550,
+    3791634,
+    1812465
    ],
    "recs": [
-    1400780,
-    1114590,
-    1015356,
-    1059673,
-    322506,
-    446173,
-    508003,
-    41480,
-    1723460,
-    34015,
-    352197,
-    253292
+    36521,
+    774301,
+    171337,
+    12888,
+    31863,
+    20637,
+    16958,
+    16056,
+    401743,
+    107380,
+    19092,
+    20362
    ]
   },
   {
@@ -6354,7 +6901,7 @@
     "Thriller"
    ],
    "imdb_id": "tt32528755",
-   "popularity": 1.1165,
+   "popularity": 1.1185,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -6378,423 +6925,11 @@
     157351,
     423087,
     302528,
+    48129,
     20064,
-    48129,
+    846956,
     48946,
-    846956,
-    893086
-   ]
-  },
-  {
-   "tmdb_id": 1725773,
-   "title": "For Your Suffering",
-   "release_date": "2020-10-01",
-   "year": "2020",
-   "poster": "https://image.tmdb.org/t/p/w342/3xQqcX14uNp23XpCgotbM9DSKbR.jpg",
-   "runtime": 7,
-   "genres": [
-    "Mystery"
-   ],
-   "imdb_id": "tt13218898",
-   "popularity": 1.2289,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/for-your-suffering/",
-   "plot": "A young boy lives in the shadow of his abusive stepfather - until tonight.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    2140343,
-    1229222,
-    1742654,
-    6325955,
-    6325954
-   ],
-   "recs": [
-    395458,
-    916605,
-    37342,
-    30943,
-    1082063,
-    772973,
-    1160003,
-    71373,
-    1172009,
-    153104,
-    43566,
-    974453
-   ]
-  },
-  {
-   "tmdb_id": 1781334,
-   "title": "SpiceGirl",
-   "release_date": "2026-09-27",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/rpcntY7zwbXb5RKR8VKhMIebyIk.jpg",
-   "runtime": 13,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt47259278",
-   "popularity": 1.2183,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/spicegirl/",
-   "plot": "A struggling singer returns home, tail between her legs. But a party invite from a childhood friend puts her outward persona to the test.",
-   "original_title": null,
-   "kw": [
-    11494
-   ],
-   "people": [
-    6506898,
-    6506910,
-    6506911,
-    6506912
-   ],
-   "recs": [
-    113294,
-    364223,
-    339145,
-    1212271,
-    653708,
-    15568,
-    692989,
-    152795,
-    184341,
-    202960,
-    24747,
-    565341
-   ]
-  },
-  {
-   "tmdb_id": 1125403,
-   "title": "In the Shadows",
-   "release_date": "2026-10-30",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/1cuSXENMYq5ltA8HP9GZXG8fhwO.jpg",
-   "runtime": 116,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt10997764",
-   "popularity": 1.2436,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/in-the-shadows-2026/",
-   "plot": "Tells the true story of Ramla Ali, who fled Somalia with her family as a young girl, seeking asylum in London from the civil war. As a teenager, she pursued her love of boxing, but did so secretly as she knew her family would disapprove. Ali became the first boxer, male or female, to represent Somalia at the 2020 Olympic Games and made history after winning the first ever professional female boxing match in Saudi Arabia.",
-   "original_title": null,
-   "kw": [
-    6075,
-    195739,
-    209476
-   ],
-   "people": [
-    1186425,
-    1577903,
-    1508313,
-    1192778,
-    6565395
-   ],
-   "recs": [
-    13074,
-    13823,
-    159389,
-    29989,
-    480530,
-    610219,
-    1078581,
-    18684,
-    878361,
-    33997,
-    339145,
-    1374
-   ]
-  },
-  {
-   "tmdb_id": 1721871,
-   "title": "Breezeblock",
-   "release_date": "2026-10-10",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/mhWA6q4ReiSoxuZgqTebnRuBrWJ.jpg",
-   "runtime": 4,
-   "genres": [
-    "Drama",
-    "Comedy"
-   ],
-   "imdb_id": "tt36257630",
-   "popularity": 1.4076,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/breezeblock/",
-   "plot": "In the heart of the forest, a man is building a concrete wall to protect himself from a fly that is swooping down towards him.",
-   "original_title": "Parpaing",
-   "kw": [
-    4556,
-    18330,
-    367056,
-    384859
-   ],
-   "people": [
-    6311464,
-    6311466,
-    1158804
-   ],
-   "recs": [
-    846956,
-    1082938,
-    1387382,
-    714195,
-    1220515,
-    436459,
-    27834,
-    339849,
-    48129,
-    28059,
-    34025,
-    419459
-   ]
-  },
-  {
-   "tmdb_id": 1792612,
-   "title": "Behind the Reflection",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/rJwb4EJMWswcMyroiRO5Yw90Oqj.jpg",
-   "runtime": 24,
-   "genres": [
-    "Drama"
-   ],
-   "imdb_id": "tt37432817",
-   "popularity": 1.1812,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/behind-the-reflection-2026/",
-   "plot": "A woman struggles with their identity, leading to a life of addiction, alcoholism and violence. A gritty drama based on the true life of Rozelle Gemma.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    1687447,
-    4015860
-   ],
-   "recs": [
-    339145,
-    364223,
-    41240,
-    547590,
-    29989,
-    552532,
-    157351,
-    253279,
-    692989,
-    20857,
-    14882,
-    506558
-   ]
-  },
-  {
-   "tmdb_id": 1790261,
-   "title": "The Memory Remains",
-   "release_date": "2026-09-24",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/39yUkfZQeJC4z2dTGSH1lzpxFIz.jpg",
-   "runtime": 23,
-   "genres": [
-    "Science Fiction",
-    "Thriller"
-   ],
-   "imdb_id": "tt42526456",
-   "popularity": 1.4414,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-memory-remains/",
-   "plot": "Alex, a grieving scientist, uses an experimental machine to reconstruct his partner Laura’s mind from his own memories, but as she awakens, fragmented recollections begin to challenge his carefully constructed version of their life. As Laura pieces together her past, she discovers the disturbing truth behind Alex’s work and must confront the man whose obsession with progress has pushed their relationship- and her own identity- to the brink.",
-   "original_title": null,
-   "kw": [
-    14544,
-    191881
-   ],
-   "people": [
-    5775157,
-    1704268,
-    2421170,
-    6022920,
-    6564170
-   ],
-   "recs": [
-    1001835,
-    458005,
-    733317,
-    174675,
-    262543,
-    1084199,
-    846778,
-    411143,
-    43549,
-    1307118,
-    1018247,
-    453405
-   ]
-  },
-  {
-   "tmdb_id": 1781036,
-   "title": "Blue Lagoon",
-   "release_date": "2026-09-24",
-   "year": "2026",
-   "poster": null,
-   "runtime": 13,
-   "genres": [
-    "Documentary",
-    "Music"
-   ],
-   "imdb_id": null,
-   "popularity": 1.0523,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/blue-lagoon-2026/",
-   "plot": "Blue Lagoon explores the links between industrial extraction, ecological care, and somatic release through the lens of a post-industrial North East England coastline.",
-   "original_title": null,
-   "kw": [
-    1382,
-    2334,
-    3221,
-    39737,
-    194176,
-    208733,
-    209135,
-    282253,
-    313749
-   ],
-   "people": [
-    2836956
-   ],
-   "recs": [
-    1447853,
-    1022256,
-    127509,
-    1265066,
-    84342,
-    1515899,
-    1134865,
-    645488,
-    1723460,
-    24128,
-    1564,
-    962192
-   ]
-  },
-  {
-   "tmdb_id": 1756742,
-   "title": "Out of Breath",
-   "release_date": "2026-09-29",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/cKnu9KN0HZ0JxzCU8RBp4d9xutU.jpg",
-   "runtime": 83,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 1.2261,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/out-of-breath-2026/",
-   "plot": "OUT OF BREATH shines the spotlight on the human cost paid by people living with sleep apnea and their loved ones. Yet, for all the darkness they face there is also light at the end of the tunnel as their hope, courage, and perseverance brings them closer to the promise of successful treatment.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    1077257,
-    6437962,
-    6437963,
-    6437964,
-    6437966
-   ],
-   "recs": [
-    176238,
-    450945,
-    869250,
-    1058647,
-    352197,
-    603106,
-    26763,
-    42314,
-    322506,
-    1457515,
-    293262,
-    13364
-   ]
-  },
-  {
-   "tmdb_id": 1718221,
-   "title": "A Girl Called Alice",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/gFaXm5iez7zp70gbUAVww7m8iGg.jpg",
-   "runtime": null,
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "imdb_id": "tt37805796",
-   "popularity": 1.1435,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/a-girl-called-alice/",
-   "plot": "In the middle of London's mobile phone theft epidemic; a young woman with the reputation of one of the most gifted phone thieves is challenged by a notorious street gang leader to see just how good she really is, but is it a wise choice?",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    447550,
-    3791634,
-    1812465
-   ],
-   "recs": [
-    36521,
-    774301,
-    171337,
-    31863,
-    12888,
-    20637,
-    16056,
-    16958,
-    401743,
-    107380,
-    19092,
-    20362
+    916605
    ]
   },
   {
@@ -6808,7 +6943,7 @@
     "Drama"
    ],
    "imdb_id": "tt35856130",
-   "popularity": 1.104,
+   "popularity": 1.1618,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -6833,16 +6968,16 @@
    "recs": [
     470044,
     127517,
-    552269,
     27090,
+    552269,
     567690,
     14047,
     397837,
-    16295,
     15058,
+    16295,
     14794,
-    692989,
-    595
+    595,
+    692989
    ]
   },
   {
@@ -6857,7 +6992,7 @@
     "Animation"
    ],
    "imdb_id": null,
-   "popularity": 1.0908,
+   "popularity": 1.2528,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -6877,16 +7012,16 @@
    "recs": [
     723895,
     12180,
-    805051,
     1398283,
+    805051,
     338103,
-    743439,
     789708,
+    743439,
     1731694,
-    704264,
+    21379,
     36800,
     13757,
-    686941
+    24362
    ]
   },
   {
@@ -6901,7 +7036,7 @@
     "Horror"
    ],
    "imdb_id": null,
-   "popularity": 1.0692,
+   "popularity": 1.6728,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -6931,15 +7066,15 @@
     1339206,
     396461,
     1510745,
+    371560,
     316727,
     10657,
-    75889,
+    1314829,
     22423,
     1667198,
+    75889,
     157834,
-    913290,
-    1970,
-    32051
+    913290
    ]
   },
   {
@@ -6956,7 +7091,7 @@
     "Science Fiction"
    ],
    "imdb_id": "tt36434292",
-   "popularity": 1.0565,
+   "popularity": 1.2113,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -6984,17 +7119,68 @@
    ],
    "recs": [
     24950,
-    25208,
     395458,
+    25208,
     13856,
     976720,
     149509,
-    1143128,
-    370097,
-    1635,
     492613,
+    1635,
+    370097,
     396806,
-    157351
+    157351,
+    1027497
+   ]
+  },
+  {
+   "tmdb_id": 1781036,
+   "title": "Blue Lagoon",
+   "release_date": "2026-09-24",
+   "year": "2026",
+   "poster": null,
+   "runtime": 13,
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "imdb_id": null,
+   "popularity": 1.1594,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/blue-lagoon-2026/",
+   "plot": "Blue Lagoon explores the links between industrial extraction, ecological care, and somatic release through the lens of a post-industrial North East England coastline.",
+   "original_title": null,
+   "kw": [
+    1382,
+    2334,
+    3221,
+    39737,
+    194176,
+    208733,
+    209135,
+    282253,
+    313749
+   ],
+   "people": [
+    2836956
+   ],
+   "recs": [
+    1447853,
+    1022256,
+    127509,
+    1515899,
+    1134865,
+    1564,
+    1723460,
+    84342,
+    24128,
+    645488,
+    1265066,
+    229296
    ]
   },
   {
@@ -7010,7 +7196,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 1.0478,
+   "popularity": 1.4878,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7040,13 +7226,13 @@
     273641,
     20211,
     21585,
-    762511,
     339927,
+    762511,
     21921,
+    110112,
+    1779,
     15258,
-    478054,
-    392891,
-    568693
+    265065
    ]
   },
   {
@@ -7060,7 +7246,7 @@
     "Thriller"
    ],
    "imdb_id": "tt36242376",
-   "popularity": 1.0415,
+   "popularity": 1.0256,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7080,14 +7266,14 @@
     938150,
     1371151,
     19345,
-    56669,
     1482547,
+    56669,
     763788,
     42344,
     899294,
     14782,
-    423087,
-    225285
+    846956,
+    423087
    ]
   },
   {
@@ -7102,7 +7288,7 @@
     "Thriller"
    ],
    "imdb_id": "tt38046366",
-   "popularity": 1.0193,
+   "popularity": 1.3402,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7133,13 +7319,13 @@
     375846,
     916605,
     84336,
-    1093995,
-    809314,
     617502,
     73454,
-    1172009,
     11498,
-    1305717
+    809314,
+    451156,
+    1172009,
+    1371151
    ]
   },
   {
@@ -7153,7 +7339,7 @@
     "Drama"
    ],
    "imdb_id": "tt39007156",
-   "popularity": 1.014,
+   "popularity": 0.8945,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7172,17 +7358,17 @@
     3212668
    ],
    "recs": [
-    113294,
     846956,
+    113294,
     48129,
-    159389,
     127373,
+    159389,
     545237,
-    413452,
-    1659087,
     846433,
-    171337,
+    1659087,
+    413452,
     1292415,
+    171337,
     28932
    ]
   },
@@ -7197,7 +7383,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 1.0114,
+   "popularity": 0.9865,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7220,17 +7406,57 @@
    ],
    "recs": [
     961722,
-    21710,
+    29047,
     508003,
+    21710,
     1853,
     757388,
     94623,
-    412924,
     1723460,
+    412924,
+    20565,
     130824,
-    29047,
-    240629,
-    20565
+    1400780
+   ]
+  },
+  {
+   "tmdb_id": 1796471,
+   "title": "Aberfan: The Village That Fought Back",
+   "release_date": "2026-10-19",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/hyKyKDsnxYGx5zlMyy4qw0a0yZ1.jpg",
+   "runtime": 60,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": "tt49656931",
+   "popularity": 0.948,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/aberfan-the-village-that-fought-back/",
+   "plot": "Aberfan's grieving community takes on the government, demanding justice and removal of the remaining tips after the disaster that killed 144 people",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    3500483
+   ],
+   "recs": [
+    1400780,
+    34015,
+    1015356,
+    1059673,
+    322506,
+    1114590,
+    508003,
+    1723460,
+    617773,
+    41480,
+    72680,
+    446173
    ]
   },
   {
@@ -7244,7 +7470,7 @@
     "Horror"
    ],
    "imdb_id": null,
-   "popularity": 0.997,
+   "popularity": 1.2318,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7264,17 +7490,17 @@
    ],
    "recs": [
     814889,
-    711705,
     87321,
+    711705,
     713364,
+    993867,
     1020696,
     675531,
     772973,
+    687340,
     290555,
     9877,
-    1356236,
-    687340,
-    1251717
+    1312833
    ]
   },
   {
@@ -7289,7 +7515,7 @@
     "Family"
    ],
    "imdb_id": null,
-   "popularity": 0.9668,
+   "popularity": 1.0657,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7313,16 +7539,60 @@
    "recs": [
     30071,
     441183,
-    26514,
     43625,
     785522,
-    38602,
     421632,
+    38602,
+    26514,
     616651,
     18050,
     14012,
     24832,
     602147
+   ]
+  },
+  {
+   "tmdb_id": 1810855,
+   "title": "The Jillon",
+   "release_date": "2026-10-30",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/eLY0aixykmaKqz3jDPzxxbUnqaj.jpg",
+   "runtime": 15,
+   "genres": [
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 0.9666,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-jillon/",
+   "plot": "From the mind of Harry Hill, starring Richard Ayoade, Richard Syms and Flip Webster comes a gloriously absurd dark comedy about an 86-year-old woman whose desperate wish to become a mother is granted, with consequences nobody could have imagined.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    151131,
+    98103,
+    20002,
+    390184,
+    151131
+   ],
+   "recs": [
+    462108,
+    931461,
+    28339,
+    1662958,
+    999582,
+    96924,
+    17159,
+    24109,
+    336736,
+    1169007,
+    20720,
+    404022
    ]
   },
   {
@@ -7336,7 +7606,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.9452,
+   "popularity": 1.1483,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7388,7 +7658,7 @@
     "Thriller"
    ],
    "imdb_id": null,
-   "popularity": 0.926,
+   "popularity": 0.998,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7405,17 +7675,17 @@
    ],
    "recs": [
     1093995,
-    19345,
     846956,
+    19345,
     916605,
     1482547,
-    20411,
     1145725,
     899294,
-    1305717,
-    75889,
+    20411,
     1027497,
-    1123278
+    513268,
+    1305717,
+    75889
    ]
   },
   {
@@ -7430,7 +7700,7 @@
     "Drama"
    ],
    "imdb_id": "tt37646850",
-   "popularity": 0.9094,
+   "popularity": 1.0038,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7479,7 +7749,7 @@
     "Fantasy"
    ],
    "imdb_id": "tt47091674",
-   "popularity": 0.8976,
+   "popularity": 0.9357,
    "tmdb": null,
    "imdb": 6.8,
    "imdb_votes": 10,
@@ -7500,17 +7770,17 @@
    ],
    "recs": [
     666750,
+    1016414,
     51532,
     1058537,
     81005,
-    25132,
     45611,
     131634,
     290595,
     9543,
     445651,
-    266647,
-    575094
+    575094,
+    476389
    ]
   },
   {
@@ -7524,7 +7794,7 @@
     "Drama"
    ],
    "imdb_id": "tt39537077",
-   "popularity": 0.8843,
+   "popularity": 0.8718,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7543,94 +7813,16 @@
    "recs": [
     283698,
     82040,
-    565341,
     41240,
-    88875,
-    441183,
+    565341,
     15568,
+    441183,
     127373,
     35030,
+    88875,
     545237,
     29989,
-    642546
-   ]
-  },
-  {
-   "tmdb_id": 1792099,
-   "title": "Ukraine Ghost Ship",
-   "release_date": "2026-10-12",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/A0I7vmUon7bHCXxlvbihFt3bgGz.jpg",
-   "runtime": 72,
-   "genres": [],
-   "imdb_id": null,
-   "popularity": 0.7259,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/ukraine-ghost-ship/",
-   "plot": "When Russian forces bombed a giant hydroelectric dam on Ukraine’s mighty Dnipro River in June 2023, farmland flooded, homes were destroyed and over 50 people lost their lives. Upriver, as waters drained, ancient ships’ timbers were uncovered on the newly exposed beach. Now, a Ukrainian archaeologist Dmitro Kobaliaa has assembled an international team to recover these remains, to reveal the story of a vast Russian military flotilla sent to conquer land around the Black Sea coast. It’s a battle still raging today. As fighter jets shoot overhead, Dmitro’s discoveries reveal a history of Ukraine before Russian rule, a history the Russians are trying to destroy, but one Dmitro is desperate to preserve.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    3890631
-   ],
-   "recs": [
-    401200,
-    1715492,
-    1400789,
-    390253,
-    12311,
-    8665,
-    166426,
-    42737,
-    374720,
-    516486,
-    23928,
-    3536
-   ]
-  },
-  {
-   "tmdb_id": 1769897,
-   "title": "Transformation",
-   "release_date": "2026-10-12",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/2YZrePkKPyWFQC7KP969riTVZAl.jpg",
-   "runtime": null,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.6627,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/transformation-2026/",
-   "plot": "A feature-length documentary exploring the profound inner metamorphosis of Ukrainian civilians from the creative sector who chose to enlist as soldiers to defend their country. The film maps the deep psychological and lifestyle shifts experienced by musicians, artists, and filmmakers as they stepped away from civilian art to enter the realities of war.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    2590760
-   ],
-   "recs": [
-    1114590,
-    1400789,
-    446173,
-    20562,
-    322506,
-    94623,
-    1400780,
-    72680,
-    450945,
-    20561,
-    130824,
-    14201
+    846956
    ]
   },
   {
@@ -7644,7 +7836,7 @@
     "Horror"
    ],
    "imdb_id": "tt37137126",
-   "popularity": 0.8548,
+   "popularity": 0.9393,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7664,17 +7856,57 @@
    ],
    "recs": [
     1356236,
-    711705,
     814889,
+    711705,
     715123,
-    24655,
     687340,
-    225285,
-    17898,
+    24655,
     772973,
+    17898,
+    225285,
     532408,
     930600,
-    785759
+    978796
+   ]
+  },
+  {
+   "tmdb_id": 1784633,
+   "title": "Remember That Time",
+   "release_date": "2026-09-30",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/f6V4vySxdQPUyXzn72nfilgor0l.jpg",
+   "runtime": 20,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 1.0145,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/remember-that-time/",
+   "plot": "In an unprecedented cinematic experiment, five strangers, led by an enigmatic facilitator enter a Nordic LARP (Live Action Role Play), about grief, love, and loss, where the line between performance and reality begins to dissolve.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    4042151
+   ],
+   "recs": [
+    322506,
+    20561,
+    1723460,
+    645488,
+    557646,
+    1400780,
+    94623,
+    20562,
+    508003,
+    1059673,
+    1477565,
+    34015
    ]
   },
   {
@@ -7688,7 +7920,7 @@
     "Comedy"
    ],
    "imdb_id": null,
-   "popularity": 0.8333,
+   "popularity": 0.7855,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7705,100 +7937,18 @@
     6527689
    ],
    "recs": [
-    87233,
-    30587,
+    464446,
     21037,
-    13589,
     462108,
     598133,
-    96924,
-    464446,
+    1662958,
+    13589,
+    30587,
+    87233,
+    123587,
     580846,
     326665,
-    1662958,
-    6393
-   ]
-  },
-  {
-   "tmdb_id": 1796487,
-   "title": "Unseen: The Aberfan Portraits",
-   "release_date": "2026-10-19",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/hGxpTWXh4y04cWa5tFk1PhrZLob.jpg",
-   "runtime": 15,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.7838,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/unseen-the-aberfan-portraits/",
-   "plot": "Following the Aberfan disaster in 1966, an artist from Llandudno embarked on an extraordinary mission to paint portraits of most of the 116 children who lost their lives, using photographs and locks of hair provided by their grieving families.  For the first time, relatives share what these remarkable paintings have meant to them over the past six decades. Presented by the BBC’s Huw Thomas, he discovers how the portraits became enduring symbols of remembrance in a village touched by tragedy.",
-   "original_title": null,
-   "kw": [],
-   "people": [],
-   "recs": [
-    1400780,
-    1114590,
-    322506,
-    20562,
-    130824,
-    869250,
-    240629,
-    352197,
-    645488,
-    1461714,
-    20553,
-    20565
-   ]
-  },
-  {
-   "tmdb_id": 1475044,
-   "title": "Forget-me-not",
-   "release_date": "2026-10-31",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/A5oupBnv26V6qQ1uyJ6m7rUP6Fp.jpg",
-   "runtime": 8,
-   "genres": [
-    "Horror",
-    "Drama",
-    "Mystery"
-   ],
-   "imdb_id": null,
-   "popularity": 0.6469,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/forget-me-not-2026/",
-   "plot": "Dean Carter's mind unravels while deciphering the mystery behind the disappearance of his fiancé.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    5238583,
-    5414153,
-    5414160
-   ],
-   "recs": [
-    302528,
-    33195,
-    25208,
-    1364953,
-    782936,
-    71373,
-    51245,
-    65650,
-    333674,
-    1339206,
-    741755,
-    862552
+    1341138
    ]
   },
   {
@@ -7812,7 +7962,7 @@
     "Drama"
    ],
    "imdb_id": "tt43596743",
-   "popularity": 0.8145,
+   "popularity": 0.7798,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7830,17 +7980,342 @@
    ],
    "recs": [
     364223,
-    339145,
     41240,
+    339145,
     253279,
-    550958,
     15568,
-    460064,
+    550958,
+    34025,
     159389,
     157351,
-    34025,
+    460064,
     669666,
     127373
+   ]
+  },
+  {
+   "tmdb_id": 1792741,
+   "title": "ADHD",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/pImNQdmeynzRJvVvUPe2IfBkb4G.jpg",
+   "runtime": 6,
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 0.6896,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/adhd/",
+   "plot": "Clara, a neurodiverse, overwhelmed corporate employee, struggles to manage her workload and the number of daily tasks she has to keep up with just to stay alive in the modern world, within a sterile corporate environment. After being summoned to a meeting with her manager and HR, she deflects criticism of her work and inappropriate behaviour by blaming everything on her ADHD.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    6379023,
+    6537352
+   ],
+   "recs": [
+    27834,
+    419459,
+    673159,
+    28059,
+    172631,
+    542714,
+    433503,
+    1220515,
+    41479,
+    43609,
+    436459,
+    829774
+   ]
+  },
+  {
+   "tmdb_id": 1773928,
+   "title": "Mask Murder",
+   "release_date": "2026-10-13",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/itCuMjnYBcol2fX0WYDRZtRFjtF.jpg",
+   "runtime": 2,
+   "genres": [
+    "Horror"
+   ],
+   "imdb_id": null,
+   "popularity": 0.8005,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/mask-murder/",
+   "plot": "Set 5 years before the events of Forest Floor. Discover the origin story of the masked man.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    6080461,
+    6546861,
+    6092290
+   ],
+   "recs": [
+    1356236,
+    814889,
+    1338972,
+    711705,
+    741613,
+    1020696,
+    14397,
+    675531,
+    993867,
+    1241674,
+    406563,
+    3072
+   ]
+  },
+  {
+   "tmdb_id": 1438857,
+   "title": "Secrets of the Southwest: Science Behind the Secrets",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/k53VC3sCmhQ9aaeDiPWP5iHvwvS.jpg",
+   "runtime": 30,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.7287,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/secrets-of-the-southwest-science-behind-the/",
+   "plot": "Meet the inspiring individuals and communities who work to protect our most beloved UK wildlife.",
+   "original_title": null,
+   "kw": [],
+   "people": [],
+   "recs": [
+    322506,
+    450945,
+    557646,
+    1461714,
+    446173,
+    603106,
+    869250,
+    293262,
+    979163,
+    940075,
+    751490,
+    39333
+   ]
+  },
+  {
+   "tmdb_id": 1801058,
+   "title": "Thick Skin",
+   "release_date": "2026-10-26",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/h2iprXM65fJPtp1TnzepfGevl9c.jpg",
+   "runtime": 7,
+   "genres": [
+    "Science Fiction",
+    "Comedy"
+   ],
+   "imdb_id": null,
+   "popularity": 0.7413,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/thick-skin-2026/",
+   "plot": "A group of wannabe influencers discovers that one of their \"friends\" has an unusual talent",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    4607864,
+    5374497,
+    4607864,
+    6558988,
+    6558989
+   ],
+   "recs": [
+    44801,
+    994133,
+    1410,
+    1359227,
+    507244,
+    11379,
+    932420,
+    26509,
+    32568,
+    141867,
+    1729723,
+    11561
+   ]
+  },
+  {
+   "tmdb_id": 1796487,
+   "title": "Unseen: The Aberfan Portraits",
+   "release_date": "2026-10-19",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/hGxpTWXh4y04cWa5tFk1PhrZLob.jpg",
+   "runtime": 15,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.7715,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/unseen-the-aberfan-portraits/",
+   "plot": "Following the Aberfan disaster in 1966, an artist from Llandudno embarked on an extraordinary mission to paint portraits of most of the 116 children who lost their lives, using photographs and locks of hair provided by their grieving families.  For the first time, relatives share what these remarkable paintings have meant to them over the past six decades. Presented by the BBC’s Huw Thomas, he discovers how the portraits became enduring symbols of remembrance in a village touched by tragedy.",
+   "original_title": null,
+   "kw": [],
+   "people": [],
+   "recs": [
+    1400780,
+    20562,
+    322506,
+    1114590,
+    869250,
+    130824,
+    20553,
+    1461714,
+    20565,
+    645488,
+    1022256,
+    240629
+   ]
+  },
+  {
+   "tmdb_id": 1804839,
+   "title": "Language of the Wind",
+   "release_date": "2026-10-30",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/lu53GU0kbUThyOqfjmuJGdJbpd6.jpg",
+   "runtime": 84,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.7031,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/language-of-the-wind/",
+   "plot": "The story follows 16-year-old Shatu, who has spent her life tending cattle but secretly longs for city life. The day after her wedding to her traditional cousin Ardo (17), she finds a potential path to escape. As they lead their cattle to graze, the silence and tension between them build into a heavy confrontation of unspoken truths and life-altering decisions on the plains.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    4795660
+   ],
+   "recs": [
+    1015356,
+    1400780,
+    1723460,
+    1461714,
+    508003,
+    1059673,
+    450945,
+    130824,
+    322506,
+    603106,
+    446173,
+    20561
+   ]
+  },
+  {
+   "tmdb_id": 1801497,
+   "title": "Lost City",
+   "release_date": "2026-10-29",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/e3bNRxBjfdO4igPOcmD7tHc6PKA.jpg",
+   "runtime": 94,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "imdb_id": "tt44127752",
+   "popularity": 0.8744,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/lost-city-2026/",
+   "plot": "A boxer's life improves when he begins dating a woman, but her violent ex-boyfriend, a Limerick gangster, tracks her to Belfast and pulls the boxer into a perilous criminal world.",
+   "original_title": null,
+   "kw": [],
+   "people": [],
+   "recs": [
+    1155324,
+    31692,
+    721452,
+    19092,
+    190955,
+    848123,
+    492613,
+    16759,
+    758935,
+    1020662,
+    846433,
+    974453
+   ]
+  },
+  {
+   "tmdb_id": 1791595,
+   "title": "Dreamscape",
+   "release_date": "2026-10-10",
+   "year": "2026",
+   "poster": null,
+   "runtime": 8,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.7732,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/dreamscape-2026-2/",
+   "plot": "Dreamscape is a quest on the weight of times we never imagined would become our reality. In the quiet hours of sleep, when our defenses soften, buried emotions rise to the surface, often more vivid than waking life. For those shaped by migration and marked by generational trauma, dreams become both a refuge and a mirror. This film explores how the unconscious mind reflects collective and personal struggle. It journeys through the inner worlds we create to survive, to heal, and to simply endure whether that's building coping mechanisms through faith, art, somatics or activism.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    4238229
+   ],
+   "recs": [
+    322506,
+    1015356,
+    1461714,
+    508003,
+    1400780,
+    34015,
+    20553,
+    130824,
+    1059673,
+    1723460,
+    631344,
+    20561
    ]
   },
   {
@@ -7852,7 +8327,7 @@
    "runtime": 82,
    "genres": [],
    "imdb_id": "tt43704166",
-   "popularity": 0.7269,
+   "popularity": 0.7767,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7876,12 +8351,221 @@
     3469,
     428493,
     11415,
-    12547,
     330483,
     25095,
+    12547,
     43103,
     16642,
     553
+   ]
+  },
+  {
+   "tmdb_id": 1792099,
+   "title": "Ukraine Ghost Ship",
+   "release_date": "2026-10-12",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/A0I7vmUon7bHCXxlvbihFt3bgGz.jpg",
+   "runtime": 72,
+   "genres": [],
+   "imdb_id": null,
+   "popularity": 0.8256,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/ukraine-ghost-ship/",
+   "plot": "When Russian forces bombed a giant hydroelectric dam on Ukraine’s mighty Dnipro River in June 2023, farmland flooded, homes were destroyed and over 50 people lost their lives. Upriver, as waters drained, ancient ships’ timbers were uncovered on the newly exposed beach. Now, a Ukrainian archaeologist Dmitro Kobaliaa has assembled an international team to recover these remains, to reveal the story of a vast Russian military flotilla sent to conquer land around the Black Sea coast. It’s a battle still raging today. As fighter jets shoot overhead, Dmitro’s discoveries reveal a history of Ukraine before Russian rule, a history the Russians are trying to destroy, but one Dmitro is desperate to preserve.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    3890631
+   ],
+   "recs": [
+    1715492,
+    1400789,
+    390253,
+    12311,
+    8665,
+    37068,
+    166426,
+    374720,
+    516486,
+    246080,
+    42737,
+    23928
+   ]
+  },
+  {
+   "tmdb_id": 1791598,
+   "title": "Mucker",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": null,
+   "runtime": null,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.621,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/mucker/",
+   "plot": "Mucker provides a fascinating insight into the professional and personal life of the pioneering and award winning British documentary film maker Brian Moser.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    6534727
+   ],
+   "recs": [
+    1400780,
+    1059673,
+    193645,
+    1461714,
+    1723460,
+    20553,
+    20562,
+    87981,
+    130824,
+    508003,
+    450945,
+    869250
+   ]
+  },
+  {
+   "tmdb_id": 1804846,
+   "title": "Punk Brighton",
+   "release_date": "2026-10-28",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/mtzx9ATlvs1gvFQMHNd5Y1a7qbR.jpg",
+   "runtime": 90,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.6733,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/punk-brighton/",
+   "plot": "The documentary utilizes 15 years of interviews, live performance archives, and animation to capture the city's fierce DIY music scene. Rather than focusing solely on the music, it explores how the communal movement tackled broader political and social issues, including confronting fascism, rocking against racism, and rallying the community to save the Brighton & Hove Albion Football Club.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    5517704
+   ],
+   "recs": [
+    21710,
+    1022256,
+    1447853,
+    20562,
+    617773,
+    20553,
+    557646,
+    446173,
+    668800,
+    20561,
+    1059673,
+    574638
+   ]
+  },
+  {
+   "tmdb_id": 1798931,
+   "title": "The Static",
+   "release_date": "2026-10-22",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/wCvemoNzPH4jI020l4XZXr26bie.jpg",
+   "runtime": 3,
+   "genres": [
+    "Horror",
+    "Drama",
+    "Thriller"
+   ],
+   "imdb_id": null,
+   "popularity": 0.7595,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-static-2026/",
+   "plot": "A disturbed teenager finds herself questioning reality.",
+   "original_title": null,
+   "kw": [
+    263548,
+    385224
+   ],
+   "people": [
+    6093522,
+    6553199,
+    6186114
+   ],
+   "recs": [
+    132137,
+    395458,
+    48129,
+    333674,
+    782936,
+    339849,
+    681986,
+    1659087,
+    391262,
+    1387382,
+    846956,
+    848123
+   ]
+  },
+  {
+   "tmdb_id": 1637977,
+   "title": "The World Came Flooding In",
+   "release_date": "2026-10-07",
+   "year": "2026",
+   "poster": null,
+   "runtime": 25,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": "tt37675896",
+   "popularity": 0.778,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-world-came-flooding-in/",
+   "plot": "The World Came Flooding In is an immersive VR documentary reconstructing memories of the eastern Australia floods in 2022, which is representative of similar events that happened recently in various parts of the world.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    2265242,
+    2502509,
+    6016724,
+    6016726,
+    6016733
+   ],
+   "recs": [
+    1059673,
+    94623,
+    1723460,
+    508003,
+    193645,
+    557646,
+    936643,
+    1400780,
+    41480,
+    20553,
+    1214667,
+    603106
    ]
   },
   {
@@ -7893,7 +8577,7 @@
    "runtime": 7,
    "genres": [],
    "imdb_id": null,
-   "popularity": 0.704,
+   "popularity": 0.6177,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7924,44 +8608,6 @@
    ]
   },
   {
-   "tmdb_id": 1438857,
-   "title": "Secrets of the Southwest: Science Behind the Secrets",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/k53VC3sCmhQ9aaeDiPWP5iHvwvS.jpg",
-   "runtime": 30,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.7941,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/secrets-of-the-southwest-science-behind-the/",
-   "plot": "Meet the inspiring individuals and communities who work to protect our most beloved UK wildlife.",
-   "original_title": null,
-   "kw": [],
-   "people": [],
-   "recs": [
-    322506,
-    446173,
-    450945,
-    557646,
-    603106,
-    869250,
-    293262,
-    979163,
-    352197,
-    940075,
-    39333,
-    101267
-   ]
-  },
-  {
    "tmdb_id": 1785138,
    "title": "DEQ",
    "release_date": "2026-09-29",
@@ -7976,7 +8622,7 @@
     "Music"
    ],
    "imdb_id": "tt47660989",
-   "popularity": 0.6983,
+   "popularity": 0.7636,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -7997,187 +8643,18 @@
     6269385
    ],
    "recs": [
-    597965,
     617773,
     346401,
+    597965,
     1515899,
-    896633,
     507256,
     1447853,
-    355600,
-    229296,
+    896633,
     44825,
-    101267,
-    1642859
-   ]
-  },
-  {
-   "tmdb_id": 1637977,
-   "title": "The World Came Flooding In",
-   "release_date": "2026-10-07",
-   "year": "2026",
-   "poster": null,
-   "runtime": 25,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": "tt37675896",
-   "popularity": 0.7052,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-world-came-flooding-in/",
-   "plot": "The World Came Flooding In is an immersive VR documentary reconstructing memories of the eastern Australia floods in 2022, which is representative of similar events that happened recently in various parts of the world.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    2265242,
-    2502509,
-    6016724,
-    6016726,
-    6016733
-   ],
-   "recs": [
-    1059673,
-    94623,
-    1723460,
-    193645,
-    508003,
-    41480,
-    557646,
-    936643,
-    1400780,
-    21925,
-    20553,
-    1462146
-   ]
-  },
-  {
-   "tmdb_id": 1801058,
-   "title": "Thick Skin",
-   "release_date": "2026-10-26",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/h2iprXM65fJPtp1TnzepfGevl9c.jpg",
-   "runtime": 7,
-   "genres": [
-    "Science Fiction",
-    "Comedy"
-   ],
-   "imdb_id": null,
-   "popularity": 0.7925,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/thick-skin-2026/",
-   "plot": "A group of wannabe influencers discovers that one of their \"friends\" has an unusual talent",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    4607864,
-    5374497,
-    4607864,
-    6558988,
-    6558989
-   ],
-   "recs": [
-    44801,
-    994133,
-    1410,
-    1359227,
-    507244,
-    11379,
-    932420,
-    26509,
-    32568,
-    1729723,
-    11561,
-    11244
-   ]
-  },
-  {
-   "tmdb_id": 1801497,
-   "title": "Lost City",
-   "release_date": "2026-10-29",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/e3bNRxBjfdO4igPOcmD7tHc6PKA.jpg",
-   "runtime": 94,
-   "genres": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "imdb_id": "tt44127752",
-   "popularity": 0.7728,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/lost-city-2026/",
-   "plot": "A boxer's life improves when he begins dating a woman, but her violent ex-boyfriend, a Limerick gangster, tracks her to Belfast and pulls the boxer into a perilous criminal world.",
-   "original_title": null,
-   "kw": [],
-   "people": [],
-   "recs": [
-    31692,
-    1155324,
-    721452,
-    19092,
-    190955,
-    848123,
-    492613,
-    16759,
-    1020662,
-    758935,
-    846433,
-    1024627
-   ]
-  },
-  {
-   "tmdb_id": 1791598,
-   "title": "Mucker",
-   "release_date": "2026-10-09",
-   "year": "2026",
-   "poster": null,
-   "runtime": null,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.7215,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/mucker/",
-   "plot": "Mucker provides a fascinating insight into the professional and personal life of the pioneering and award winning British documentary film maker Brian Moser.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6534727
-   ],
-   "recs": [
-    1400780,
-    193645,
-    1059673,
-    1461714,
-    1723460,
-    20553,
-    130824,
-    87981,
-    450945,
-    20562,
-    508003,
-    41480
+    169760,
+    229296,
+    1642859,
+    30586
    ]
   },
   {
@@ -8191,7 +8668,7 @@
     "Drama"
    ],
    "imdb_id": null,
-   "popularity": 0.6881,
+   "popularity": 0.6315,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -8208,247 +8685,18 @@
     1375591
    ],
    "recs": [
-    565348,
     545237,
+    565348,
     642546,
     692989,
     413452,
     520390,
-    586032,
     35030,
     82040,
     15568,
+    586032,
     113294,
     550958
-   ]
-  },
-  {
-   "tmdb_id": 1791595,
-   "title": "Dreamscape",
-   "release_date": "2026-10-10",
-   "year": "2026",
-   "poster": null,
-   "runtime": 8,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.7273,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/dreamscape-2026-2/",
-   "plot": "Dreamscape is a quest on the weight of times we never imagined would become our reality. In the quiet hours of sleep, when our defenses soften, buried emotions rise to the surface, often more vivid than waking life. For those shaped by migration and marked by generational trauma, dreams become both a refuge and a mirror. This film explores how the unconscious mind reflects collective and personal struggle. It journeys through the inner worlds we create to survive, to heal, and to simply endure whether that's building coping mechanisms through faith, art, somatics or activism.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    4238229
-   ],
-   "recs": [
-    322506,
-    1015356,
-    1461714,
-    631344,
-    508003,
-    1400780,
-    130824,
-    1059673,
-    20553,
-    1723460,
-    20561,
-    1853
-   ]
-  },
-  {
-   "tmdb_id": 1771633,
-   "title": "I AM FINE, THANK YOU",
-   "release_date": "2026-10-03",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/rq4Vt8N73ULSzFWtZLe9oxOl22u.jpg",
-   "runtime": null,
-   "genres": [],
-   "imdb_id": null,
-   "popularity": 0.6482,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/i-am-fine-thank-you/",
-   "plot": null,
-   "original_title": null,
-   "kw": [],
-   "people": [
-    2517790,
-    6482171
-   ],
-   "recs": []
-  },
-  {
-   "tmdb_id": 1712449,
-   "title": "Bermuda Riots Are Different",
-   "release_date": "2026-10-16",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/cVLb2U5P3mpXyxPp51sHn7huFc8.jpg",
-   "runtime": 6,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.6704,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/bermuda-riots-are-different/",
-   "plot": "An examination of a decade of race riots between 1968 and 1977, alongside a triangle of colonial influences: Bermuda, Great Britain, and the USA.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6278251
-   ],
-   "recs": [
-    20562,
-    1723460,
-    20553,
-    508003,
-    557646,
-    38868,
-    20561,
-    94623,
-    1461714,
-    543803,
-    603106,
-    446173
-   ]
-  },
-  {
-   "tmdb_id": 1506696,
-   "title": "Duckweed",
-   "release_date": "2026-10-16",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/v8AximEWzXRJtMppWAgYCTCrjnP.jpg",
-   "runtime": 74,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.6594,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/duckweed-2026/",
-   "plot": "Obscure, aging, and living on the outskirts of London, writer of supernatural fiction Quentin Crisp asks himself a fundamental existential question: ‘Who am I?' This feature-length film-essay is structured around readings of Crisp’s own zuihitsu of the same name, which, in essence, is the story of his life. As we follow Crisp on a walk deeper into the ‘‘little wood’’ of his private landscape, the binaries of success and failure begin to fade away.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    5340224,
-    5543429
-   ],
-   "recs": [
-    508003,
-    1461714,
-    450945,
-    603106,
-    1400780,
-    1015356,
-    130824,
-    94623,
-    446173,
-    20561,
-    1114590,
-    41480
-   ]
-  },
-  {
-   "tmdb_id": 1783427,
-   "title": "The Country Gentlewoman",
-   "release_date": "2026-10-02",
-   "year": "2026",
-   "poster": null,
-   "runtime": 20,
-   "genres": [],
-   "imdb_id": "tt44034828",
-   "popularity": 0.5639,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/the-country-gentlewoman/",
-   "plot": "A Georgian era inspired short film that brings you the best of festive entertaining. Join Arabella and Margaret as they navigate the complexities of tricky ex-partners, the art of hosting, and perfect wine pairings.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6513186
-   ],
-   "recs": [
-    1581,
-    1028938,
-    1323475,
-    563710,
-    1001811,
-    79218,
-    550035,
-    39507,
-    556678,
-    146304,
-    734265,
-    865559
-   ]
-  },
-  {
-   "tmdb_id": 1799614,
-   "title": "S K 8",
-   "release_date": "2026-10-17",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/zqYVNdI8jYrm67f2geiY2uKObzi.jpg",
-   "runtime": 8,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.607,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/s-k-8/",
-   "plot": "Four Skaters Skate",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6500612,
-    6555186,
-    6555187,
-    6556821,
-    6556822
-   ],
-   "recs": [
-    240629,
-    1461714,
-    1400780,
-    1723460,
-    557646,
-    94623,
-    322506,
-    1059673,
-    20562,
-    603106,
-    645488,
-    475013
    ]
   },
   {
@@ -8462,7 +8710,7 @@
     "Documentary"
    ],
    "imdb_id": "tt41483672",
-   "popularity": 0.6825,
+   "popularity": 0.7351,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -8489,16 +8737,248 @@
    "recs": [
     39333,
     130824,
-    15325,
-    651724,
-    474433,
     11779,
-    979163,
+    15325,
     869250,
     1400780,
-    940075,
+    474433,
+    979163,
     20561,
-    1461714
+    20565,
+    20562,
+    940075
+   ]
+  },
+  {
+   "tmdb_id": 1712449,
+   "title": "Bermuda Riots Are Different",
+   "release_date": "2026-10-16",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/cVLb2U5P3mpXyxPp51sHn7huFc8.jpg",
+   "runtime": 6,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.6275,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/bermuda-riots-are-different/",
+   "plot": "An examination of a decade of race riots between 1968 and 1977, alongside a triangle of colonial influences: Bermuda, Great Britain, and the USA.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    6278251
+   ],
+   "recs": [
+    20562,
+    1723460,
+    20553,
+    508003,
+    38868,
+    557646,
+    20561,
+    1461714,
+    94623,
+    543803,
+    603106,
+    473415
+   ]
+  },
+  {
+   "tmdb_id": 1769897,
+   "title": "Transformation",
+   "release_date": "2026-10-12",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/2YZrePkKPyWFQC7KP969riTVZAl.jpg",
+   "runtime": null,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.6201,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/transformation-2026/",
+   "plot": "A feature-length documentary exploring the profound inner metamorphosis of Ukrainian civilians from the creative sector who chose to enlist as soldiers to defend their country. The film maps the deep psychological and lifestyle shifts experienced by musicians, artists, and filmmakers as they stepped away from civilian art to enter the realities of war.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    2590760
+   ],
+   "recs": [
+    1400789,
+    20562,
+    1114590,
+    72680,
+    34015,
+    322506,
+    1400780,
+    94623,
+    446173,
+    20561,
+    450945,
+    1059673
+   ]
+  },
+  {
+   "tmdb_id": 1506696,
+   "title": "Duckweed",
+   "release_date": "2026-10-16",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/v8AximEWzXRJtMppWAgYCTCrjnP.jpg",
+   "runtime": 74,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.5866,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/duckweed-2026/",
+   "plot": "Obscure, aging, and living on the outskirts of London, writer of supernatural fiction Quentin Crisp asks himself a fundamental existential question: ‘Who am I?' This feature-length film-essay is structured around readings of Crisp’s own zuihitsu of the same name, which, in essence, is the story of his life. As we follow Crisp on a walk deeper into the ‘‘little wood’’ of his private landscape, the binaries of success and failure begin to fade away.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    5340224,
+    5543429
+   ],
+   "recs": [
+    508003,
+    1461714,
+    1400780,
+    603106,
+    450945,
+    1015356,
+    130824,
+    20561,
+    94623,
+    72680,
+    465871,
+    1114590
+   ]
+  },
+  {
+   "tmdb_id": 1771633,
+   "title": "I AM FINE, THANK YOU",
+   "release_date": "2026-10-03",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/rq4Vt8N73ULSzFWtZLe9oxOl22u.jpg",
+   "runtime": null,
+   "genres": [],
+   "imdb_id": null,
+   "popularity": 0.6124,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/i-am-fine-thank-you/",
+   "plot": null,
+   "original_title": null,
+   "kw": [],
+   "people": [
+    2517790,
+    6482171
+   ],
+   "recs": []
+  },
+  {
+   "tmdb_id": 1475044,
+   "title": "Forget-me-not",
+   "release_date": "2026-10-31",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/A5oupBnv26V6qQ1uyJ6m7rUP6Fp.jpg",
+   "runtime": 8,
+   "genres": [
+    "Horror",
+    "Drama",
+    "Mystery"
+   ],
+   "imdb_id": null,
+   "popularity": 0.6883,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/forget-me-not-2026/",
+   "plot": "Dean Carter's mind unravels while deciphering the mystery behind the disappearance of his fiancé.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    5238583,
+    5414153,
+    5414160
+   ],
+   "recs": [
+    302528,
+    33195,
+    25208,
+    782936,
+    1364953,
+    51245,
+    65650,
+    71373,
+    25504,
+    1339206,
+    513268,
+    741755
+   ]
+  },
+  {
+   "tmdb_id": 1804814,
+   "title": "Portraits of Slovak and Czech Britain",
+   "release_date": "2026-11-04",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/lY8h6IHtFyHD1dbFfejdPzHhfNo.jpg",
+   "runtime": 52,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.6025,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/portraits-of-slovak-and-czech-britain/",
+   "plot": "Transitioning from a photographic exhibition to film, this documentary captures multi-generational stories of Slovak and Czech migrants building lives and finding belonging in Britain. It highlights individuals who have impacted modern British society through personal archives and intimate conversations.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    6569066,
+    6569068
+   ],
+   "recs": [
+    20562,
+    508003,
+    1461714,
+    20553,
+    1114590,
+    1400780,
+    94623,
+    20561,
+    21710,
+    1059673,
+    240629,
+    446173
    ]
   },
   {
@@ -8512,7 +8992,7 @@
     "Drama"
    ],
    "imdb_id": null,
-   "popularity": 0.6284,
+   "popularity": 0.6244,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -8531,12 +9011,12 @@
     82040,
     545237,
     1435092,
-    339145,
-    29989,
     127373,
-    586032,
-    13793,
-    550958
+    29989,
+    339145,
+    550958,
+    552532,
+    13793
    ]
   },
   {
@@ -8550,7 +9030,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.621,
+   "popularity": 0.5822,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -8590,7 +9070,7 @@
     "Drama"
    ],
    "imdb_id": null,
-   "popularity": 0.6072,
+   "popularity": 0.5652,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -8608,55 +9088,99 @@
     35030,
     20857,
     34025,
-    537617,
-    565341,
     846956,
-    28932,
+    565341,
     552532,
     9763,
-    545237,
+    28932,
     9815,
+    545237,
+    537617,
     421658
    ]
   },
   {
-   "tmdb_id": 1793047,
-   "title": "Perfect Imperfection",
-   "release_date": "2026-10-09",
+   "tmdb_id": 1799614,
+   "title": "S K 8",
+   "release_date": "2026-10-17",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/irMiXkWuo7W0WirCKGdCxZqBttC.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/zqYVNdI8jYrm67f2geiY2uKObzi.jpg",
    "runtime": 8,
    "genres": [
-    "Drama"
+    "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.5472,
+   "popularity": 0.5644,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/perfect-imperfection-2026/",
-   "plot": "A conversation between a uni-bound student and his mentor. Exploring themes of voice and vulnerability.",
+   "letterboxd_url": "https://letterboxd.com/film/s-k-8/",
+   "plot": "Four Skaters Skate",
    "original_title": null,
    "kw": [],
    "people": [
-    6537961
+    6500612,
+    6555186,
+    6555187,
+    6556821,
+    6556822
    ],
    "recs": [
-    113294,
-    35030,
-    184341,
-    1212271,
-    127373,
-    48129,
-    545237,
-    846956,
-    339145,
-    544415,
-    41240,
-    669666
+    1461714,
+    240629,
+    1723460,
+    1400780,
+    557646,
+    322506,
+    1059673,
+    94623,
+    653723,
+    20562,
+    603106,
+    645488
+   ]
+  },
+  {
+   "tmdb_id": 1793057,
+   "title": "Celebrating Tchaikovski",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/gW9eHfsyzPcntisXvVQwpq1Pn5I.jpg",
+   "runtime": null,
+   "genres": [
+    "Comedy"
+   ],
+   "imdb_id": "tt39440520",
+   "popularity": 0.5888,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/celebrating-tchaikovski/",
+   "plot": "When an impatient female driver's determination to get past a refuse truck threatens the safety of two bin men who disarm their bully with their own infectious and delightful interpretation of art.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    2465667
+   ],
+   "recs": [
+    1398050,
+    404022,
+    40024,
+    462108,
+    582570,
+    135908,
+    580846,
+    6393,
+    429801,
+    1215439,
+    1151334,
+    336736
    ]
   },
   {
@@ -8670,7 +9194,7 @@
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.5859,
+   "popularity": 0.6288,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -8685,56 +9209,16 @@
    "recs": [
     39333,
     557646,
-    446173,
+    1461714,
     322506,
     116167,
-    979163,
-    352197,
-    603106,
-    21925,
-    57586,
     627133,
-    631344
-   ]
-  },
-  {
-   "tmdb_id": 1803442,
-   "title": "Test 1",
-   "release_date": "2026-10-21",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/xPRSMahqfoSbtGjBlkszRIH53PW.jpg",
-   "runtime": 1,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.5308,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/test-1-2026/",
-   "plot": "Experimental film by Musa.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6565809
-   ],
-   "recs": [
-    645488,
-    87981,
-    508003,
-    130824,
-    1723460,
-    94623,
+    603106,
+    979163,
     446173,
-    322506,
-    21710,
-    585240,
-    1059673,
-    193645
+    352197,
+    447829,
+    57586
    ]
   },
   {
@@ -8748,7 +9232,7 @@
     "Thriller"
    ],
    "imdb_id": "tt44919770",
-   "popularity": 0.568,
+   "popularity": 0.935,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -8777,12 +9261,50 @@
     338676,
     514847,
     931642,
-    58626,
     1387382,
+    58626,
     1093995,
-    1371151,
     1094319,
-    13460
+    1371151,
+    993867
+   ]
+  },
+  {
+   "tmdb_id": 1783427,
+   "title": "The Country Gentlewoman",
+   "release_date": "2026-10-02",
+   "year": "2026",
+   "poster": null,
+   "runtime": 20,
+   "genres": [],
+   "imdb_id": "tt44034828",
+   "popularity": 0.5055,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/the-country-gentlewoman/",
+   "plot": "A Georgian era inspired short film that brings you the best of festive entertaining. Join Arabella and Margaret as they navigate the complexities of tricky ex-partners, the art of hosting, and perfect wine pairings.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    6513186
+   ],
+   "recs": [
+    1028938,
+    1581,
+    1323475,
+    563710,
+    550035,
+    1001811,
+    79218,
+    39507,
+    146304,
+    556678,
+    734265,
+    865559
    ]
   },
   {
@@ -8794,7 +9316,7 @@
    "runtime": 9,
    "genres": [],
    "imdb_id": null,
-   "popularity": 0.5623,
+   "popularity": 0.5691,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -8812,15 +9334,95 @@
     664035,
     42034,
     40205,
-    500284,
     11236,
     13531,
+    500284,
     9449,
     896536,
     9613,
     42188,
     1241921,
-    22292
+    592984
+   ]
+  },
+  {
+   "tmdb_id": 1793047,
+   "title": "Perfect Imperfection",
+   "release_date": "2026-10-09",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/irMiXkWuo7W0WirCKGdCxZqBttC.jpg",
+   "runtime": 8,
+   "genres": [
+    "Drama"
+   ],
+   "imdb_id": null,
+   "popularity": 0.5186,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/perfect-imperfection-2026/",
+   "plot": "A conversation between a uni-bound student and his mentor. Exploring themes of voice and vulnerability.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    6537961
+   ],
+   "recs": [
+    35030,
+    113294,
+    184341,
+    127373,
+    1212271,
+    48129,
+    846956,
+    545237,
+    41240,
+    669666,
+    82040,
+    9815
+   ]
+  },
+  {
+   "tmdb_id": 1803442,
+   "title": "Test 1",
+   "release_date": "2026-10-21",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w342/xPRSMahqfoSbtGjBlkszRIH53PW.jpg",
+   "runtime": 1,
+   "genres": [
+    "Documentary"
+   ],
+   "imdb_id": null,
+   "popularity": 0.571,
+   "tmdb": null,
+   "imdb": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metacritic": null,
+   "letterboxd": null,
+   "letterboxd_url": "https://letterboxd.com/film/test-1-2026/",
+   "plot": "Experimental film by Musa.",
+   "original_title": null,
+   "kw": [],
+   "people": [
+    6565809
+   ],
+   "recs": [
+    645488,
+    87981,
+    508003,
+    1723460,
+    130824,
+    94623,
+    322506,
+    1059673,
+    21710,
+    193645,
+    39333,
+    293262
    ]
   },
   {
@@ -8832,7 +9434,7 @@
    "runtime": 7,
    "genres": [],
    "imdb_id": null,
-   "popularity": 0.5238,
+   "popularity": 0.5174,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
@@ -8852,231 +9454,60 @@
     109418,
     1032892,
     72105,
-    24554,
     1895,
+    24554,
     353577,
     646453,
     354857,
-    11834,
-    31587
+    10606,
+    11834
    ]
   },
   {
-   "tmdb_id": 1767006,
-   "title": "Dùthchas: Our Underwater Forests",
-   "release_date": "2026-09-29",
+   "tmdb_id": 1807273,
+   "title": "Beura",
+   "release_date": "2026-10-14",
    "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/fmDkDJlUirOq6Ugib331032EjaV.jpg",
-   "runtime": null,
-   "genres": [
-    "Animation",
-    "Documentary"
-   ],
-   "imdb_id": null,
-   "popularity": 0.4931,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/duthchas-our-underwater-forests/",
-   "plot": "An animated documentary exploring the parallel loss of marine biodiversity and Gaelic culture and language in Scotland. Six interviews with researchers and practitioners,explore marine ecosystems, capitalism, and rewilding alongside a fully animated visual story. The hand-painted animation is based on underwater sketches, giving it a dreamlike yet accurate look.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6477707
-   ],
-   "recs": [
-    836919,
-    1236419,
-    979163,
-    167502,
-    51863,
-    801058,
-    417198,
-    668800,
-    21710,
-    24348,
-    446173,
-    1400780
-   ]
-  },
-  {
-   "tmdb_id": 1745204,
-   "title": "Acerola",
-   "release_date": "2026-10-17",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/zoYLKO4skDkRqQiWxD2Zn3gankN.jpg",
-   "runtime": null,
-   "genres": [
-    "Animation",
-    "Drama"
-   ],
-   "imdb_id": "tt43751970",
-   "popularity": 0.5213,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/acerola/",
-   "plot": null,
-   "original_title": null,
-   "kw": [
-    255632,
-    322890,
-    353501,
-    364351,
-    365325,
-    375298,
-    379565
-   ],
-   "people": [
-    6396349,
-    6396335,
-    6396340,
-    6396343,
-    6396347
-   ],
-   "recs": [
-    130593,
-    1398283,
-    14906,
-    36800,
-    13757,
-    554594,
-    64956,
-    850818,
-    1093349,
-    831827,
-    228326,
-    23566
-   ]
-  },
-  {
-   "tmdb_id": 1632136,
-   "title": "SYNTHETICA",
-   "release_date": "2026-10-22",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/iKYMIeezQaN1JV8qmeyxrtN2gB1.jpg",
-   "runtime": 25,
-   "genres": [
-    "Science Fiction"
-   ],
-   "imdb_id": null,
-   "popularity": 0.47,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/synthetica/",
-   "plot": "Ada, a retired hacker living quietly as an art curator, discovers an illegal neural implant in their head after experiencing dangerous memory glitches. When an underground surgeon can't safely remove it, Ada is forced to accept one last job: infiltrate the corporation that created the device. As the mission unfolds, Ada must confront the truth about their forgotten past and the real purpose of the technology buried in their mind.",
-   "original_title": null,
-   "kw": [
-    207268,
-    281358
-   ],
-   "people": [
-    5996832
-   ],
-   "recs": [
-    733317,
-    932420,
-    31867,
-    78,
-    1001835,
-    198184,
-    937249,
-    2666,
-    599396,
-    1143128,
-    500664,
-    4965
-   ]
-  },
-  {
-   "tmdb_id": 1804839,
-   "title": "Language of the Wind",
-   "release_date": "2026-10-30",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/lu53GU0kbUThyOqfjmuJGdJbpd6.jpg",
-   "runtime": 84,
+   "poster": null,
+   "runtime": 15,
    "genres": [
     "Documentary"
    ],
    "imdb_id": null,
-   "popularity": 0.7802,
+   "popularity": 0.5252,
    "tmdb": null,
    "imdb": null,
    "imdb_votes": null,
    "rt": null,
    "metacritic": null,
    "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/language-of-the-wind/",
-   "plot": "The story follows 16-year-old Shatu, who has spent her life tending cattle but secretly longs for city life. The day after her wedding to her traditional cousin Ardo (17), she finds a potential path to escape. As they lead their cattle to graze, the silence and tension between them build into a heavy confrontation of unspoken truths and life-altering decisions on the plains.",
+   "letterboxd_url": "https://letterboxd.com/film/beura/",
+   "plot": "The tale of the Cailleach Bheur, the Celtic goddess of nature, storms and winter, is well known to many in the Gàidhealtachd. Said to have carved the mountains and glens with ice, and borne the islands like children on her back, the Cailleach disappeared long ago leaving us only with her song – a sad, cautionary tale. This Gaelic arts project brings music, film and verse together to reimagine Cailleach’s story for the modern era.",
    "original_title": null,
-   "kw": [],
+   "kw": [
+    1442,
+    388,
+    496,
+    2035,
+    3694,
+    271054
+   ],
    "people": [
-    4795660
+    4813264
    ],
    "recs": [
-    1015356,
+    645488,
     1400780,
-    1723460,
-    1461714,
-    508003,
-    446173,
-    69480,
-    130824,
-    450945,
-    1059673,
-    1114590,
-    603106
-   ]
-  },
-  {
-   "tmdb_id": 1716382,
-   "title": "Creatures",
-   "release_date": "2026-09-24",
-   "year": "2026",
-   "poster": "https://image.tmdb.org/t/p/w342/4Z6LoKZrys2gnDvobI4QMp5Cigy.jpg",
-   "runtime": 12,
-   "genres": [
-    "Documentary"
-   ],
-   "imdb_id": "tt43135953",
-   "popularity": 0.4745,
-   "tmdb": null,
-   "imdb": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metacritic": null,
-   "letterboxd": null,
-   "letterboxd_url": "https://letterboxd.com/film/creatures-2026/",
-   "plot": "In Amsterdam, a queer Polish tattoo artist creates creatures that become part of other people's bodies. Through fandoms, online communities, and kindred spirits, we explore the world surrounding the artist, Pazur Mazur.",
-   "original_title": null,
-   "kw": [],
-   "people": [
-    6292868,
-    6292866
-   ],
-   "recs": [
-    1059673,
-    936643,
-    193645,
-    1171861,
-    240629,
     352197,
-    787923,
-    961722,
-    1214667,
-    176238,
-    346401,
-    376534
+    1461714,
+    20565,
+    1400789,
+    1015356,
+    455479,
+    1515899,
+    1853,
+    1564,
+    11314
    ]
   }
  ]
